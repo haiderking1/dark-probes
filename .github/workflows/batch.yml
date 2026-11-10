@@ -27,7 +27,7 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: img
-          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', '.github/workflows/image.yml') }}
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', 'image/extras.txt', '.github/workflows/image.yml') }}
           fail-on-cache-miss: true
       - name: run probes
         run: |

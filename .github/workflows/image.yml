@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
       - name: kvm and tools
@@ -23,7 +23,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: img
-          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', '.github/workflows/image.yml') }}
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', 'image/extras.txt', '.github/workflows/image.yml') }}
       - name: download the iso
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
@@ -34,6 +34,28 @@ jobs:
           size=$(stat -c %s win.iso); echo "size $size"
           [ "$size" = 5060020224 ] || { echo "short download"; exit 1; }
           sha256sum win.iso
+      - name: download the extras
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          # room for the update next to the iso and the disk
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache /usr/local/share/boost
+          df -h .
+          # what the reference machine has besides windows: microsoft's own
+          # installers, each checked against the hash of the copy it ran
+          mkdir -p extras/updates extras/dotnet
+          echo 'dark probe image extras' > extras/extras.txt
+          while read name hash url; do
+            curl -sfL --retry 5 -o extras/$name "$url" || { echo "can't get $name"; exit 1; }
+            case $name in
+              *.msu) got=$(sha1sum extras/$name | cut -c1-40) ;;
+              *) got=$(sha256sum extras/$name | cut -c1-64) ;;
+            esac
+            [ "$got" = "$hash" ] || { echo "$name is $got, not $hash"; exit 1; }
+            echo "$name ok $(stat -c %s extras/$name)"
+          done < image/extras.txt
+          genisoimage -quiet -udf -allow-limited-size -J -r -o extras.iso extras
+          rm -rf extras
+          df -h .
       - name: install windows
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
@@ -50,22 +72,23 @@ jobs:
             -drive if=pflash,format=raw,file=img/vars.fd \
             -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
             -device ahci,id=ahci \
-            -drive file=img/win.qcow2,if=none,id=disk0 -device ide-hd,drive=disk0,bus=ahci.0,bootindex=2 \
+            -drive file=img/win.qcow2,if=none,id=disk0,discard=unmap,detect-zeroes=unmap -device ide-hd,drive=disk0,bus=ahci.0,bootindex=2 \
             -drive file=win.iso,media=cdrom,if=none,id=cd0 -device ide-cd,drive=cd0,bus=ahci.1,bootindex=1 \
             -drive file=answer.iso,media=cdrom,if=none,id=cd1 -device ide-cd,drive=cd1,bus=ahci.2 \
+            -drive file=extras.iso,media=cdrom,if=none,id=cd2 -device ide-cd,drive=cd2,bus=ahci.3 \
             -netdev user,id=n0 -device e1000e,netdev=n0 \
             -audiodev none,id=snd0 -device ich9-intel-hda -device hda-duplex,audiodev=snd0 \
             -vga std -display none -monitor unix:mon.sock,server,nowait &
           QEMU=$!
           # the cd's "press any key to boot" prompt
           for i in $(seq 1 30); do echo "sendkey spc" | timeout 1 socat - UNIX-CONNECT:mon.sock > /dev/null 2>&1 || true; sleep 1; done &
-          # setup powers off at the end of the first logon
-          end=$((SECONDS + 9000))
+          # setup powers off after its third logon (update, .NET update, check)
+          end=$((SECONDS + 17400))
           while kill -0 $QEMU 2>/dev/null; do
             [ $SECONDS -lt $end ] || { echo "install took too long"; kill $QEMU; exit 1; }
             sleep 30; echo "installing... $((SECONDS / 60)) min, disk $(du -h img/win.qcow2 | cut -f1)"
           done
-          qemu-img convert -O qcow2 img/win.qcow2 img/win2.qcow2 && mv img/win2.qcow2 img/win.qcow2
+          qemu-img convert -c -O qcow2 img/win.qcow2 img/win2.qcow2 && mv img/win2.qcow2 img/win.qcow2
           du -h img/*
       - name: smoke run
         run: |
@@ -85,4 +108,5 @@ jobs:
             sleep 10
           done
           head -5 smoke.out
+          rm -f extras.iso win.iso
           python3 image/winrun.py 7778 img/token 60000 smoke-e.out probes/ref_crypttime/ref_crypttime.exe

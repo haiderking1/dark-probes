@@ -42,6 +42,7 @@
   </settings>
   <settings pass="specialize">
     <component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+      <ComputerName>DESKTOP-T49PAS6</ComputerName>
       <TimeZone>Pacific Standard Time</TimeZone>
     </component>
   </settings>
