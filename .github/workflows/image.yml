@@ -27,8 +27,13 @@ jobs:
       - name: download the iso
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
-          curl -sL -o win.iso 'https://go.microsoft.com/fwlink/?linkid=2270353&clcid=0x409&culture=en-us&country=us'
-          echo "8abf91c9cd408368dc73aab3425d5e3c02dae74900742072eb5c750fc637c195  win.iso" | sha256sum -c -
+          url=$(curl -sIL -o /dev/null -w '%{url_effective}' 'https://go.microsoft.com/fwlink/?linkid=2270353&clcid=0x409&culture=en-us&country=us')
+          echo "$url"
+          case "$url" in https://software-static.download.prss.microsoft.com/*) ;; *) echo "not microsoft's server"; exit 1 ;; esac
+          curl -sfL --retry 5 -o win.iso "$url"
+          size=$(stat -c %s win.iso); echo "size $size"
+          [ "$size" = 5060020224 ] || { echo "short download"; exit 1; }
+          sha256sum win.iso
       - name: install windows
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
