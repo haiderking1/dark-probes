@@ -1,0 +1,81 @@
+name: image
+# the probe image: windows 11 IoT enterprise LTSC (microsoft's evaluation
+# ISO) installed unattended in KVM with the probe runner, kept in this
+# repo's private actions cache; a smoke run checks the runner answers
+on:
+  push:
+    paths: [.github/workflows/image.yml, image/**]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - name: kvm and tools
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm.rules
+          sudo udevadm control --reload-rules && sudo udevadm trigger --name-match=kvm
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq qemu-system-x86 qemu-utils ovmf swtpm genisoimage socat zstd > /dev/null
+      - name: cached image
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: img
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**') }}
+      - name: download the iso
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          curl -sL -o win.iso 'https://go.microsoft.com/fwlink/?linkid=2270353&clcid=0x409&culture=en-us&country=us'
+          echo "8abf91c9cd408368dc73aab3425d5e3c02dae74900742072eb5c750fc637c195  win.iso" | sha256sum -c -
+      - name: install windows
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p img
+          head -c 32 /dev/urandom > img/token
+          cp img/token image/answer/token
+          genisoimage -quiet -J -r -o answer.iso image/answer
+          qemu-img create -f qcow2 img/win.qcow2 64G
+          cp /usr/share/OVMF/OVMF_VARS_4M.fd img/vars.fd
+          mkdir -p img/tpm
+          swtpm socket --tpmstate dir=img/tpm --ctrl type=unixio,path=tpm.sock --tpm2 --daemon
+          qemu-system-x86_64 -accel kvm -machine q35 -cpu host -smp 4 -m 8192 \
+            -drive if=pflash,format=raw,readonly=on,file=/usr/share/OVMF/OVMF_CODE_4M.fd \
+            -drive if=pflash,format=raw,file=img/vars.fd \
+            -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
+            -device ahci,id=ahci \
+            -drive file=img/win.qcow2,if=none,id=disk0 -device ide-hd,drive=disk0,bus=ahci.0,bootindex=2 \
+            -drive file=win.iso,media=cdrom,if=none,id=cd0 -device ide-cd,drive=cd0,bus=ahci.1,bootindex=1 \
+            -drive file=answer.iso,media=cdrom,if=none,id=cd1 -device ide-cd,drive=cd1,bus=ahci.2 \
+            -netdev user,id=n0 -device e1000e,netdev=n0 \
+            -vga std -display none -monitor unix:mon.sock,server,nowait &
+          QEMU=$!
+          # the cd's "press any key to boot" prompt
+          for i in $(seq 1 30); do echo "sendkey spc" | timeout 1 socat - UNIX-CONNECT:mon.sock > /dev/null 2>&1 || true; sleep 1; done &
+          # setup powers off at the end of the first logon
+          end=$((SECONDS + 9000))
+          while kill -0 $QEMU 2>/dev/null; do
+            [ $SECONDS -lt $end ] || { echo "install took too long"; kill $QEMU; exit 1; }
+            sleep 30; echo "installing... $((SECONDS / 60)) min, disk $(du -h img/win.qcow2 | cut -f1)"
+          done
+          qemu-img convert -O qcow2 img/win.qcow2 img/win2.qcow2 && mv img/win2.qcow2 img/win.qcow2
+          du -h img/*
+      - name: smoke run
+        run: |
+          swtpm socket --tpmstate dir=img/tpm --ctrl type=unixio,path=tpm.sock --tpm2 --daemon
+          cp img/vars.fd vars-run.fd
+          qemu-system-x86_64 -accel kvm -machine q35 -cpu host -smp 4 -m 8192 \
+            -drive if=pflash,format=raw,readonly=on,file=/usr/share/OVMF/OVMF_CODE_4M.fd \
+            -drive if=pflash,format=raw,file=vars-run.fd \
+            -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
+            -device ahci,id=ahci -drive file=img/win.qcow2,if=none,id=disk0,snapshot=on -device ide-hd,drive=disk0,bus=ahci.0 \
+            -netdev user,id=n0,hostfwd=tcp:127.0.0.1:7777-:7777,hostfwd=tcp:127.0.0.1:7778-:7778 -device e1000e,netdev=n0 \
+            -vga std -display none &
+          end=$((SECONDS + 900))
+          until python3 image/winrun.py 7777 img/token 60000 smoke.out probes/ref_crypttime/ref_crypttime.exe 2>/dev/null; do
+            [ $SECONDS -lt $end ] || { echo "runner never answered"; exit 1; }
+            sleep 10
+          done
+          head -5 smoke.out
+          python3 image/winrun.py 7778 img/token 60000 smoke-e.out probes/ref_crypttime/ref_crypttime.exe
