@@ -4,12 +4,13 @@ on:
   workflow_dispatch:
 jobs:
   run:
-    runs-on: windows-2025
+    runs-on: ${{ matrix.os }}
     timeout-minutes: 120
     strategy:
       fail-fast: false
       matrix:
-        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        os: [windows-11-arm]
     steps:
       - uses: actions/checkout@v4
       - name: run probes
@@ -17,17 +18,19 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force out | Out-Null
           $all = Get-ChildItem probes -Directory | Sort-Object Name
+          $skip = Get-Content desktop.txt
           for ($i = 0; $i -lt $all.Count; $i++) {
-            if ($i % 20 -ne ${{ matrix.shard }}) { continue }
+            if ($i % 10 -ne ${{ matrix.shard }}) { continue }
             $name = $all[$i].Name
+            if ($skip -contains $name) { continue }
             $work = Join-Path $env:RUNNER_TEMP $name
             Copy-Item $all[$i].FullName $work -Recurse
             $p = Start-Process -FilePath (Join-Path $work "$name.exe") -WorkingDirectory $work -NoNewWindow -PassThru `
                  -RedirectStandardOutput "out/$name.out" -RedirectStandardError "out/$name.err"
-            if (-not $p.WaitForExit(240000)) { try { $p.Kill($true) } catch {} ; "$name timeout" | Add-Content out/codes.txt }
+            if (-not $p.WaitForExit(60000)) { try { $p.Kill($true) } catch {} ; "$name timeout" | Add-Content out/codes.txt }
             else { "$name $($p.ExitCode)" | Add-Content out/codes.txt }
           }
       - uses: actions/upload-artifact@v4
         with:
-          name: outputs-${{ matrix.shard }}
+          name: outputs-${{ matrix.os }}-${{ matrix.shard }}
           path: out
