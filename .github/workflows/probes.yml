@@ -5,31 +5,29 @@ on:
 jobs:
   run:
     runs-on: windows-2025
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
     steps:
       - uses: actions/checkout@v4
-      - name: os
-        shell: pwsh
-        run: |
-          [System.Environment]::OSVersion.Version | Out-File os.txt
-          (Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion').UBR | Out-File -Append os.txt
-          Get-Content os.txt
       - name: run probes
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force out | Out-Null
-          Get-ChildItem probes -Filter *.exe | ForEach-Object {
-            $name = $_.BaseName
+          $all = Get-ChildItem probes -Directory | Sort-Object Name
+          for ($i = 0; $i -lt $all.Count; $i++) {
+            if ($i % 20 -ne ${{ matrix.shard }}) { continue }
+            $name = $all[$i].Name
             $work = Join-Path $env:RUNNER_TEMP $name
-            New-Item -ItemType Directory -Force $work | Out-Null
-            Copy-Item $_.FullName $work
-            $p = Start-Process -FilePath (Join-Path $work $_.Name) -WorkingDirectory $work -NoNewWindow -PassThru `
+            Copy-Item $all[$i].FullName $work -Recurse
+            $p = Start-Process -FilePath (Join-Path $work "$name.exe") -WorkingDirectory $work -NoNewWindow -PassThru `
                  -RedirectStandardOutput "out/$name.out" -RedirectStandardError "out/$name.err"
-            if (-not $p.WaitForExit(300000)) { $p.Kill(); "$name timeout" | Add-Content out/codes.txt }
+            if (-not $p.WaitForExit(240000)) { try { $p.Kill($true) } catch {} ; "$name timeout" | Add-Content out/codes.txt }
             else { "$name $($p.ExitCode)" | Add-Content out/codes.txt }
           }
-          Get-Content out/codes.txt
-          Copy-Item os.txt out/
       - uses: actions/upload-artifact@v4
         with:
-          name: outputs
+          name: outputs-${{ matrix.shard }}
           path: out
