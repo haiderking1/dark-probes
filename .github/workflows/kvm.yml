@@ -1,0 +1,27 @@
+name: kvm
+on:
+  push:
+    paths: [.github/workflows/kvm.yml]
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: cpu and kvm
+        run: |
+          nproc; free -g | head -2; df -h / | tail -1
+          grep -o -m1 -E 'vmx|svm' /proc/cpuinfo || echo "no vmx/svm flag"
+          ls -la /dev/kvm || echo "no /dev/kvm"
+      - name: allow kvm
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm.rules
+          sudo udevadm control --reload-rules && sudo udevadm trigger --name-match=kvm || true
+          ls -la /dev/kvm || true
+      - name: boot a tiny guest with kvm
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq qemu-system-x86 > /dev/null
+          timeout 20 qemu-system-x86_64 -accel kvm -m 256 -nographic -no-reboot -serial none -monitor none -display none -S &
+          sleep 5
+          if kill -0 $! 2>/dev/null; then echo "KVM GUEST RUNNING"; else echo "qemu exited (no kvm?)"; fi
+          wait || true
+          timeout 10 qemu-system-x86_64 -accel kvm -m 64 -display none -no-reboot -monitor none -serial none -S 2>&1 | head -3 || true
