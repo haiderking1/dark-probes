@@ -1,10 +1,10 @@
 name: batch
 # every probe on the cached windows 11 image, 20 runners at once: each boots
 # the image (changes thrown away) and runs its share through the probe
-# runner as the standard user (7777) and elevated (7778)
+# runner as the standard user (7777); elevated (7778) only when that answer
+# isn't the reference machine's (refs.sha256). a runner that stops answering
+# gets the image booted again
 on:
-  push:
-    paths: [.github/workflows/batch.yml, probes/**]
   workflow_dispatch:
 jobs:
   run:
@@ -28,36 +28,54 @@ jobs:
           path: img
           key: win11-ltsc-26100-${{ hashFiles('image/answer/**') }}
           fail-on-cache-miss: true
-      - name: boot
-        run: |
-          swtpm socket --tpmstate dir=img/tpm --ctrl type=unixio,path=tpm.sock --tpm2 --daemon
-          cp img/vars.fd vars-run.fd
-          qemu-system-x86_64 -accel kvm -machine q35 -cpu host -smp 4 -m 8192 \
-            -drive if=pflash,format=raw,readonly=on,file=/usr/share/OVMF/OVMF_CODE_4M.fd \
-            -drive if=pflash,format=raw,file=vars-run.fd \
-            -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
-            -device ahci,id=ahci -drive file=img/win.qcow2,if=none,id=disk0,snapshot=on -device ide-hd,drive=disk0,bus=ahci.0 \
-            -netdev user,id=n0,hostfwd=tcp:127.0.0.1:7777-:7777,hostfwd=tcp:127.0.0.1:7778-:7778 -device e1000e,netdev=n0 \
-            -vga std -display none &
-          end=$((SECONDS + 900))
-          until python3 image/winrun.py 7777 img/token 60000 warm.out probes/ref_crypttime/ref_crypttime.exe > /dev/null 2>&1; do
-            [ $SECONDS -lt $end ] || { echo "runner never answered"; exit 1; }
-            sleep 5
-          done
-          echo "runner up after $SECONDS s"
       - name: run probes
         run: |
+          boot () {
+            if [ -n "$QEMU" ]; then
+              kill $QEMU $TPM 2>/dev/null || true
+              wait $QEMU 2>/dev/null || true
+            fi
+            rm -f tpm.sock
+            swtpm socket --tpmstate dir=img/tpm --ctrl type=unixio,path=tpm.sock --tpm2 --pid file=tpm.pid --daemon
+            TPM=$(cat tpm.pid)
+            cp img/vars.fd vars-run.fd
+            qemu-system-x86_64 -accel kvm -machine q35 -cpu host -smp 4 -m 8192 \
+              -drive if=pflash,format=raw,readonly=on,file=/usr/share/OVMF/OVMF_CODE_4M.fd \
+              -drive if=pflash,format=raw,file=vars-run.fd \
+              -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
+              -device ahci,id=ahci -drive file=img/win.qcow2,if=none,id=disk0,snapshot=on -device ide-hd,drive=disk0,bus=ahci.0 \
+              -netdev user,id=n0,hostfwd=tcp:127.0.0.1:7777-:7777,hostfwd=tcp:127.0.0.1:7778-:7778 -device e1000e,netdev=n0 \
+              -vga std -display none &
+            QEMU=$!
+            up 900 || { echo "runner never answered"; exit 1; }
+            echo "runner up at $SECONDS s"
+          }
+          # up SECS: the runner answers both ports within SECS
+          up () {
+            local end=$((SECONDS + $1))
+            until python3 image/winrun.py 7777 img/token 60000 warm.out probes/ref_crypttime/ref_crypttime.exe > /dev/null 2>&1 &&
+                  python3 image/winrun.py 7778 img/token 60000 warm.out probes/ref_crypttime/ref_crypttime.exe > /dev/null 2>&1; do
+              [ $SECONDS -lt $end ] || return 1
+              sleep 5
+            done
+          }
+          # probe NAME DIR PORT SUFFIX
+          probe () {
+            local extra=$(ls $2 | awk -v n="$1.exe" -v d="$2" '$0 != n { print d $0 }')
+            echo "== $1$4" >> out/errors.txt
+            timeout 200 python3 image/winrun.py $3 img/token 120000 out/$1$4.out $2$1.exe $extra >> out/codes$4.txt 2>> out/errors.txt \
+              || { echo "$1 failed" >> out/codes$4.txt; up 60 || { echo "runner gone after $1$4, booting again"; boot; }; }
+          }
           mkdir -p out
+          boot
           i=0
           for dir in $(ls -d probes/*/ | sort); do
             name=$(basename $dir)
             if [ $((i % 20)) -eq ${{ matrix.shard }} ]; then
-              extra=$(ls $dir | awk -v n="$name.exe" -v d="$dir" '$0 != n { print d $0 }')
-              for port in 7777 7778; do
-                suffix=$([ $port = 7778 ] && echo .e || true)
-                timeout 200 python3 image/winrun.py $port img/token 120000 out/$name$suffix.out $dir$name.exe $extra >> out/codes$suffix.txt 2>> out/errors.txt \
-                  || echo "$name failed" >> out/codes$suffix.txt
-              done
+              probe $name $dir 7777 ""
+              want=$(awk -v n=$name '$2 == n { print $1 }' refs.sha256)
+              got=$(tr -d '\r' < out/$name.out 2>/dev/null | sha256sum | cut -c1-64 || true)
+              [ "$want" = "$got" ] || probe $name $dir 7778 .e
             fi
             i=$((i + 1))
           done

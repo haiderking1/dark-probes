@@ -29,7 +29,8 @@ if read_all(s, 4) != b'DWR1':
 code, late, n = struct.unpack('<III', read_all(s, 12))
 stdout = read_all(s, n)
 (n,) = struct.unpack('<I', read_all(s, 4))
-read_all(s, n)
+err = read_all(s, n)
+sys.stderr.buffer.write(err)
 open(out, 'wb').write(stdout)
 name = os.path.splitext(os.path.basename(exe))[0]
 print(f'{name} {"timeout" if late else code}')

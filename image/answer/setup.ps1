@@ -17,6 +17,9 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting" /v Disabled /t
 reg add "HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting" /v DontShowUI /t REG_DWORD /d 1 /f | Out-Null
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /v AllowDevelopmentWithoutDevLicense /t REG_DWORD /d 1 /f | Out-Null
 Set-Service wuauserv -StartupType Manual
+# defender kept fresh unsigned probes from starting: leave the runner's folder alone
+Add-MpPreference -ExclusionPath 'C:\dark'
+Set-MpPreference -SubmitSamplesConsent 2 -MAPSReporting 0
 powercfg /change standby-timeout-ac 0
 powercfg /change monitor-timeout-ac 0
 powercfg /change hibernate-timeout-ac 0
