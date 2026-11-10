@@ -26,7 +26,7 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: img
-          key: win11-ltsc-26100-${{ hashFiles('image/answer/**') }}
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', '.github/workflows/image.yml') }}
           fail-on-cache-miss: true
       - name: run probes
         run: |
@@ -45,7 +45,8 @@ jobs:
               -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
               -device ahci,id=ahci -drive file=img/win.qcow2,if=none,id=disk0,snapshot=on -device ide-hd,drive=disk0,bus=ahci.0 \
               -netdev user,id=n0,hostfwd=tcp:127.0.0.1:7777-:7777,hostfwd=tcp:127.0.0.1:7778-:7778 -device e1000e,netdev=n0 \
-              -vga std -display none &
+              -audiodev none,id=snd0 -device ich9-intel-hda -device hda-duplex,audiodev=snd0 \
+            -vga std -display none &
             QEMU=$!
             up 900 || { echo "runner never answered"; exit 1; }
             echo "runner up at $SECONDS s"

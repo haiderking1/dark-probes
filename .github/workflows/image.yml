@@ -23,7 +23,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: img
-          key: win11-ltsc-26100-${{ hashFiles('image/answer/**') }}
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', '.github/workflows/image.yml') }}
       - name: download the iso
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
@@ -54,6 +54,7 @@ jobs:
             -drive file=win.iso,media=cdrom,if=none,id=cd0 -device ide-cd,drive=cd0,bus=ahci.1,bootindex=1 \
             -drive file=answer.iso,media=cdrom,if=none,id=cd1 -device ide-cd,drive=cd1,bus=ahci.2 \
             -netdev user,id=n0 -device e1000e,netdev=n0 \
+            -audiodev none,id=snd0 -device ich9-intel-hda -device hda-duplex,audiodev=snd0 \
             -vga std -display none -monitor unix:mon.sock,server,nowait &
           QEMU=$!
           # the cd's "press any key to boot" prompt
@@ -76,6 +77,7 @@ jobs:
             -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
             -device ahci,id=ahci -drive file=img/win.qcow2,if=none,id=disk0,snapshot=on -device ide-hd,drive=disk0,bus=ahci.0 \
             -netdev user,id=n0,hostfwd=tcp:127.0.0.1:7777-:7777,hostfwd=tcp:127.0.0.1:7778-:7778 -device e1000e,netdev=n0 \
+            -audiodev none,id=snd0 -device ich9-intel-hda -device hda-duplex,audiodev=snd0 \
             -vga std -display none &
           end=$((SECONDS + 900))
           until python3 image/winrun.py 7777 img/token 60000 smoke.out probes/ref_crypttime/ref_crypttime.exe 2>/dev/null; do
