@@ -1,0 +1,2 @@
+ref_wowkeys 7777 120000
+ref_wowkeys32 7777 120000
