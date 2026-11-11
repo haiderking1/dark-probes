@@ -2,7 +2,7 @@ name: warm
 # a warm runner: windows boots once and stays up for hours, taking the wjob-*
 # branches tools/cloudrun.sh pushes as they come (warm/warm.sh) and pushing
 # their outputs back as done-* branches, so a capture answers in seconds
-# instead of a boot. it stops by itself after 45 minutes with nothing to do
+# instead of a boot. it stops by itself after 3 hours with nothing to do
 on:
   workflow_dispatch:
 permissions:
@@ -51,6 +51,6 @@ jobs:
           fail-on-cache-miss: true
       - name: serve
         env:
-          IDLE: 2700
+          IDLE: 10800
           HOURS_SECONDS: 20400
         run: bash warm/warm.sh
