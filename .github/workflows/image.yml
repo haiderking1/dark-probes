@@ -80,27 +80,26 @@ jobs:
             -audiodev none,id=snd0 -device ich9-intel-hda -device hda-duplex,audiodev=snd0 \
             -vga std -display none -monitor unix:mon.sock,server,nowait &
           QEMU=$!
+          echo $QEMU > qemu.pid
           # the cd's "press any key to boot" prompt
           for i in $(seq 1 30); do echo "sendkey spc" | timeout 1 socat - UNIX-CONNECT:mon.sock > /dev/null 2>&1 || true; sleep 1; done &
           # setup powers off after its third logon (update, .NET update, check);
           # the screen goes in shots/ every minute
           mkdir -p shots
-          end=$((SECONDS + 17400))
+          end=$((SECONDS + 12000))
           while kill -0 $QEMU 2>/dev/null; do
             [ $SECONDS -lt $end ] || { echo "install took too long"; kill $QEMU; sleep 5; exit 1; }
             sleep 30
             [ $((SECONDS / 30 % 2)) = 0 ] && echo "screendump shots/$(printf %04d $((SECONDS / 60))).png -f png" | timeout 5 socat - UNIX-CONNECT:mon.sock > /dev/null 2>&1 || true
-            size=$(du -m img/win.qcow2 | cut -f1)
-            echo "installing... $((SECONDS / 60)) min, disk $size MB"
-            # a disk that hasn't moved in 25 minutes is a setup waiting on nothing
-            [ "$size" = "$last" ] || { last=$size; moved=$SECONDS; }
-            [ $((SECONDS - moved)) -lt 1500 ] || { echo "stuck: the disk hasn't changed in 25 minutes"; kill $QEMU; sleep 5; exit 1; }
+            echo "installing... $((SECONDS / 60)) min, disk $(du -m img/win.qcow2 | cut -f1) MB"
           done
           qemu-img convert -c -O qcow2 img/win.qcow2 img/win2.qcow2 && mv img/win2.qcow2 img/win.qcow2
           du -h img/*
       - name: setup log
         if: always() && steps.cache.outputs.cache-hit != 'true'
         run: |
+          # a canceled install leaves its qemu running: stop that one first
+          [ -f qemu.pid ] && kill $(cat qemu.pid) 2>/dev/null && sleep 5 || true
           sudo modprobe nbd max_part=8
           sudo qemu-nbd --read-only -c /dev/nbd0 img/win.qcow2 && sleep 2
           sudo mkdir -p /mnt/win

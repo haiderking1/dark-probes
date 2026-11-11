@@ -1,15 +1,15 @@
 # the probe image's setup, in three logons: the runner, the reference
 # machine's settings, runtimes and the october update (KB5127648 on its
 # checkpoint), then the .NET update, then a check and power off so the build
-# can save the disk. $src is the answer disc, the extras disc holds the
-# installers (extras.txt marks it)
-param([string]$src)
+# can save the disk. The answer disc (the runner's files) and the extras
+# disc (the installers, extras.txt marks it) are found by what's on them
 $ErrorActionPreference = 'Continue'
 $run = 'C:\dark\run'
 $state = 'C:\dark\setup'
 New-Item -ItemType Directory -Force $run, $state | Out-Null
 $log = "$state\setup.log"
 function say ($text) { "$(Get-Date -Format s) $text" | Out-File -Append $log }
+$src = (Get-Volume | Where-Object { $_.DriveLetter -and (Test-Path ($_.DriveLetter + ':\winrund.exe')) } | Select-Object -First 1).DriveLetter + ':\'
 $extras = (Get-Volume | Where-Object { $_.DriveLetter -and (Test-Path ($_.DriveLetter + ':\extras.txt')) } | Select-Object -First 1).DriveLetter + ':\'
 $stage = if (Test-Path "$state\stage") { [int](Get-Content "$state\stage") } else { 0 }
 say "stage $stage, answer $src, extras $extras"
@@ -54,7 +54,10 @@ if ($stage -eq 0) {
   $p = Start-Process -Wait -PassThru dism.exe -ArgumentList '/online', '/add-package', "/packagepath:$($extras)updates", '/quiet', '/norestart'
   say "update $($p.ExitCode)"
   '1' | Out-File "$state\stage"
-  schtasks /create /f /tn darksetup /tr "powershell -NoProfile -ExecutionPolicy Bypass -File $state\setup.ps1 $src" /sc onlogon /ru soka /it /rl highest | Out-Null
+  # the next stages at the next logons (no path argument: a quoted one
+  # ending in a backslash breaks the task's command line)
+  schtasks /create /f /tn darksetup /tr "powershell -NoProfile -ExecutionPolicy Bypass -File $state\setup.ps1" /sc onlogon /ru soka /it /rl highest | Out-Null
+  say "next stage task $LASTEXITCODE"
   Restart-Computer -Force
 } elseif ($stage -eq 1) {
   $p = Start-Process -Wait -PassThru dism.exe -ArgumentList '/online', '/add-package', "/packagepath:$($extras)dotnet", '/quiet', '/norestart'

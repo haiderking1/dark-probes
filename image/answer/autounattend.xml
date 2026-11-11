@@ -79,7 +79,7 @@
       <FirstLogonCommands>
         <SynchronousCommand wcm:action="add">
           <Order>1</Order>
-          <CommandLine>powershell -NoProfile -ExecutionPolicy Bypass -Command "$d = (Get-Volume | Where-Object { Test-Path ($_.DriveLetter + ':\setup.ps1') } | Select-Object -First 1).DriveLetter; &amp; ($d + ':\setup.ps1') ($d + ':\')"</CommandLine>
+          <CommandLine>powershell -NoProfile -ExecutionPolicy Bypass -Command "$d = (Get-Volume | Where-Object { Test-Path ($_.DriveLetter + ':\setup.ps1') } | Select-Object -First 1).DriveLetter; &amp; ($d + ':\setup.ps1')"</CommandLine>
           <Description>dark probe runner setup</Description>
         </SynchronousCommand>
       </FirstLogonCommands>
