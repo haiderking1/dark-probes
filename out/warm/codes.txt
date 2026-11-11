@@ -1,0 +1,2 @@
+ref_wowkeys 42
+ref_wowkeys32 42
