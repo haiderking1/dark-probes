@@ -1,0 +1,56 @@
+name: warm
+# a warm runner: windows boots once and stays up for hours, taking the job-*
+# branches tools/cloudrun.sh pushes as they come (warm/warm.sh) and pushing
+# their outputs back as done-* branches, so a capture answers in seconds
+# instead of a boot. it stops by itself after 45 minutes with nothing to do
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  serve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - name: qemu's packages
+        id: debs
+        uses: actions/cache/restore@v4
+        with:
+          path: debs
+          key: qemu-debs-${{ runner.os }}-v1
+      - name: kvm and tools
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm.rules
+          sudo udevadm control --reload-rules && sudo udevadm trigger --name-match=kvm
+          # from the cache when it has them: no ubuntu servers in the way
+          if [ "${{ steps.debs.outputs.cache-hit }}" = true ] && sudo dpkg -i debs/*.deb > /dev/null; then
+            exit 0
+          fi
+          # the runners' own dns drops out now and then: public resolvers then
+          if ! getent hosts security.ubuntu.com > /dev/null; then
+            echo "the runner's dns can't find ubuntu: public resolvers"
+            sudo rm -f /etc/resolv.conf
+            printf 'nameserver 1.1.1.1\nnameserver 8.8.8.8\n' | sudo tee /etc/resolv.conf > /dev/null
+            getent hosts security.ubuntu.com || true
+          fi
+          # and fail in minutes, not hang
+          for try in 1 2 3; do
+            timeout 120 sudo apt-get update -qq -o Acquire::Retries=2 -o Acquire::http::Timeout=20 &&
+              timeout 300 sudo apt-get install -y -qq -o APT::Keep-Downloaded-Packages=true -o Acquire::Retries=2 -o Acquire::http::Timeout=20 qemu-system-x86 qemu-utils ovmf swtpm > /dev/null && break
+            [ $try -lt 3 ] || { echo "no packages: the runner's network is down"; exit 1; }
+            sleep 20
+          done
+      - name: the image
+        uses: actions/cache/restore@v4
+        with:
+          path: img
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', 'image/extras.txt', '.github/workflows/image.yml') }}
+          # the newest image while a changed one is still being built
+          restore-keys: win11-ltsc-26100-
+          fail-on-cache-miss: true
+      - name: serve
+        env:
+          IDLE: 2700
+          HOURS_SECONDS: 20400
+        run: bash warm/warm.sh
