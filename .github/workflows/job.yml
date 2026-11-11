@@ -1,0 +1,85 @@
+name: job
+# an agent's captures: tools/cloudrun.sh in dark pushes a job-* branch with
+# job/list.txt ("name port deadline-ms" a line) and job/<name>/ (the program
+# first, then its files), and runs this on it: each shard boots the cached
+# image (changes thrown away) and runs its share of the lines
+on:
+  workflow_dispatch:
+    inputs:
+      shards:
+        description: shard numbers, a json array
+        required: true
+        default: '[0]'
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(inputs.shards) }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: kvm and tools
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm.rules
+          sudo udevadm control --reload-rules && sudo udevadm trigger --name-match=kvm
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq qemu-system-x86 qemu-utils ovmf swtpm > /dev/null
+      - name: the image
+        uses: actions/cache/restore@v4
+        with:
+          path: img
+          key: win11-ltsc-26100-${{ hashFiles('image/answer/**', 'image/extras.txt', '.github/workflows/image.yml') }}
+          fail-on-cache-miss: true
+      - name: run
+        run: |
+          boot () {
+            if [ -n "$QEMU" ]; then
+              kill $QEMU $TPM 2>/dev/null || true
+              wait $QEMU 2>/dev/null || true
+            fi
+            rm -f tpm.sock
+            swtpm socket --tpmstate dir=img/tpm --ctrl type=unixio,path=tpm.sock --tpm2 --pid file=tpm.pid --daemon
+            TPM=$(cat tpm.pid)
+            cp img/vars.fd vars-run.fd
+            qemu-system-x86_64 -accel kvm -machine q35 -cpu host -smp 4 -m 8192 \
+              -drive if=pflash,format=raw,readonly=on,file=/usr/share/OVMF/OVMF_CODE_4M.fd \
+              -drive if=pflash,format=raw,file=vars-run.fd \
+              -chardev socket,id=chrtpm,path=tpm.sock -tpmdev emulator,id=tpm0,chardev=chrtpm -device tpm-tis,tpmdev=tpm0 \
+              -device ahci,id=ahci -drive file=img/win.qcow2,if=none,id=disk0,snapshot=on -device ide-hd,drive=disk0,bus=ahci.0 \
+              -netdev user,id=n0,hostfwd=tcp:127.0.0.1:7777-:7777,hostfwd=tcp:127.0.0.1:7778-:7778 -device e1000e,netdev=n0 \
+              -audiodev none,id=snd0 -device ich9-intel-hda -device hda-duplex,audiodev=snd0 \
+              -vga std -display none &
+            QEMU=$!
+            up 900 || { echo "runner never answered"; exit 1; }
+            echo "runner up at $SECONDS s"
+          }
+          up () {
+            local end=$((SECONDS + $1))
+            until python3 image/winrun.py 7777 img/token 60000 warm.out probes/ref_crypttime/ref_crypttime.exe > /dev/null 2>&1 &&
+                  python3 image/winrun.py 7778 img/token 60000 warm.out probes/ref_crypttime/ref_crypttime.exe > /dev/null 2>&1; do
+              [ $SECONDS -lt $end ] || return 1
+              sleep 5
+            done
+          }
+          mkdir -p out
+          shards=$(echo '${{ inputs.shards }}' | python3 -c 'import json,sys; print(len(json.load(sys.stdin)))')
+          boot
+          i=0
+          while read -r name port deadline; do
+            if [ $((i % shards)) -eq ${{ matrix.shard }} ]; then
+              files=$(sed -n 's|^|job/'"$name"'/|p' job/$name/order.txt)
+              suffix=$([ $port = 7778 ] && echo .e || true)
+              echo "== $name$suffix" >> out/errors.txt
+              timeout $((deadline / 1000 + 60)) python3 image/winrun.py $port img/token $deadline out/$name$suffix.out $files >> out/codes.txt 2>> out/errors.txt \
+                || { echo "$name$suffix failed" >> out/codes.txt; up 60 || { echo "runner gone after $name, booting again"; boot; }; }
+            fi
+            i=$((i + 1))
+          done < job/list.txt
+          cat out/codes.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: job-${{ matrix.shard }}
+          path: out
