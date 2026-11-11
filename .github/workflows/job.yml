@@ -33,6 +33,8 @@ jobs:
         with:
           path: img
           key: win11-ltsc-26100-${{ hashFiles('image/answer/**', 'image/extras.txt', '.github/workflows/image.yml') }}
+          # the newest image while a changed one is still being built
+          restore-keys: win11-ltsc-26100-
           fail-on-cache-miss: true
       - name: run
         env:

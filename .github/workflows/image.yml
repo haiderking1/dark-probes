@@ -6,8 +6,6 @@ on:
   push:
     paths: [.github/workflows/image.yml, image/**]
   workflow_dispatch:
-permissions:
-  contents: read
 jobs:
   build:
     runs-on: ubuntu-latest
