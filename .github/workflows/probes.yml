@@ -1,6 +1,8 @@
 name: probes
 on:
   workflow_dispatch:
+permissions:
+  contents: read
 jobs:
   run:
     runs-on: ${{ matrix.os }}
