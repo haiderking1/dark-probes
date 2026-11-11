@@ -33,7 +33,14 @@ jobs:
           if [ "${{ steps.debs.outputs.cache-hit }}" = true ] && sudo dpkg -i debs/*.deb > /dev/null; then
             exit 0
           fi
-          # the runners' dns drops out now and then: fail in minutes, not hang
+          # the runners' own dns drops out now and then: public resolvers then
+          if ! getent hosts security.ubuntu.com > /dev/null; then
+            echo "the runner's dns can't find ubuntu: public resolvers"
+            sudo rm -f /etc/resolv.conf
+            printf 'nameserver 1.1.1.1\nnameserver 8.8.8.8\n' | sudo tee /etc/resolv.conf > /dev/null
+            getent hosts security.ubuntu.com || true
+          fi
+          # and fail in minutes, not hang
           for try in 1 2 3; do
             timeout 120 sudo apt-get update -qq -o Acquire::Retries=2 -o Acquire::http::Timeout=20 &&
               timeout 300 sudo apt-get install -y -qq -o APT::Keep-Downloaded-Packages=true -o Acquire::Retries=2 -o Acquire::http::Timeout=20 qemu-system-x86 qemu-utils ovmf swtpm > /dev/null && break
