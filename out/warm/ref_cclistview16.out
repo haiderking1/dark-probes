@@ -1,0 +1,430 @@
+dblclk  1
+scene report b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report b repeats
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report be
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report bl then o
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x6c
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x6f
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report bb then o
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x6f
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report bb then b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report case
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x42
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x41
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report from focus
+  notify  -7
+  notify  -100  3  0x3  0x0  0x8
+  notify  -101  3  0x3  0x0  0x8
+    focus  3 sel  1 first  3 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+  notify  -163  0  0x26 "b"  -1
+  notify  -100  3  0x0  0x2  0x8
+  notify  -101  3  0x0  0x2  0x8
+  notify  -100  3  0x0  0x1  0x8
+  notify  -101  3  0x0  0x1  0x8
+  notify  -100  5  0x3  0x0  0x8
+  notify  -101  5  0x3  0x0  0x8
+    focus  5 sel  1 first  5 top  0 isearch  1  1 "b"  1 a"b"
+  notify  -8
+scene report from focus same
+  notify  -7
+  notify  -100  2  0x3  0x0  0x8
+  notify  -101  2  0x3  0x0  0x8
+    focus  2 sel  1 first  2 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+  notify  -163  0  0x26 "b"  -1
+  notify  -100  2  0x0  0x2  0x8
+  notify  -101  2  0x0  0x2  0x8
+  notify  -100  2  0x0  0x1  0x8
+  notify  -101  2  0x0  0x1  0x8
+  notify  -100  3  0x3  0x0  0x8
+  notify  -101  3  0x3  0x0  0x8
+    focus  3 sel  1 first  3 top  0 isearch  1  1 "b"  1 a"b"
+   char  0x65
+  notify  -163  0  0x26 "be"  -1
+  notify  -100  3  0x0  0x2  0x8
+  notify  -101  3  0x0  0x2  0x8
+  notify  -100  3  0x0  0x1  0x8
+  notify  -101  3  0x0  0x1  0x8
+  notify  -100  2  0x3  0x0  0x8
+  notify  -101  2  0x3  0x0  0x8
+    focus  2 sel  1 first  2 top  0 isearch  2  2 "be"  2 a"be"
+  notify  -8
+scene report none
+  notify  -7
+  notify  -100  2  0x3  0x0  0x8
+  notify  -101  2  0x3  0x0  0x8
+    focus  2 sel  1 first  2 top  0 isearch  0  0 "?"  0 a""
+   char  0x71
+  notify  -163  0  0x26 "q"  -1
+    focus  2 sel  1 first  2 top  0 isearch  1  1 "q"  1 a"q"
+  notify  -8
+scene report none then
+  notify  -7
+  notify  -100  2  0x3  0x0  0x8
+  notify  -101  2  0x3  0x0  0x8
+    focus  2 sel  1 first  2 top  0 isearch  0  0 "?"  0 a""
+   char  0x71
+  notify  -163  0  0x26 "q"  -1
+    focus  2 sel  1 first  2 top  0 isearch  1  1 "q"  1 a"q"
+   char  0x61
+  notify  -163  0  0x26 "qa"  -1
+    focus  2 sel  1 first  2 top  0 isearch  2  2 "qa"  2 a"qa"
+  notify  -8
+scene report partial miss
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x78
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report scroll
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x7a
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report upper z
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x5a
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x75
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report space
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x20
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x73
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report apple space
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x61
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x70
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x70
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x6c
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x20
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report item 1
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x69
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x74
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x6d
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x20
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x31
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report non ascii
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0xe4
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report control chars
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x8
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0xd
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x1b
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x9
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x7f
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report backspace
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x8
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report gap 300
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   wait  300
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report gap 700
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   wait  700
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report gap 1100
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   wait  1100
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report gap 1600
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   wait  1600
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report gap 2500
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   wait  2500
+   char  0x65
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene report gap b b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   wait  2500
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene icon b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene list b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene small b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene singlesel b
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene empty
+  notify  -161
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene one item
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x61
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x61
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene several
+  notify  -7
+  notify  -100  0  0x2  0x0  0x8
+  notify  -101  0  0x2  0x0  0x8
+  notify  -100  4  0x2  0x0  0x8
+  notify  -101  4  0x2  0x0  0x8
+  notify  -100  8  0x3  0x0  0x8
+  notify  -101  8  0x3  0x0  0x8
+    focus  8 sel  3 first  0 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+  notify  -163  0  0x26 "b"  -1
+  notify  -100  8  0x0  0x2  0x8
+  notify  -101  8  0x0  0x2  0x8
+  notify  -100  0  0x0  0x2  0x8
+  notify  -101  0  0x0  0x2  0x8
+  notify  -100  4  0x0  0x2  0x8
+  notify  -101  4  0x0  0x2  0x8
+  notify  -100  8  0x0  0x1  0x8
+  notify  -101  8  0x0  0x1  0x8
+  notify  -100  23  0x3  0x0  0x8
+  notify  -101  23  0x3  0x0  0x8
+    focus  23 sel  1 first  23 top  18 isearch  1  1 "b"  1 a"b"
+  notify  -8
+scene unfocused
+  notify  -7
+  notify  -8
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+scene answer 4
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene answer -2
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene owner data none
+  notify  -113
+  notify  -113
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene owner data 5
+  notify  -113
+  notify  -113
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x7a
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene owner data out of range
+  notify  -113
+  notify  -113
+  notify  -7
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+    focus  -1 sel  0 first  -1 top  0 isearch  0  0 "?"  0 a""
+  notify  -8
+scene owner data from focus
+  notify  -113
+  notify  -113
+  notify  -7
+  notify  -101  6  0x3  0x0  0x8
+    focus  6 sel  1 first  6 top  0 isearch  0  0 "?"  0 a""
+   char  0x62
+  notify  -163  0  0x26 "b"  -1
+  notify  -179  7  0x26 "b"  -1
+  notify  -113
+  notify  -113
+  notify  -101  -1  0x0  0x2  0x8
+  notify  -101  6  0x0  0x1  0x8
+  notify  -101  2  0x3  0x0  0x8
+  notify  -113
+    focus  2 sel  1 first  2 top  0 isearch  1  1 "b"  1 a"b"
+   wait  2500
+   char  0x62
+  notify  -163  0  0x26 "b"  -1
+  notify  -179  3  0x26 "b"  -1
+  notify  -113
+  notify  -113
+  notify  -101  -1  0x0  0x2  0x8
+  notify  -101  2  0x3  0x1  0x8
+  notify  -113
+    focus  2 sel  1 first  2 top  0 isearch  1  1 "b"  1 a"b"
+  notify  -8
