@@ -1,0 +1,746 @@
+grip  1  1  1
+  kkk
+  kws
+  wss
+grip  3  3  1
+  kkkkk
+  k..wk
+  k.wsk
+  kwssk
+  kkkkk
+grip  5  5  1
+  kkkkkkk
+  k.....k
+  k....wk
+  k...wsk
+  k..wssk
+  k.wsssk
+  kkkkkkk
+grip  8  8  1
+  kkkkkkkkkk
+  k........k
+  k........k
+  k.......wk
+  k......wsk
+  k.....wswk
+  k....wswsk
+  k...wswswk
+  k..wswswsk
+  kkkkkkkkkk
+grip  11  11  1
+  kkkkkkkkkkkkk
+  k...........k
+  k...........k
+  k..........wk
+  k.........wsk
+  k........ws.k
+  k.......ws.wk
+  k......ws.wsk
+  k.....ws.ws.k
+  k....ws.ws.wk
+  k...ws.ws.wsk
+  k..ws.ws.ws.k
+  kkkkkkkkkkkkk
+grip  13  13  1
+  kkkkkkkkkkkkkkk
+  k.............k
+  k.............k
+  k.............k
+  k.............k
+  k............wk
+  k...........wsk
+  k..........wssk
+  k.........wsswk
+  k........wsswsk
+  k.......wsswssk
+  k......wsswsswk
+  k.....wsswsswsk
+  k....wsswsswssk
+  kkkkkkkkkkkkkkk
+grip  15  15  1
+  kkkkkkkkkkkkkkkkk
+  k...............k
+  k...............k
+  k...............k
+  k..............wk
+  k.............wsk
+  k............wssk
+  k...........wss.k
+  k..........wss.wk
+  k.........wss.wsk
+  k........wss.wssk
+  k.......wss.wss.k
+  k......wss.wss.wk
+  k.....wss.wss.wsk
+  k....wss.wss.wssk
+  k...wss.wss.wss.k
+  kkkkkkkkkkkkkkkkk
+grip  16  16  1
+  kkkkkkkkkkkkkkkkkk
+  k................k
+  k................k
+  k................k
+  k................k
+  k...............wk
+  k..............wsk
+  k.............wssk
+  k............wss.k
+  k...........wss.wk
+  k..........wss.wsk
+  k.........wss.wssk
+  k........wss.wss.k
+  k.......wss.wss.wk
+  k......wss.wss.wsk
+  k.....wss.wss.wssk
+  k....wss.wss.wss.k
+  kkkkkkkkkkkkkkkkkk
+grip  17  17  1
+  kkkkkkkkkkkkkkkkkkk
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k................wk
+  k...............wsk
+  k..............wssk
+  k.............wss.k
+  k............wss.wk
+  k...........wss.wsk
+  k..........wss.wssk
+  k.........wss.wss.k
+  k........wss.wss.wk
+  k.......wss.wss.wsk
+  k......wss.wss.wssk
+  k.....wss.wss.wss.k
+  kkkkkkkkkkkkkkkkkkk
+grip  18  18  1
+  kkkkkkkkkkkkkkkkkkkk
+  k..................k
+  k..................k
+  k..................k
+  k..................k
+  k.................wk
+  k................wsk
+  k...............wssk
+  k..............wss.k
+  k.............wss..k
+  k............wss..wk
+  k...........wss..wsk
+  k..........wss..wssk
+  k.........wss..wss.k
+  k........wss..wss..k
+  k.......wss..wss..wk
+  k......wss..wss..wsk
+  k.....wss..wss..wssk
+  k....wss..wss..wss.k
+  kkkkkkkkkkkkkkkkkkkk
+grip  20  20  1
+  kkkkkkkkkkkkkkkkkkkkkk
+  k....................k
+  k....................k
+  k....................k
+  k....................k
+  k....................k
+  k...................wk
+  k..................wsk
+  k.................wssk
+  k................wsssk
+  k...............wsss.k
+  k..............wsss.wk
+  k.............wsss.wsk
+  k............wsss.wssk
+  k...........wsss.wsssk
+  k..........wsss.wsss.k
+  k.........wsss.wsss.wk
+  k........wsss.wsss.wsk
+  k.......wsss.wsss.wssk
+  k......wsss.wsss.wsssk
+  k.....wsss.wsss.wsss.k
+  kkkkkkkkkkkkkkkkkkkkkk
+grip  24  24  1
+  kkkkkkkkkkkkkkkkkkkkkkkkkk
+  k........................k
+  k........................k
+  k........................k
+  k........................k
+  k........................k
+  k.......................wk
+  k......................wwk
+  k.....................wwsk
+  k....................wwssk
+  k...................wwsssk
+  k..................wwsss.k
+  k.................wwsss.wk
+  k................wwsss.wwk
+  k...............wwsss.wwsk
+  k..............wwsss.wwssk
+  k.............wwsss.wwsssk
+  k............wwsss.wwsss.k
+  k...........wwsss.wwsss.wk
+  k..........wwsss.wwsss.wwk
+  k.........wwsss.wwsss.wwsk
+  k........wwsss.wwsss.wwssk
+  k.......wwsss.wwsss.wwsssk
+  k......wwsss.wwsss.wwsss.k
+  k.....wwsss.wwsss.wwsss..k
+  kkkkkkkkkkkkkkkkkkkkkkkkkk
+grip  30  30  1
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+  k..............................k
+  k..............................k
+  k..............................k
+  k..............................k
+  k..............................k
+  k..............................k
+  k.............................wk
+  k............................wwk
+  k...........................wwsk
+  k..........................wwssk
+  k.........................wwsssk
+  k........................wwssssk
+  k.......................wwssss.k
+  k......................wwssss..k
+  k.....................wwssss..wk
+  k....................wwssss..wwk
+  k...................wwssss..wwsk
+  k..................wwssss..wwssk
+  k.................wwssss..wwsssk
+  k................wwssss..wwssssk
+  k...............wwssss..wwssss.k
+  k..............wwssss..wwssss..k
+  k.............wwssss..wwssss..wk
+  k............wwssss..wwssss..wwk
+  k...........wwssss..wwssss..wwsk
+  k..........wwssss..wwssss..wwssk
+  k.........wwssss..wwssss..wwsssk
+  k........wwssss..wwssss..wwssssk
+  k.......wwssss..wwssss..wwssss.k
+  k......wwssss..wwssss..wwssss..k
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+grip  40  40  1
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k.......................................wk
+  k......................................wwk
+  k.....................................wwwk
+  k....................................wwwsk
+  k...................................wwwssk
+  k..................................wwwsssk
+  k.................................wwwssssk
+  k................................wwwsssssk
+  k...............................wwwsssss.k
+  k..............................wwwsssss..k
+  k.............................wwwsssss..wk
+  k............................wwwsssss..wwk
+  k...........................wwwsssss..wwwk
+  k..........................wwwsssss..wwwsk
+  k.........................wwwsssss..wwwssk
+  k........................wwwsssss..wwwsssk
+  k.......................wwwsssss..wwwssssk
+  k......................wwwsssss..wwwsssssk
+  k.....................wwwsssss..wwwsssss.k
+  k....................wwwsssss..wwwsssss..k
+  k...................wwwsssss..wwwsssss..wk
+  k..................wwwsssss..wwwsssss..wwk
+  k.................wwwsssss..wwwsssss..wwwk
+  k................wwwsssss..wwwsssss..wwwsk
+  k...............wwwsssss..wwwsssss..wwwssk
+  k..............wwwsssss..wwwsssss..wwwsssk
+  k.............wwwsssss..wwwsssss..wwwssssk
+  k............wwwsssss..wwwsssss..wwwsssssk
+  k...........wwwsssss..wwwsssss..wwwsssss.k
+  k..........wwwsssss..wwwsssss..wwwsssss..k
+  k.........wwwsssss..wwwsssss..wwwsssss...k
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+grip  17  22  1
+  kkkkkkkkkkkkkkkkkkk
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k................wk
+  k...............wsk
+  k..............wssk
+  k.............wss.k
+  k............wss.wk
+  k...........wss.wsk
+  k..........wss.wssk
+  k.........wss.wss.k
+  k........wss.wss.wk
+  k.......wss.wss.wsk
+  k......wss.wss.wssk
+  k.....wss.wss.wss.k
+  kkkkkkkkkkkkkkkkkkk
+grip  22  17  1
+  kkkkkkkkkkkkkkkkkkkkkkkk
+  k......................k
+  k......................k
+  k......................k
+  k......................k
+  k......................k
+  k.....................wk
+  k....................wsk
+  k...................wssk
+  k..................wss.k
+  k.................wss.wk
+  k................wss.wsk
+  k...............wss.wssk
+  k..............wss.wss.k
+  k.............wss.wss.wk
+  k............wss.wss.wsk
+  k...........wss.wss.wssk
+  k..........wss.wss.wss.k
+  kkkkkkkkkkkkkkkkkkkkkkkk
+grip  10  30  1
+  kkkkkkkkkkkk
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k.........wk
+  k........wsk
+  k.......ws.k
+  k......ws.wk
+  k.....ws.wsk
+  k....ws.ws.k
+  k...ws.ws.wk
+  k..ws.ws.wsk
+  k.ws.ws.ws.k
+  kkkkkkkkkkkk
+right  1  1  1
+  kkk
+  k.k
+  kkk
+right  3  3  1
+  kkkkk
+  k...k
+  k...k
+  k...k
+  kkkkk
+right  5  5  1
+  kkkkkkk
+  k.....k
+  kw....k
+  ksw...k
+  kssw..k
+  ksssw.k
+  kkkkkkk
+right  8  8  1
+  kkkkkkkkkk
+  k........k
+  k........k
+  kw.......k
+  ksw......k
+  kwsw.....k
+  kswsw....k
+  kwswsw...k
+  kswswsw..k
+  kkkkkkkkkk
+right  11  11  1
+  kkkkkkkkkkkkk
+  k...........k
+  k...........k
+  kw..........k
+  ksw.........k
+  k.sw........k
+  kw.sw.......k
+  ksw.sw......k
+  k.sw.sw.....k
+  kw.sw.sw....k
+  ksw.sw.sw...k
+  k.sw.sw.sw..k
+  kkkkkkkkkkkkk
+right  13  13  1
+  kkkkkkkkkkkkkkk
+  k.............k
+  k.............k
+  k.............k
+  k.............k
+  kw............k
+  ksw...........k
+  kssw..........k
+  kwssw.........k
+  kswssw........k
+  ksswssw.......k
+  kwsswssw......k
+  kswsswssw.....k
+  ksswsswssw....k
+  kkkkkkkkkkkkkkk
+right  15  15  1
+  kkkkkkkkkkkkkkkkk
+  k...............k
+  k...............k
+  k...............k
+  kw..............k
+  ksw.............k
+  kssw............k
+  k.ssw...........k
+  kw.ssw..........k
+  ksw.ssw.........k
+  kssw.ssw........k
+  k.ssw.ssw.......k
+  kw.ssw.ssw......k
+  ksw.ssw.ssw.....k
+  kssw.ssw.ssw....k
+  k.ssw.ssw.ssw...k
+  kkkkkkkkkkkkkkkkk
+right  16  16  1
+  kkkkkkkkkkkkkkkkkk
+  k................k
+  k................k
+  k................k
+  k................k
+  kw...............k
+  ksw..............k
+  kssw.............k
+  k.ssw............k
+  kw.ssw...........k
+  ksw.ssw..........k
+  kssw.ssw.........k
+  k.ssw.ssw........k
+  kw.ssw.ssw.......k
+  ksw.ssw.ssw......k
+  kssw.ssw.ssw.....k
+  k.ssw.ssw.ssw....k
+  kkkkkkkkkkkkkkkkkk
+right  17  17  1
+  kkkkkkkkkkkkkkkkkkk
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  kw................k
+  ksw...............k
+  kssw..............k
+  k.ssw.............k
+  kw.ssw............k
+  ksw.ssw...........k
+  kssw.ssw..........k
+  k.ssw.ssw.........k
+  kw.ssw.ssw........k
+  ksw.ssw.ssw.......k
+  kssw.ssw.ssw......k
+  k.ssw.ssw.ssw.....k
+  kkkkkkkkkkkkkkkkkkk
+right  18  18  1
+  kkkkkkkkkkkkkkkkkkkk
+  k..................k
+  k..................k
+  k..................k
+  k..................k
+  kw.................k
+  ksw................k
+  kssw...............k
+  k.ssw..............k
+  k..ssw.............k
+  kw..ssw............k
+  ksw..ssw...........k
+  kssw..ssw..........k
+  k.ssw..ssw.........k
+  k..ssw..ssw........k
+  kw..ssw..ssw.......k
+  ksw..ssw..ssw......k
+  kssw..ssw..ssw.....k
+  k.ssw..ssw..ssw....k
+  kkkkkkkkkkkkkkkkkkkk
+right  20  20  1
+  kkkkkkkkkkkkkkkkkkkkkk
+  k....................k
+  k....................k
+  k....................k
+  k....................k
+  k....................k
+  kw...................k
+  ksw..................k
+  kssw.................k
+  ksssw................k
+  k.sssw...............k
+  kw.sssw..............k
+  ksw.sssw.............k
+  kssw.sssw............k
+  ksssw.sssw...........k
+  k.sssw.sssw..........k
+  kw.sssw.sssw.........k
+  ksw.sssw.sssw........k
+  kssw.sssw.sssw.......k
+  ksssw.sssw.sssw......k
+  k.sssw.sssw.sssw.....k
+  kkkkkkkkkkkkkkkkkkkkkk
+right  24  24  1
+  kkkkkkkkkkkkkkkkkkkkkkkkkk
+  k........................k
+  k........................k
+  k........................k
+  k........................k
+  k........................k
+  kw.......................k
+  kww......................k
+  ksww.....................k
+  kssww....................k
+  ksssww...................k
+  k.sssww..................k
+  kw.sssww.................k
+  kww.sssww................k
+  ksww.sssww...............k
+  kssww.sssww..............k
+  ksssww.sssww.............k
+  k.sssww.sssww............k
+  kw.sssww.sssww...........k
+  kww.sssww.sssww..........k
+  ksww.sssww.sssww.........k
+  kssww.sssww.sssww........k
+  ksssww.sssww.sssww.......k
+  k.sssww.sssww.sssww......k
+  k..sssww.sssww.sssww.....k
+  kkkkkkkkkkkkkkkkkkkkkkkkkk
+right  30  30  1
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+  k..............................k
+  k..............................k
+  k..............................k
+  k..............................k
+  k..............................k
+  k..............................k
+  kw.............................k
+  kww............................k
+  ksww...........................k
+  kssww..........................k
+  ksssww.........................k
+  kssssww........................k
+  k.ssssww.......................k
+  k..ssssww......................k
+  kw..ssssww.....................k
+  kww..ssssww....................k
+  ksww..ssssww...................k
+  kssww..ssssww..................k
+  ksssww..ssssww.................k
+  kssssww..ssssww................k
+  k.ssssww..ssssww...............k
+  k..ssssww..ssssww..............k
+  kw..ssssww..ssssww.............k
+  kww..ssssww..ssssww............k
+  ksww..ssssww..ssssww...........k
+  kssww..ssssww..ssssww..........k
+  ksssww..ssssww..ssssww.........k
+  kssssww..ssssww..ssssww........k
+  k.ssssww..ssssww..ssssww.......k
+  k..ssssww..ssssww..ssssww......k
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+right  40  40  1
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  k........................................k
+  kw.......................................k
+  kww......................................k
+  kwww.....................................k
+  kswww....................................k
+  ksswww...................................k
+  kssswww..................................k
+  ksssswww.................................k
+  kssssswww................................k
+  k.ssssswww...............................k
+  k..ssssswww..............................k
+  kw..ssssswww.............................k
+  kww..ssssswww............................k
+  kwww..ssssswww...........................k
+  kswww..ssssswww..........................k
+  ksswww..ssssswww.........................k
+  kssswww..ssssswww........................k
+  ksssswww..ssssswww.......................k
+  kssssswww..ssssswww......................k
+  k.ssssswww..ssssswww.....................k
+  k..ssssswww..ssssswww....................k
+  kw..ssssswww..ssssswww...................k
+  kww..ssssswww..ssssswww..................k
+  kwww..ssssswww..ssssswww.................k
+  kswww..ssssswww..ssssswww................k
+  ksswww..ssssswww..ssssswww...............k
+  kssswww..ssssswww..ssssswww..............k
+  ksssswww..ssssswww..ssssswww.............k
+  kssssswww..ssssswww..ssssswww............k
+  k.ssssswww..ssssswww..ssssswww...........k
+  k..ssssswww..ssssswww..ssssswww..........k
+  k...ssssswww..ssssswww..ssssswww.........k
+  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+right  17  22  1
+  kkkkkkkkkkkkkkkkkkk
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  k.................k
+  kw................k
+  ksw...............k
+  kssw..............k
+  k.ssw.............k
+  kw.ssw............k
+  ksw.ssw...........k
+  kssw.ssw..........k
+  k.ssw.ssw.........k
+  kw.ssw.ssw........k
+  ksw.ssw.ssw.......k
+  kssw.ssw.ssw......k
+  k.ssw.ssw.ssw.....k
+  kkkkkkkkkkkkkkkkkkk
+right  22  17  1
+  kkkkkkkkkkkkkkkkkkkkkkkk
+  k......................k
+  k......................k
+  k......................k
+  k......................k
+  k......................k
+  k.....w................k
+  k.....sw...............k
+  k.....ssw..............k
+  k......ssw.............k
+  k.....w.ssw............k
+  k.....sw.ssw...........k
+  k.....ssw.ssw..........k
+  k......ssw.ssw.........k
+  k.....w.ssw.ssw........k
+  k.....sw.ssw.ssw.......k
+  k.....ssw.ssw.ssw......k
+  k......ssw.ssw.ssw.....k
+  kkkkkkkkkkkkkkkkkkkkkkkk
+right  10  30  1
+  kkkkkkkkkkkk
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  k..........k
+  kw.........k
+  ksw........k
+  k.sw.......k
+  kw.sw......k
+  ksw.sw.....k
+  k.sw.sw....k
+  kw.sw.sw...k
+  ksw.sw.sw..k
+  k.sw.sw.sw.k
+  kkkkkkkkkkkk
+n  1 off  0 w
+n  2 off  1 ss
+n  3 off  0 wss
+n  4 off  0 .wss
+n  5 off  0 .wsss
+n  6 off  0 wswsws
+n  7 off  0 .wswsws
+n  8 off  0 ..wswsws
+n  9 off  0 ...wswsws
+n  10 off  0 .ws.ws.ws.
+n  11 off  0 ..ws.ws.ws.
+n  12 off  0 ...wsswsswss
+n  13 off  0 ....wsswsswss
+n  14 off  0 ..wss.wss.wss.
+n  15 off  0 ...wss.wss.wss.
+n  16 off  0 ....wss.wss.wss.
+n  17 off  0 .....wss.wss.wss.
+n  18 off  0 ....wss..wss..wss.
+n  19 off  0 ....wss..wss..wss..
+n  20 off  0 .....wsss.wsss.wsss.
+n  21 off  0 ......wsss.wsss.wsss.
+n  22 off  0 .....wsss..wsss..wsss.
+n  23 off  0 .....wsss..wsss..wsss..
+n  24 off  0 .....wwsss.wwsss.wwsss..
+n  25 off  0 ......wwsss.wwsss.wwsss..
+n  26 off  0 .....wwsss..wwsss..wwsss..
+n  27 off  0 ......wwsss..wwsss..wwsss..
+n  28 off  0 ......wwssss.wwssss.wwssss..
+n  29 off  0 .......wwssss.wwssss.wwssss..
+n  30 off  0 ......wwssss..wwssss..wwssss..
+n  31 off  0 .......wwssss..wwssss..wwssss..
+n  32 off  0 .......wwssss..wwssss..wwssss...
+n  33 off  0 ........wwssss..wwssss..wwssss...
+n  34 off  0 .......wwssss...wwssss...wwssss...
+n  35 off  0 ........wwssss...wwssss...wwssss...
+n  36 off  0 .........wwsssss..wwsssss..wwsssss..
+n  37 off  0 .........wwsssss..wwsssss..wwsssss...
+n  38 off  0 ........wwsssss...wwsssss...wwsssss...
+n  39 off  0 .........wwsssss...wwsssss...wwsssss...
+n  40 off  0 .........wwwsssss..wwwsssss..wwwsssss...
+n  41 off  0 ..........wwwsssss..wwwsssss..wwwsssss...
+n  42 off  0 ........wwwsssss...wwwsssss...wwwsssss....
+n  43 off  0 .........wwwsssss...wwwsssss...wwwsssss....
+n  44 off  0 ..........wwwssssss..wwwssssss..wwwssssss...
+n  45 off  0 ...........wwwssssss..wwwssssss..wwwssssss...
+n  46 off  0 .........wwwssssss...wwwssssss...wwwssssss....
+n  47 off  0 ..........wwwssssss...wwwssssss...wwwssssss....
+n  48 off  0 ...........wwwssssss...wwwssssss...wwwssssss....
+n  49 off  0 ............wwwssssss...wwwssssss...wwwssssss....
+n  50 off  0 ...........wwwssssss....wwwssssss....wwwssssss....
+n  51 off  0 ...........wwwssssss....wwwssssss....wwwssssss.....
+n  52 off  0 ............wwwsssssss...wwwsssssss...wwwsssssss....
+n  53 off  0 .............wwwsssssss...wwwsssssss...wwwsssssss....
+n  54 off  0 ............wwwsssssss....wwwsssssss....wwwsssssss....
+n  55 off  0 ............wwwsssssss....wwwsssssss....wwwsssssss.....
+n  56 off  0 ............wwwwsssssss...wwwwsssssss...wwwwsssssss.....
+n  57 off  0 .............wwwwsssssss...wwwwsssssss...wwwwsssssss.....
+n  58 off  0 ............wwwwsssssss....wwwwsssssss....wwwwsssssss.....
+n  59 off  0 .............wwwwsssssss....wwwwsssssss....wwwwsssssss.....
+n  60 off  0 .............wwwwssssssss...wwwwssssssss...wwwwssssssss.....
+n  61 off  0 ..............wwwwssssssss...wwwwssssssss...wwwwssssssss.....
+n  62 off  0 .............wwwwssssssss....wwwwssssssss....wwwwssssssss.....
+n  63 off  0 ..............wwwwssssssss....wwwwssssssss....wwwwssssssss.....
+n  64 off  0 ..............wwwwssssssss....wwwwssssssss....wwwwssssssss......
