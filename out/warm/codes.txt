@@ -1,0 +1,2 @@
+ref_drawemf 42
+ref_drawemf32 42

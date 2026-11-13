@@ -1,0 +1,3466 @@
+== edge  0x5  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x5  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  12  26  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x5  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x5  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x5  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x646464
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x646464
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x646464
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x646464
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x5  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  12  12  38  28
+== edge  0x5  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x5  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  11  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x5  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  29  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  28  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  13  27  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  14  26  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  15  25  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  24  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  17  23  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  18  22  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  21  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  20  20  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  21  19  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  22  18  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  23  17  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  24  16  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  15  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  26  14  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  27  13  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  28  12  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  29  11  1  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x5  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  27  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  26  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  13  25  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  14  24  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  15  23  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  16  22  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  17  21  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  18  20  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  19  19  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  20  18  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  21  17  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  22  16  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  23  15  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  24  14  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  13  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  26  12  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  27  11  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  28  10  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  27  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0xa  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0xa  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  12  26  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0xa  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x696969
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x696969
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0xa  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0xa  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x646464
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x646464
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x646464
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x646464
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0xa  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  12  12  38  28
+== edge  0xa  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0xa  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  11  28  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0xa  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  29  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  28  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  13  27  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  14  26  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  15  25  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  16  24  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  17  23  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  18  22  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  19  21  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  20  20  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  21  19  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  22  18  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  23  17  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  24  16  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  15  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  26  14  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  27  13  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  28  12  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  29  11  1  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0xa  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  27  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  26  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  13  25  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  14  24  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  15  23  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  22  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  17  21  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  18  20  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  19  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  20  18  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  21  17  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  22  16  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  23  15  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  24  14  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  13  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  26  12  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  27  11  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  28  10  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  27  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x6  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x6  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  12  26  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x6  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x696969
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x696969
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x6  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x6  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x646464
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x646464
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x646464
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x646464
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x6  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  12  12  38  28
+== edge  0x6  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x6  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  11  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x6  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  29  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  28  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  13  27  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  14  26  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  15  25  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  24  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  17  23  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  18  22  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  21  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  20  20  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  21  19  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  22  18  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  23  17  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  24  16  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  15  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  26  14  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  27  13  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  28  12  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  29  11  1  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x6  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  27  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  26  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  13  25  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  14  24  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  15  23  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  16  22  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  17  21  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  18  20  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  19  19  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  20  18  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  21  17  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  22  16  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  23  15  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  24  14  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  13  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  26  12  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  27  11  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  28  10  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  27  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x9  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x9  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  12  26  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x9  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x9  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x9  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x646464
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x646464
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x646464
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x646464
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x9  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  18 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  27  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  12  11  26  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  12  12  38  28
+== edge  0x9  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x9  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  38  11  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  11  28  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x9  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  29  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  28  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  13  27  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  14  26  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  15  25  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  16  24  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  17  23  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  18  22  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  19  21  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  20  20  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  21  19  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  22  18  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  23  17  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  24  16  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  15  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  26  14  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  27  13  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  28  12  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  29  11  1  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x9  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  27  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  26  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  13  25  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  14  24  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  15  23  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  22  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  17  21  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  18  20  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  19  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  20  18  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  21  17  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  22  16  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  23  15  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  24  14  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  13  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  26  12  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  27  11  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  28  10  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  27  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x1  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x1  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  11  28  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x1  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x1  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x1  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x646464
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x646464
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x646464
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x646464
+   ->  1  10  10  40  30
+== edge  0x1  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  11  11  39  29
+== edge  0x1  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x1  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x1  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x1  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  27  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x2  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x2  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  11  28  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x2  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x696969
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x2  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x2  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0x646464
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0x646464
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x646464
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x646464
+   ->  1  10  10  40  30
+== edge  0x2  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  11  11  39  29
+== edge  0x2  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x2  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x2  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x2  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  27  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x4  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x4  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  11  28  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x4  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   ->  1  10  10  40  30
+== edge  0x4  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x4  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x4  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  11  11  39  29
+== edge  0x4  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x4  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x4  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x4  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  27  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x8  0xf
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x696969
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x8  0x80f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x696969
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x696969
+   blit  11  11  28  18 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x8  0x100f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   ->  1  10  10  40  30
+== edge  0x8  0x400f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== edge  0x8  0x800f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0xffffff
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0xffffff
+   ->  1  10  10  40  30
+== edge  0x8  0x200f
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  29  29  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  10  1  19 rop  0xf00021 brush  0x0  0x696969
+   blit  11  10  28  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  11  11  39  29
+== edge  0x8  0x1
+   blit  10  10  1  20 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x8  0x6
+   blit  39  10  1  20 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  10  29  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x8  0x16
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0x696969
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0x696969
+   ->  1  10  10  40  30
+== edge  0x8  0x819
+   blit  10  29  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  11  28  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  12  27  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  13  26  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  14  25  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  15  24  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  23  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  17  22  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  18  21  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  20  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  20  19  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  21  18  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  22  17  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  23  16  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  24  15  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  14  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  26  13  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  27  12  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  28  11  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  29  10  1  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  10  28  1  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  27  2  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  26  3  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  25  4  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  24  5  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  23  6  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  22  7  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  21  8  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  20  9  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  19  10  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  18  11  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  17  12  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  16  13  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  15  14  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  14  15  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  13  16  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  12  17  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  11  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  10  10  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  10  10  40  30
+== frame  1  0x0  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x100  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "r" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "r" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x200  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x400  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x1000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "r" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x4000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x8000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x800  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x2000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  1  0x0  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "r" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  1  0x0  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "r" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  1  0x1  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x101  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "0" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "0" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x201  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x401  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x1001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "0" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x4001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x8001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x801  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x2001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  1  0x1  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "0" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  1  0x1  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "0" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  1  0x2  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x102  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "1" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "1" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x202  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x402  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x1002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "1" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x4002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x8002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x802  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x2002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  1  0x2  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "1" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  1  0x2  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "1" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  1  0x3  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x103  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "2" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "2" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x203  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x403  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x1003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "2" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x4003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x8003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x803  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x2003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "2" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  1  0x3  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "2" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  1  0x3  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "2" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  1  0x4  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x104  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "s" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "s" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x204  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x404  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x1004  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "s" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x4004  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x8004  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x804  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  1  0x2004  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  1  0x4  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "s" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  1  0x4  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "s" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  2  0x0  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x100  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x200  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x400  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x1000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x4000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x8000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x800  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x2000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "8" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x0  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "8" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  2  0x0  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "8" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  2  0x1  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x101  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x201  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x401  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x1001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x4001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x8001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x801  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x2001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "a" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x1  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "a" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  2  0x1  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "a" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  2  0x2  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x102  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x202  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x402  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x1002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x4002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x8002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x802  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x2002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "h" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x2  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "h" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  2  0x2  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "h" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  2  0x4  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x104  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x204  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x404  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x1004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x4004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x8004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x804  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x2004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "w" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  2  0x4  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "w" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  2  0x4  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "w" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  3  0x0  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x100  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "5" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "5" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x200  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x400  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x1000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "5" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x4000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x8000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x800  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x2000  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "5" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  3  0x0  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "5" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  3  0x0  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "5" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  3  0x1  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x101  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "6" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "6" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x201  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x401  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x1001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x4001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x8001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x801  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x2001  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  3  0x1  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "6" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  3  0x1  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "6" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  3  0x2  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x102  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "3" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "3" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x202  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x402  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x1002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x4002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x8002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x802  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x2002  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  3  0x2  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "3" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  3  0x2  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "3" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  3  0x3  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x103  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "4" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "4" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x203  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x403  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x1003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "4" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x4003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x8003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x803  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x2003  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  3  0x3  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "4" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  3  0x3  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "4" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  3  0x5  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x105  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "6" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  9  8 "6" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x205  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  9 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x405  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0x696969
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0x696969
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x1005  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0xcc6600 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x4005  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x8005  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x805  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  27  23
+== frame  3  0x2005  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "6" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  7  8  25  21
+== frame  3  0x5  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "6" dx  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  12  400
+   ->  1  5  6  21  22
+== frame  3  0x5  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  7  8 "6" dx  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  9  400
+   ->  1  5  6  18  19
+== frame  3  0x8  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x108  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x208  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x408  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x1008  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x4008  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xffffff
+   text  10  6 "o" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x8008  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xffffff
+   text  10  6 "o" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x808  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x2008  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "o" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "p" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x8  16  16
+   blit  5  6  16  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  5  6 "o" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "p" dx  16 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  3  0x8  13  13
+   blit  5  6  13  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  5  6 "o" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "p" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  3  0x10  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x110  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x210  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x410  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x1010  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x4010  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xffffff
+   text  10  6 "x" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x8010  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xffffff
+   text  10  6 "x" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x810  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x2010  22  17
+   blit  5  6  22  17 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  10  6 "x" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  10  6 "y" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  3  0x10  16  16
+   blit  5  6  16  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  5  6 "x" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "y" dx  16 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  3  0x10  13  13
+   blit  5  6  13  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  5  6 "x" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "y" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  4  0x0  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x100  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x200  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x400  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "b" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x1000  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x4000  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x8000  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x800  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x2000  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x0  16  16
+   text  5  6 "g" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "f" dx  16 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "e" dx  16 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "d" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "c" dx  16 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  4  0x0  13  13
+   text  5  6 "g" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "f" dx  13 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "e" dx  13 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "d" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "c" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  4  0x1  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x101  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x201  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x401  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "i" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x1001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x4001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x8001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x801  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x2001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  4
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x1  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  4
+   text  5  6 "n" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "m" dx  16 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "l" dx  16 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "k" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "j" dx  16 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  4  0x1  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  4
+   text  5  6 "n" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "m" dx  13 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "l" dx  13 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "k" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "j" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  4  0x2  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x102  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x202  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x402  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "i" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x1002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x4002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x8002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x802  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x2002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "n" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x2  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  5  6 "n" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "m" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "l" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "k" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "j" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  4  0x2  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  5  6 "n" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "m" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "l" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "k" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "j" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  4  0x4  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x104  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x204  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x404  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "i" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x1004  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x4004  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x8004  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x804  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x2004  22  17
+   text  7  6 "n" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "m" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "l" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "k" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "j" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x4  16  16
+   text  5  6 "n" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "m" dx  16 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "l" dx  16 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "k" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "j" dx  16 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  4  0x4  13  13
+   text  5  6 "n" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "m" dx  13 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "l" dx  13 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "k" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "j" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  4  0x8  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x108  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x208  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xf0f0f0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x408  22  17
+   record  93  108
+   blit  7  6  22  17 rop  0xf00021 stock  0
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "b" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x1008  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x4008  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x8008  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0x646464 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x808  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x2008  22  17
+   text  7  6 "g" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "f" dx  17 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "e" dx  17 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "d" dx  17 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  17  400
+   text  7  6 "c" dx  17 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  4  0x8  16  16
+   text  5  6 "g" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "f" dx  16 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "e" dx  16 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "d" dx  16 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  16  400
+   text  5  6 "c" dx  16 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  4  0x8  13  13
+   text  5  6 "g" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "f" dx  13 options  0x0 fg  0xe3e3e3 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "e" dx  13 options  0x0 fg  0x696969 bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "d" dx  13 options  0x0 fg  0xffffff bg  0xffffff mode  1 align  0x0 font  13  400
+   text  5  6 "c" dx  13 options  0x0 fg  0xa0a0a0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  4  0x10  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x110  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x210  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x410  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x696969
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   record  93  108
+   blit  7  8  18  13 rop  0xf00021 stock  0
+   ->  1  5  6  27  23
+== frame  4  0x1010  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x4010  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xf0f0f0
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x8010  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x646464
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x646464
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0x646464
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0x646464
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x810  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  27  23
+== frame  4  0x2010  22  17
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  7  8  25  21
+== frame  4  0x10  16  16
+   blit  20  6  1  16 rop  0xf00021 brush  0x0  0x696969
+   blit  5  21  15  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  15 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  14  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  19  7  1  14 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  20  13  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  13 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  12  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  12  12 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  21  22
+== frame  4  0x10  13  13
+   blit  17  6  1  13 rop  0xf00021 brush  0x0  0x696969
+   blit  5  18  12  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  12 rop  0xf00021 brush  0x0  0xffffff
+   blit  6  6  11  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  16  7  1  11 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  17  10  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  10 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  7  9  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  7  8  9  9 rop  0xf00021 brush  0x0  0xf0f0f0
+   ->  1  5  6  18  19
+== frame  5  0x0  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x100  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x200  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x400  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x1000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x4000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x8000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x800  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x2000  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "r" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x0  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "r" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  5  0x0  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "r" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  5  0x1  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x101  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x201  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x401  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x1001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x4001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x8001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x801  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x2001  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "0" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x1  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "0" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  5  0x1  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "0" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  5  0x2  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x102  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x202  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x402  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x1002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x4002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x8002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x802  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x2002  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "1" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x2  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "1" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  5  0x2  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "1" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== frame  5  0x4  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x104  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x204  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x404  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x1004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x4004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x8004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x804  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x2004  22  17
+   blit  5  6  22  17 rop  0xf00021 stock  0
+   text  6  6 "s" dx  17 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  17  400
+   ->  1  5  6  27  23
+== frame  5  0x4  16  16
+   blit  5  6  16  16 rop  0xf00021 stock  0
+   text  4  6 "s" dx  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   ->  1  5  6  21  22
+== frame  5  0x4  13  13
+   blit  5  6  13  13 rop  0xf00021 stock  0
+   text  4  6 "s" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   ->  1  5  6  18  19
+== focus
+   record  93  108
+   blit  3  4  30  1 rop  0x5a0049
+   blit  3  23  30  1 rop  0x5a0049
+   blit  3  5  1  18 rop  0x5a0049
+   blit  32  5  1  18 rop  0x5a0049
+== fillrect brush
+   blit  3  4  30  20 rop  0xf00021 brush  0x0  0x123456
+== fillrect color index
+   blit  3  4  30  20 rop  0xf00021 brush  0x0  0xf0f0f0
+== framerect
+   blit  3  4  30  1 rop  0xf00021 brush  0x0  0x123456
+   blit  3  23  30  1 rop  0xf00021 brush  0x0  0x123456
+   blit  3  5  1  18 rop  0xf00021 brush  0x0  0x123456
+   blit  32  5  1  18 rop  0xf00021 brush  0x0  0x123456
+== invertrect
+   blit  3  4  30  20 rop  0x550009
