@@ -1,0 +1,44 @@
+class  1 style  0x4000 extra  0  4 cursor arrow  1 brush  6
+short date: client  0  0  176  20 style  0x50000000 ex  0x200 dlgcode  0x81 text  9 "3/17/2021" monthcal  0
+  made: get  0  2021- 3- 17/ 3  14: 5: 9. 0
+  paint made
+   text  8  2 "3" dx  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  14  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  19  2 "17" dx  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  31  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  36  2 "2021" dx  6  6  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   blit  175  0  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  159  19  16  1 rop  0xf00021 brush  0x0  0x696969
+   blit  159  0  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  160  0  15  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  174  1  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  18  14  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  1  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  1  13  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  2  13  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  161  3 "6" dx  13 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 font  13  400
+times:
+  set 2020-02-29 23:59:58.999  0  1
+  after: get  0  2020- 2- 29/ 6  23: 59: 58. 999
+  set 2021-02-30  0  0
+  after: get  0  2020- 2- 29/ 6  23: 59: 58. 999
+  set 2021-13-01  0  0
+  after: get  0  2020- 2- 29/ 6  23: 59: 58. 999
+  set hour 24  0  0
+  after: get  0  2020- 2- 29/ 6  23: 59: 58. 999
+  set 1600-01-01  0  1
+  after: get  0  2020- 2- 29/ 6  23: 59: 58. 999
+  set 1752-12-31  0  1
+  after: get  0  1752- 12- 31/ 0  0: 0: 0. 0
+  set 1753-01-01  0  1
+  after: get  0  1753- 1- 1/ 1  0: 0: 0. 0
+  set 9999-12-31  0  1
+  after: get  0  9999- 12- 31/ 5  0: 0: 0. 0
+  set none, no shownone  1  0
+  after: get  0  9999- 12- 31/ 5  0: 0: 0. 0
+  set flag 2  2  0
+  after: get  0  9999- 12- 31/ 5  0: 0: 0. 0
+  set flag -1  -1  0
+  after: get  0  9999- 12- 31/ 5  0: 0: 0. 0
+  set null  0
+  after: get  0  9999- 12- 31/ 5  0: 0: 0. 0

@@ -1,0 +1,113 @@
+class  1 style  0x4000 extra  0  8 cursor arrow  1 brush  6
+drop down: client  0  0  200  24 style  0x50000002 ex  0x0 exstyle  0x0 unicode  1
+  "ComboBox" parent  0 style  0x56000413 ex  0x0 id  6 at  0  0  200  24
+  "Edit" parent  1 style  0x54000000 ex  0x0 id  6 at  3  5  178  16
+items:
+  insert    notify  -801 from  0 mask  0x3f item  0 "one" images  0  1  0 indent  0 lparam  11
+  0
+  insert    notify  -801 from  0 mask  0x3f item  -1 "three" images  2  3  0 indent  2 lparam  33
+  1
+  insert    notify  -801 from  0 mask  0x1 item  1 "two" images  1  2  0 indent  1 lparam  22
+  1
+  insert past  -1
+  insert callback    notify  -801 from  0 mask  0x17 item  -1 "<callback>" images  -1  0  0 indent  -1 lparam  44
+  3
+  item  0 get  1 mask  0x3f item  0 "one" images  0  1  0 indent  0 lparam  11
+    notify  -807 from  0 mask  0x6 item  1 images  -1  -1  0 indent  0 lparam  0
+  item  1 get  1 mask  0x3f item  1 "two" images  1  2  0 indent  0 lparam  0
+  item  2 get  1 mask  0x3f item  2 "three" images  2  3  0 indent  2 lparam  33
+    notify  -807 from  0 mask  0x13 item  3 "" images  -1  0  0 indent  0 lparam  0
+  item  3 get  1 mask  0x3f item  3 "asked" images  1  0  0 indent  1 lparam  0
+  item  4 get  0 mask  0x3f item  4 "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz??" images  -5  -5  -5 indent  -5 lparam  -5
+  item  5 get  0 mask  0x3f item  5 "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz??" images  -5  -5  -5 indent  -5 lparam  -5
+  combo count  4 sel  -1 item height  18  18 data  1 len  3 data  1 len  3 data  1 len  5 data  1 len    notify  -807 from  0 mask  0x1 item  3 "" images  0  0  0 indent  0 lparam  0
+  5
+  set  1
+    notify  -807 from  0 mask  0x6 item  1 images  -1  -1  0 indent  0 lparam  99
+  item  1 get  1 mask  0x3f item  1 "TWO" images  1  2  0 indent  0 lparam  99
+  set -1    command id  6 code  0x5 from  0
+  1
+    notify  -807 from  0 mask  0x6 item  -1 images  -1  -1  0 indent  0 lparam  0
+  item  -1 get  1 mask  0x3f item  -1 "edit text" images  1  2  0 indent  0 lparam  0
+  item  4 get  0 mask  0x3f item  4 "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz??" images  -5  -5  -5 indent  -5 lparam  -5
+  delete    notify  -802 from  0 mask  0x20 item  0 images  0  0  0 indent  0 lparam  11
+  3
+  delete past  -1
+    notify  -807 from  0 mask  0x6 item  0 images  -1  -1  0 indent  0 lparam  99
+  item  0 get  1 mask  0x3f item  0 "TWO" images  1  2  0 indent  0 lparam  99
+  item  1 get  1 mask  0x3f item  1 "three" images  2  3  0 indent  2 lparam  33
+    notify  -807 from  0 mask  0x13 item  2 "" images  -1  0  0 indent  0 lparam  0
+  item  2 get  1 mask  0x3f item  2 "asked" images  1  0  0 indent  1 lparam  0
+  item  3 get  0 mask  0x3f item  3 "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz" images  -5  -5  -5 indent  -5 lparam  -5
+  combo count  3 sel  -1 item height  18  18 data  1 len  3 data  1 len  5 data  1 len    notify  -807 from  0 mask  0x1 item  2 "" images  0  0  0 indent  0 lparam  0
+  5
+passed down:
+  setcursel    command id  6 code  0x5 from  0
+  1
+    notify  -807 from  0 mask  0x6 item  -1 images  -1  -1  0 indent  0 lparam  0
+  item  -1 get  1 mask  0x3f item  -1 "three" images  1  2  0 indent  0 lparam  0
+  gettext  5 "three"
+  getlbtext  3 "TWO"
+  findstringexact  1
+  settext    command id  6 code  0x5 from  0
+  1
+    notify  -807 from  0 mask  0x6 item  -1 images  -1  -1  0 indent  0 lparam  0
+  item  -1 get  1 mask  0x3f item  -1 "typed" images  1  2  0 indent  0 lparam  0
+  edit changed  -1
+  getitemdata  33
+  setitemdata  0
+  item  1 get  1 mask  0x3f item  1 "three" images  2  3  0 indent  2 lparam  77
+  paint drop down, no images
+images:
+  setimagelist  0  1
+  combo count  3 sel  1 item height  20  20 data  1 len  3 data  1 len  5 data  1 len    notify  -807 from  0 mask  0x1 item  2 "" images  0  0  0 indent  0 lparam  0
+  5
+  (again with the list first): client  0  0  200  24 style  0x50000002 ex  0x0 exstyle  0x0 unicode  1
+  "ComboBox" parent  0 style  0x56000413 ex  0x0 id  6 at  0  0  200  24
+  "Edit" parent  1 style  0x54000000 ex  0x0 id  6 at  3  5  178  16
+  combo count  0 sel  -1 item height  20  20
+  paint drop down, images
+extended styles:
+  set  0x1  0x0  0x1
+  set  0x2  0x1  0x2
+  set  0x4  0x2  0x4
+  set  0x8  0x4  0x8
+  set  0x10  0x8  0x10
+  set  0x20  0x10  0x20
+  set  0x40  0x20  0x40
+  mask  0x40  0x42
+  setexstyle  0x42  0x0
+editing:
+    notify  -804 from  0
+    command id  6 code  0x5 from  0
+  edit changed  -1
+    notify  -807 from  0 mask  0x1 item  2 "" images  0  0  0 indent  0 lparam  0
+    notify  -806 from  0  -1  -1 "x"  2
+  edit changed  0
+    command id  6 code  0x5 from  0
+    notify  -807 from  0 mask  0x1 item  2 "" images  0  0  0 indent  0 lparam  0
+    notify  -806 from  0  -1  -1 "xy"  1
+  edit changed  0
+    notify  -807 from  0 mask  0x6 item  -1 images  -1  -1  0 indent  0 lparam  0
+  item  -1 get  1 mask  0x3f item  -1 "xy" images  1  2  0 indent  0 lparam  0
+    notify  -802 from  0 mask  0x20 item  2 images  0  0  0 indent  0 lparam  0
+    notify  -802 from  0 mask  0x20 item  1 images  0  0  0 indent  0 lparam  77
+    notify  -802 from  0 mask  0x20 item  0 images  0  0  0 indent  0 lparam  99
+drop list: client  0  0  200  24 style  0x50000003 ex  0x0 exstyle  0x0 unicode  1
+  "ComboBox" parent  0 style  0x56000413 ex  0x0 id  6 at  0  0  200  24
+  none
+    notify  -801 from  0 mask  0x3f item  0 "alpha" images  0  1  0 indent  0 lparam  1
+    notify  -801 from  0 mask  0x3f item  1 "beta" images  1  2  0 indent  1 lparam  2
+  paint drop list
+    command id  6 code  0x3 from  0
+    command id  6 code  0x9 from  0
+    command id  6 code  0x1 from  0
+  item  -1 get  1 mask  0x3f item  -1 "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz??" images  0  0  0 indent  0 lparam  0
+    notify  -802 from  0 mask  0x20 item  1 images  0  0  0 indent  0 lparam  2
+    notify  -802 from  0 mask  0x20 item  0 images  0  0  0 indent  0 lparam  1
+simple: client  0  0  200  149 style  0x50000001 ex  0x0 exstyle  0x0 unicode  1
+  "ComboBox" parent  0 style  0x56000411 ex  0x0 id  6 at  0  0  200  149
+  none
+no style bits: client  0  0  200  149 style  0x50000000 ex  0x0 exstyle  0x0 unicode  1
+  "ComboBox" parent  0 style  0x56000411 ex  0x0 id  6 at  0  0  200  149
+  none

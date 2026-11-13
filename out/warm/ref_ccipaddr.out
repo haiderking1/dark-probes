@@ -1,0 +1,21 @@
+class  1 style  0x400b extra  0  4 cursor arrow  0 brush  6 icon  0
+made 150x22 client edge: client  0  0  146  18 style  0x50000000 ex  0x200 dlgcode  0x80
+  field Edit id  7 style  0x50000001 ex  0x0 at  111  1  32  18 limit  3 font  1 dlgcode  0x89
+  field Edit id  7 style  0x50000001 ex  0x0 at  75  1  32  18 limit  3 font  1 dlgcode  0x89
+  field Edit id  7 style  0x50000001 ex  0x0 at  39  1  32  18 limit  3 font  1 dlgcode  0x89
+  field Edit id  7 style  0x50000001 ex  0x0 at  3  1  32  18 limit  3 font  1 dlgcode  0x89
+  fresh: address  0  0x0 blank  1 text "0.0.0.0"  7 focus  -2
+   fields ""  0 sel  0  0; ""  0 sel  0  0; ""  0 sel  0  0; ""  0 sel  0  0;
+set:
+  setaddress    command id  7 code  0x300 from  9
+  1
+  127.0.0.1: address  4  0x7f000001 blank  0 text "127.0.0.1"  9 focus  -2
+   fields "1"  1 sel  0  0; "0"  1 sel  0  0; "0"  1 sel  0  0; "127"  3 sel  0  0;
+  setaddress    command id  7 code  0x300 from  9
+  1
+  255.254.1.0: address  4  0xfffe0100 blank  0 text "255.254.1.0"  11 focus  -2
+   fields "0"  1 sel  0  0; "1"  1 sel  0  0; "254"  3 sel  0  0; "255"  3 sel  0  0;
+  clearaddress    command id  7 code  0x300 from  9
+  1
+  cleared: address  0  0x0 blank  1 text "0.0.0.0"  7 focus  -2
+   fields ""  0 sel  0  0; ""  0 sel  0  0; ""  0 sel  0  0; ""  0 sel  0  0;

@@ -1,0 +1,1718 @@
+== Arial  -8
+   pairs  909  909
+  "To" ext  9 calc  8 gcp  8 dx  4  4
+  "AV" ext  10 calc  9 gcp  9 dx  4  5
+  "Ty" ext  8 calc  8 gcp  8 dx  5  3
+  "Wa" ext  11 calc  11 gcp  11 dx  7  4
+  "11" ext  8 calc  7 gcp  7 dx  3  4
+  "Tue" ext  13 calc  13 gcp  13 dx  5  4  4
+  "LT" ext  9 calc  8 gcp  8 dx  3  5
+  "P." ext  7 calc  6 gcp  6 dx  4  2
+  "Yo" ext  9 calc  8 gcp  8 dx  4  4
+  "Today: 3/17/2021" ext  56 calc  55 gcp  55 dx  4  4  4  4  3  2  2  4  2  4  4  2  4  4  4  4
+  "AVAVAV" ext  30 calc  25 gcp  25 dx  4  4  4  4  4  5
+  "T.T," ext  14 calc  12 gcp  12 dx  4  2  4  2
+== Arial  -11
+   pairs  909  909
+  "To" ext  12 calc  11 gcp  11 dx  5  6
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  12 calc  11 gcp  11 dx  5  6
+  "Wa" ext  16 calc  16 gcp  16 dx  10  6
+  "11" ext  12 calc  11 gcp  11 dx  5  6
+  "Tue" ext  18 calc  18 gcp  18 dx  6  6  6
+  "LT" ext  12 calc  11 gcp  11 dx  5  6
+  "P." ext  9 calc  8 gcp  8 dx  5  3
+  "Yo" ext  14 calc  13 gcp  13 dx  7  6
+  "Today: 3/17/2021" ext  84 calc  83 gcp  83 dx  5  6  6  6  6  3  3  6  3  6  6  3  6  6  6  6
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  18 calc  16 gcp  16 dx  5  3  5  3
+== Arial  -13
+   pairs  909  909
+  "To" ext  14 calc  13 gcp  13 dx  6  7
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  14 calc  13 gcp  13 dx  6  7
+  "Wa" ext  20 calc  20 gcp  20 dx  13  7
+  "11" ext  14 calc  13 gcp  13 dx  6  7
+  "Tue" ext  21 calc  21 gcp  21 dx  7  7  7
+  "LT" ext  14 calc  13 gcp  13 dx  6  7
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  16 calc  15 gcp  15 dx  8  7
+  "Today: 3/17/2021" ext  100 calc  99 gcp  99 dx  6  7  7  7  7  4  4  7  4  7  7  4  7  7  7  7
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  22 calc  20 gcp  20 dx  6  4  6  4
+== Arial  -14
+   pairs  909  909
+    11 -1 AT -1 AV -1 AW -1 AY -1 Ay 0 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA -1 T, -2 T. -2
+    T: -2 TA -1 Ta -2 Te -2 To -2 Tu -1 Ty -1 V, -1 V. -1 V: -1 VA -1 Va -1 Ve -1 Vo -1 Vu -1 Vy -1
+    W, -1 W. -1 W: 0 WA -1 Wa -1 We 0 Wo 0 Wu 0 Wy 0 Y, -2 Y. -2 Y: -1 YA -1 Ya -1 Ye -1 Yo -1
+    Yu -1 y, -1 y. -1
+  "To" ext  17 calc  15 gcp  15 dx  7  8
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  16 calc  15 gcp  15 dx  8  7
+  "Wa" ext  21 calc  20 gcp  20 dx  12  8
+  "11" ext  16 calc  15 gcp  15 dx  7  8
+  "Tue" ext  25 calc  24 gcp  24 dx  8  8  8
+  "LT" ext  17 calc  16 gcp  16 dx  7  9
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  17 calc  16 gcp  16 dx  8  8
+  "Today: 3/17/2021" ext  112 calc  110 gcp  110 dx  7  8  8  8  7  4  4  8  4  8  8  4  8  8  8  8
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  26 calc  22 gcp  22 dx  7  4  7  4
+  drawn  0x0
+   text  10  0 " " dx  15 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x1
+   text  101  0 " " dx  17 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  101  0 "AV" dx  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x2
+   text  186  0 " " dx  24 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  186  0 "Tue" dx  9  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== Arial  -16
+   pairs  909  909
+    11 -1 AT -1 AV -1 AW -1 AY -1 Ay 0 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA -1 T, -2 T. -2
+    T: -2 TA -1 Ta -2 Te -2 To -2 Tu -1 Ty -1 V, -1 V. -1 V: -1 VA -1 Va -1 Ve -1 Vo -1 Vu -1 Vy -1
+    W, -1 W. -1 W: 0 WA -1 Wa -1 We 0 Wo 0 Wu 0 Wy 0 Y, -2 Y. -2 Y: -1 YA -1 Ya -1 Ye -1 Yo -1
+    Yu -1 y, -1 y. -1
+  "To" ext  18 calc  16 gcp  16 dx  7  9
+  "AV" ext  22 calc  21 gcp  21 dx  10  11
+  "Ty" ext  16 calc  15 gcp  15 dx  8  7
+  "Wa" ext  24 calc  23 gcp  23 dx  14  9
+  "11" ext  18 calc  17 gcp  17 dx  8  9
+  "Tue" ext  26 calc  25 gcp  25 dx  8  8  9
+  "LT" ext  18 calc  17 gcp  17 dx  8  9
+  "P." ext  15 calc  13 gcp  13 dx  9  4
+  "Yo" ext  18 calc  17 gcp  17 dx  8  9
+  "Today: 3/17/2021" ext  122 calc  120 gcp  120 dx  7  9  9  9  7  4  4  9  4  9  9  4  9  9  9  9
+  "AVAVAV" ext  66 calc  61 gcp  61 dx  10  10  10  10  10  11
+  "T.T," ext  26 calc  22 gcp  22 dx  7  4  7  4
+== Arial  -21
+   pairs  909  909
+  "To" ext  24 calc  22 gcp  22 dx  10  12
+  "AV" ext  26 calc  24 gcp  24 dx  11  13
+  "Ty" ext  23 calc  22 gcp  22 dx  11  11
+  "Wa" ext  33 calc  32 gcp  32 dx  20  12
+  "11" ext  24 calc  22 gcp  22 dx  10  12
+  "Tue" ext  35 calc  34 gcp  34 dx  11  11  12
+  "LT" ext  24 calc  22 gcp  22 dx  10  12
+  "P." ext  20 calc  17 gcp  17 dx  11  6
+  "Yo" ext  26 calc  24 gcp  24 dx  12  12
+  "Today: 3/17/2021" ext  166 calc  164 gcp  164 dx  10  12  11  12  11  6  6  12  6  12  12  6  12  12  12  12
+  "AVAVAV" ext  78 calc  68 gcp  68 dx  11  11  11  11  11  13
+  "T.T," ext  36 calc  32 gcp  32 dx  10  6  10  6
+  drawn  0x0
+   text  10  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  10  0 "To" dx  12  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x1
+   text  98  0 " " dx  24 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  98  0 "AV" dx  13  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x2
+   text  176  0 " " dx  34 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  176  0 "Tue" dx  12  11  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+== Arial  -32
+   pairs  909  909
+  "To" ext  36 calc  32 gcp  32 dx  15  17
+  "AV" ext  42 calc  40 gcp  40 dx  19  21
+  "Ty" ext  34 calc  32 gcp  32 dx  17  15
+  "Wa" ext  49 calc  48 gcp  48 dx  31  17
+  "11" ext  36 calc  34 gcp  34 dx  16  18
+  "Tue" ext  54 calc  53 gcp  53 dx  18  18  17
+  "LT" ext  37 calc  35 gcp  35 dx  16  19
+  "P." ext  30 calc  26 gcp  26 dx  17  9
+  "Yo" ext  38 calc  35 gcp  35 dx  18  17
+  "Today: 3/17/2021" ext  247 calc  243 gcp  243 dx  15  17  17  17  15  9  9  18  9  18  18  9  18  18  18  18
+  "AVAVAV" ext  126 calc  116 gcp  116 dx  19  19  19  19  19  21
+  "T.T," ext  56 calc  48 gcp  48 dx  15  9  15  9
+== Arial  -48
+   pairs  909  909
+  "To" ext  55 calc  50 gcp  50 dx  23  27
+  "AV" ext  64 calc  60 gcp  60 dx  28  32
+  "Ty" ext  51 calc  48 gcp  48 dx  25  23
+  "Wa" ext  75 calc  73 gcp  73 dx  46  27
+  "11" ext  54 calc  50 gcp  50 dx  23  27
+  "Tue" ext  82 calc  80 gcp  80 dx  26  27  27
+  "LT" ext  55 calc  51 gcp  51 dx  23  28
+  "P." ext  45 calc  39 gcp  39 dx  26  13
+  "Yo" ext  57 calc  53 gcp  53 dx  26  27
+  "Today: 3/17/2021" ext  373 calc  368 gcp  368 dx  23  27  27  27  23  13  13  27  13  27  27  13  27  27  27  27
+  "AVAVAV" ext  192 calc  172 gcp  172 dx  28  28  28  28  28  32
+  "T.T," ext  82 calc  72 gcp  72 dx  23  13  23  13
+== Arial  -2048
+   pairs  909  909
+    11 -152 AT -152 AV -152 AW -76 AY -152 Ay -37 LT -152 LV -152 LW -152 LY -152 Ly -76 P, -264 P. -264 PA -152 T, -227 T. -227
+    T: -227 TA -152 Ta -227 Te -227 To -227 Tu -76 Ty -113 V, -188 V. -188 V: -76 VA -152 Va -152 Ve -113 Vo -113 Vu -76 Vy -76
+    W, -113 W. -113 W: -37 WA -76 Wa -76 We -37 Wo -37 Wu -37 Wy -18 Y, -264 Y. -264 Y: -113 YA -152 Ya -152 Ye -188 Yo -188
+    Yu -113 y, -152 y. -152
+== Arial  -8 bold
+   pairs  908  908
+  "To" ext  10 calc  9 gcp  9 dx  4  5
+  "AV" ext  10 calc  9 gcp  9 dx  4  5
+  "Ty" ext  8 calc  7 gcp  7 dx  4  3
+  "Wa" ext  13 calc  13 gcp  13 dx  9  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  14 calc  13 gcp  13 dx  4  5  4
+  "LT" ext  10 calc  9 gcp  9 dx  4  5
+  "P." ext  7 calc  6 gcp  6 dx  4  2
+  "Yo" ext  10 calc  9 gcp  9 dx  4  5
+  "Today: 3/17/2021" ext  59 calc  58 gcp  58 dx  4  5  5  4  3  3  2  4  2  4  4  2  4  4  4  4
+  "AVAVAV" ext  30 calc  25 gcp  25 dx  4  4  4  4  4  5
+  "T.T," ext  14 calc  12 gcp  12 dx  4  2  4  2
+== Arial  -11 bold
+   pairs  908  908
+  "To" ext  14 calc  13 gcp  13 dx  6  7
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  13 calc  12 gcp  12 dx  6  6
+  "Wa" ext  16 calc  16 gcp  16 dx  10  6
+  "11" ext  12 calc  11 gcp  11 dx  5  6
+  "Tue" ext  21 calc  20 gcp  20 dx  6  7  7
+  "LT" ext  14 calc  13 gcp  13 dx  6  7
+  "P." ext  10 calc  9 gcp  9 dx  6  3
+  "Yo" ext  14 calc  13 gcp  13 dx  6  7
+  "Today: 3/17/2021" ext  87 calc  86 gcp  86 dx  6  7  7  6  6  3  3  6  3  6  6  3  6  6  6  6
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  20 calc  18 gcp  18 dx  6  3  6  3
+== Arial  -13 bold
+   pairs  908  908
+  "To" ext  16 calc  15 gcp  15 dx  7  8
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  15 calc  14 gcp  14 dx  7  7
+  "Wa" ext  21 calc  21 gcp  21 dx  13  8
+  "11" ext  14 calc  13 gcp  13 dx  6  7
+  "Tue" ext  24 calc  23 gcp  23 dx  7  8  8
+  "LT" ext  16 calc  15 gcp  15 dx  7  8
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  16 calc  15 gcp  15 dx  7  8
+  "Today: 3/17/2021" ext  104 calc  103 gcp  103 dx  7  8  8  8  7  4  4  7  4  7  7  4  7  7  7  7
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  24 calc  22 gcp  22 dx  7  4  7  4
+== Arial  -14 bold
+   pairs  908  908
+    11 -1 AT -1 AV -1 AW -1 AY -1 Ay -1 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA -1 T, -2 T. -2
+    T: -2 TA -1 Ta -1 Te -1 To -1 Tu -1 Ty -1 V, -1 V. -1 V: -1 VA -1 Va -1 Ve -1 Vo -1 Vu -1 Vy -1
+    W, -1 W. -1 W: 0 WA -1 Wa -1 We 0 Wo 0 Wu 0 Wy 0 Y, -2 Y. -2 Y: -1 YA -1 Ya -1 Ye -1 Yo -1
+    Yu -1 y, -1 y. -1
+  "To" ext  17 calc  16 gcp  16 dx  7  9
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  15 calc  14 gcp  14 dx  7  7
+  "Wa" ext  21 calc  20 gcp  20 dx  12  8
+  "11" ext  16 calc  15 gcp  15 dx  7  8
+  "Tue" ext  26 calc  25 gcp  25 dx  7  9  9
+  "LT" ext  16 calc  15 gcp  15 dx  7  8
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  19 calc  18 gcp  18 dx  9  9
+  "Today: 3/17/2021" ext  113 calc  112 gcp  112 dx  7  9  9  8  7  4  4  8  4  8  8  4  8  8  8  8
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  24 calc  20 gcp  20 dx  6  4  6  4
+  drawn  0x0
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  10  0 "To" dx  8  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x1
+   text  101  0 " " dx  17 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  101  0 "AV" dx  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x2
+   text  185  0 " " dx  25 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  185  0 "Tue" dx  8  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+== Arial  -16 bold
+   pairs  908  908
+    11 -1 AT -1 AV -1 AW -1 AY -1 Ay -1 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA -1 T, -2 T. -2
+    T: -2 TA -1 Ta -1 Te -1 To -1 Tu -1 Ty -1 V, -1 V. -1 V: -1 VA -1 Va -1 Ve -1 Vo -1 Vu -1 Vy -1
+    W, -1 W. -1 W: 0 WA -1 Wa -1 We 0 Wo 0 Wu 0 Wy 0 Y, -2 Y. -2 Y: -1 YA -1 Ya -1 Ye -1 Yo -1
+    Yu -1 y, -1 y. -1
+  "To" ext  20 calc  19 gcp  19 dx  9  10
+  "AV" ext  22 calc  21 gcp  21 dx  10  11
+  "Ty" ext  19 calc  18 gcp  18 dx  9  9
+  "Wa" ext  24 calc  23 gcp  23 dx  14  9
+  "11" ext  18 calc  17 gcp  17 dx  8  9
+  "Tue" ext  29 calc  28 gcp  28 dx  9  10  9
+  "LT" ext  20 calc  19 gcp  19 dx  9  10
+  "P." ext  15 calc  13 gcp  13 dx  9  4
+  "Yo" ext  20 calc  19 gcp  19 dx  9  10
+  "Today: 3/17/2021" ext  129 calc  128 gcp  128 dx  9  10  10  9  9  6  4  9  4  9  9  4  9  9  9  9
+  "AVAVAV" ext  66 calc  61 gcp  61 dx  10  10  10  10  10  11
+  "T.T," ext  28 calc  24 gcp  24 dx  8  4  8  4
+== Arial  -21 bold
+   pairs  908  908
+  "To" ext  26 calc  24 gcp  24 dx  11  13
+  "AV" ext  28 calc  26 gcp  26 dx  13  13
+  "Ty" ext  24 calc  22 gcp  22 dx  11  11
+  "Wa" ext  33 calc  32 gcp  32 dx  20  12
+  "11" ext  24 calc  23 gcp  23 dx  11  12
+  "Tue" ext  38 calc  36 gcp  36 dx  11  13  12
+  "LT" ext  26 calc  24 gcp  24 dx  11  13
+  "P." ext  20 calc  17 gcp  17 dx  11  6
+  "Yo" ext  26 calc  24 gcp  24 dx  11  13
+  "Today: 3/17/2021" ext  171 calc  169 gcp  169 dx  11  13  13  12  11  7  6  12  6  12  12  6  12  12  12  12
+  "AVAVAV" ext  84 calc  74 gcp  74 dx  13  11  13  11  13  13
+  "T.T," ext  38 calc  34 gcp  34 dx  11  6  11  6
+  drawn  0x0
+   text  10  0 " " dx  24 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  10  0 "To" dx  13  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x1
+   text  97  0 " " dx  26 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  97  0 "AV" dx  15  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x2
+   text  174  0 " " dx  36 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  174  0 "Tue" dx  13  13  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+== Arial  -32 bold
+   pairs  908  908
+  "To" ext  39 calc  37 gcp  37 dx  18  19
+  "AV" ext  44 calc  42 gcp  42 dx  21  21
+  "Ty" ext  37 calc  35 gcp  35 dx  18  17
+  "Wa" ext  49 calc  48 gcp  48 dx  30  18
+  "11" ext  36 calc  34 gcp  34 dx  16  18
+  "Tue" ext  57 calc  55 gcp  55 dx  18  19  18
+  "LT" ext  40 calc  38 gcp  38 dx  18  20
+  "P." ext  29 calc  25 gcp  25 dx  16  9
+  "Yo" ext  39 calc  37 gcp  37 dx  18  19
+  "Today: 3/17/2021" ext  256 calc  254 gcp  254 dx  18  19  19  18  17  10  9  18  9  18  18  9  18  18  18  18
+  "AVAVAV" ext  132 calc  122 gcp  122 dx  21  19  21  19  21  21
+  "T.T," ext  58 calc  50 gcp  50 dx  16  9  16  9
+== Arial  -48 bold
+   pairs  908  908
+  "To" ext  59 calc  55 gcp  55 dx  26  29
+  "AV" ext  65 calc  61 gcp  61 dx  29  32
+  "Ty" ext  57 calc  53 gcp  53 dx  26  27
+  "Wa" ext  72 calc  70 gcp  70 dx  43  27
+  "11" ext  54 calc  51 gcp  51 dx  24  27
+  "Tue" ext  86 calc  82 gcp  82 dx  26  29  27
+  "LT" ext  59 calc  55 gcp  55 dx  25  30
+  "P." ext  45 calc  39 gcp  39 dx  26  13
+  "Yo" ext  62 calc  58 gcp  58 dx  29  29
+  "Today: 3/17/2021" ext  387 calc  383 gcp  383 dx  26  29  29  27  27  17  13  27  13  27  27  13  27  27  27  27
+  "AVAVAV" ext  195 calc  175 gcp  175 dx  29  28  29  28  29  32
+  "T.T," ext  86 calc  76 gcp  76 dx  25  13  25  13
+== Arial  -2048 bold
+   pairs  908  908
+    11 -113 AT -152 AV -152 AW -113 AY -188 Ay -76 LT -152 LV -152 LW -113 LY -188 Ly -76 P, -264 P. -264 PA -152 T, -227 T. -227
+    T: -227 TA -152 Ta -152 Te -152 To -152 Tu -152 Ty -152 V, -188 V. -188 V: -113 VA -152 Va -113 Ve -113 Vo -152 Vu -76 Vy -76
+    W, -113 W. -113 W: -37 WA -113 Wa -76 We -37 Wo -37 Wu -37 Wy -37 Y, -227 Y. -227 Y: -152 YA -188 Ya -113 Ye -113 Yo -152
+    Yu -113 y, -152 y. -152
+== Times New Roman  -8
+   pairs  867  867
+  "To" ext  9 calc  8 gcp  8 dx  4  4
+  "AV" ext  12 calc  11 gcp  11 dx  5  6
+  "Ty" ext  10 calc  9 gcp  9 dx  4  5
+  "Wa" ext  12 calc  11 gcp  11 dx  7  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  13 calc  13 gcp  13 dx  5  4  4
+  "LT" ext  10 calc  9 gcp  9 dx  4  5
+  "P." ext  7 calc  6 gcp  6 dx  4  2
+  "Yo" ext  10 calc  9 gcp  9 dx  5  4
+  "Today: 3/17/2021" ext  58 calc  57 gcp  57 dx  4  4  4  4  5  2  2  4  2  4  4  2  4  4  4  4
+  "AVAVAV" ext  36 calc  31 gcp  31 dx  5  5  5  5  5  6
+  "T.T," ext  14 calc  12 gcp  12 dx  4  2  4  2
+== Times New Roman  -11
+   pairs  867  867
+  "To" ext  14 calc  13 gcp  13 dx  7  6
+  "AV" ext  15 calc  14 gcp  14 dx  7  7
+  "Ty" ext  14 calc  13 gcp  13 dx  7  6
+  "Wa" ext  16 calc  15 gcp  15 dx  10  5
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  18 calc  18 gcp  18 dx  8  5  5
+  "LT" ext  15 calc  14 gcp  14 dx  6  8
+  "P." ext  10 calc  9 gcp  9 dx  6  3
+  "Yo" ext  14 calc  13 gcp  13 dx  7  6
+  "Today: 3/17/2021" ext  84 calc  83 gcp  83 dx  7  6  5  5  6  3  3  6  3  6  6  3  6  6  6  6
+  "AVAVAV" ext  45 calc  40 gcp  40 dx  7  6  7  6  7  7
+  "T.T," ext  22 calc  20 gcp  20 dx  7  3  7  3
+== Times New Roman  -13
+   pairs  867  867
+  "To" ext  15 calc  14 gcp  14 dx  7  7
+  "AV" ext  18 calc  16 gcp  16 dx  8  8
+  "Ty" ext  15 calc  14 gcp  14 dx  7  7
+  "Wa" ext  19 calc  18 gcp  18 dx  12  6
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  21 calc  21 gcp  21 dx  8  7  6
+  "LT" ext  15 calc  14 gcp  14 dx  6  8
+  "P." ext  10 calc  9 gcp  9 dx  6  3
+  "Yo" ext  15 calc  14 gcp  14 dx  7  7
+  "Today: 3/17/2021" ext  91 calc  90 gcp  90 dx  7  7  7  6  7  3  3  6  4  6  6  4  6  6  6  6
+  "AVAVAV" ext  54 calc  44 gcp  44 dx  8  6  8  6  8  8
+  "T.T," ext  22 calc  20 gcp  20 dx  7  3  7  3
+== Times New Roman  -14
+   pairs  867  867
+    11 -1 AT -2 AV -2 AW -1 AY -1 Ay -1 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA -1 T, -1 T. -1
+    T: -1 TA -1 Ta -1 Te -1 To -1 Tu 0 Ty -1 V, -2 V. -2 V: -1 VA -2 Va -2 Ve -2 Vo -2 Vu -1 Vy -2
+    W, -1 W. -1 W: -1 WA -2 Wa -1 We -1 Wo -1 Wu -1 Wy -1 Y, -2 Y. -2 Y: -1 YA -2 Ya -1 Ye -1 Yo -1
+    Yu -2 y, -1 y. -1
+  "To" ext  16 calc  15 gcp  15 dx  8  7
+  "AV" ext  18 calc  16 gcp  16 dx  7  9
+  "Ty" ext  16 calc  15 gcp  15 dx  8  7
+  "Wa" ext  19 calc  18 gcp  18 dx  12  6
+  "11" ext  14 calc  13 gcp  13 dx  6  7
+  "Tue" ext  22 calc  22 gcp  22 dx  9  7  6
+  "LT" ext  17 calc  16 gcp  16 dx  7  9
+  "P." ext  12 calc  10 gcp  10 dx  6  4
+  "Yo" ext  16 calc  15 gcp  15 dx  8  7
+  "Today: 3/17/2021" ext  100 calc  99 gcp  99 dx  8  7  7  6  7  3  4  7  4  7  7  4  7  7  7  7
+  "AVAVAV" ext  54 calc  44 gcp  44 dx  7  7  7  7  7  9
+  "T.T," ext  26 calc  24 gcp  24 dx  8  4  8  4
+  drawn  0x0
+   text  10  0 " " dx  15 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  9  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x1
+   text  102  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  102  0 "AV" dx  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x2
+   text  188  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  188  0 "Tue" dx  9  7  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== Times New Roman  -16
+   pairs  867  867
+    11 -1 AT -2 AV -2 AW -1 AY -1 Ay -1 LT -1 LV -1 LW -1 LY -2 Ly -1 P, -2 P. -2 PA -1 T, -1 T. -1
+    T: -1 TA -1 Ta -1 Te -1 To -1 Tu -1 Ty -1 V, -2 V. -2 V: -1 VA -2 Va -2 Ve -2 Vo -2 Vu -1 Vy -2
+    W, -1 W. -1 W: -1 WA -2 Wa -1 We -1 Wo -1 Wu -1 Wy -1 Y, -2 Y. -2 Y: -1 YA -2 Ya -2 Ye -2 Yo -2
+    Yu -2 y, -1 y. -1
+  "To" ext  17 calc  16 gcp  16 dx  8  8
+  "AV" ext  22 calc  20 gcp  20 dx  9  11
+  "Ty" ext  16 calc  15 gcp  15 dx  8  7
+  "Wa" ext  22 calc  21 gcp  21 dx  14  7
+  "11" ext  16 calc  15 gcp  15 dx  7  8
+  "Tue" ext  23 calc  22 gcp  22 dx  8  7  7
+  "LT" ext  18 calc  17 gcp  17 dx  8  9
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  19 calc  17 gcp  17 dx  9  8
+  "Today: 3/17/2021" ext  110 calc  109 gcp  109 dx  8  8  8  7  7  3  4  8  4  8  8  4  8  8  8  8
+  "AVAVAV" ext  66 calc  56 gcp  56 dx  9  9  9  9  9  11
+  "T.T," ext  26 calc  24 gcp  24 dx  8  4  8  4
+== Times New Roman  -21
+   pairs  867  867
+  "To" ext  23 calc  22 gcp  22 dx  11  11
+  "AV" ext  29 calc  26 gcp  26 dx  11  15
+  "Ty" ext  21 calc  20 gcp  20 dx  11  9
+  "Wa" ext  28 calc  26 gcp  26 dx  17  9
+  "11" ext  22 calc  21 gcp  21 dx  10  11
+  "Tue" ext  32 calc  31 gcp  31 dx  11  11  9
+  "LT" ext  24 calc  22 gcp  22 dx  10  12
+  "P." ext  17 calc  15 gcp  15 dx  10  5
+  "Yo" ext  26 calc  24 gcp  24 dx  13  11
+  "Today: 3/17/2021" ext  151 calc  150 gcp  150 dx  11  11  10  9  9  6  5  11  6  11  11  6  11  11  11  11
+  "AVAVAV" ext  87 calc  72 gcp  72 dx  11  12  11  12  11  15
+  "T.T," ext  34 calc  30 gcp  30 dx  10  5  10  5
+  drawn  0x0
+   text  10  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  10  0 "To" dx  12  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x1
+   text  97  0 " " dx  26 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  97  0 "AV" dx  14  15 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x2
+   text  179  0 " " dx  31 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  179  0 "Tue" dx  12  11  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+== Times New Roman  -32
+   pairs  867  867
+  "To" ext  35 calc  33 gcp  33 dx  17  16
+  "AV" ext  45 calc  41 gcp  41 dx  18  23
+  "Ty" ext  34 calc  32 gcp  32 dx  17  15
+  "Wa" ext  43 calc  40 gcp  40 dx  26  14
+  "11" ext  32 calc  31 gcp  31 dx  15  16
+  "Tue" ext  48 calc  47 gcp  47 dx  18  15  14
+  "LT" ext  38 calc  35 gcp  35 dx  16  19
+  "P." ext  26 calc  22 gcp  22 dx  14  8
+  "Yo" ext  39 calc  36 gcp  36 dx  20  16
+  "Today: 3/17/2021" ext  227 calc  225 gcp  225 dx  17  16  16  14  15  9  8  16  9  16  16  9  16  16  16  16
+  "AVAVAV" ext  135 calc  115 gcp  115 dx  18  19  18  19  18  23
+  "T.T," ext  54 calc  50 gcp  50 dx  17  8  17  8
+== Times New Roman  -48
+   pairs  867  867
+  "To" ext  52 calc  49 gcp  49 dx  26  23
+  "AV" ext  69 calc  63 gcp  63 dx  28  35
+  "Ty" ext  51 calc  48 gcp  48 dx  26  22
+  "Wa" ext  66 calc  62 gcp  62 dx  41  21
+  "11" ext  48 calc  46 gcp  46 dx  22  24
+  "Tue" ext  74 calc  72 gcp  72 dx  27  24  21
+  "LT" ext  58 calc  54 gcp  54 dx  25  29
+  "P." ext  39 calc  34 gcp  34 dx  22  12
+  "Yo" ext  58 calc  53 gcp  53 dx  30  23
+  "Today: 3/17/2021" ext  337 calc  334 gcp  334 dx  26  23  24  21  22  12  12  24  13  24  24  13  24  24  24  24
+  "AVAVAV" ext  207 calc  177 gcp  177 dx  28  29  28  29  28  35
+  "T.T," ext  82 calc  74 gcp  74 dx  25  12  25  12
+== Times New Roman  -2048
+   pairs  867  867
+    11 -76 AT -227 AV -264 AW -164 AY -188 Ay -188 LT -188 LV -188 LW -152 LY -205 Ly -113 P, -227 P. -227 PA -188 T, -152 T. -152
+    T: -102 TA -164 Ta -143 Te -143 To -143 Tu -72 Ty -143 V, -264 V. -264 V: -152 VA -264 Va -227 Ve -227 Vo -264 Vu -123 Vy -227
+    W, -188 W. -188 W: -76 WA -227 Wa -164 We -164 Wo -164 Wu -82 Wy -123 Y, -264 Y. -264 Y: -188 YA -227 Ya -205 Ye -205 Yo -205
+    Yu -227 y, -133 y. -133
+== Times New Roman  -8 bold
+   pairs  872  872
+  "To" ext  9 calc  8 gcp  8 dx  4  4
+  "AV" ext  12 calc  11 gcp  11 dx  5  6
+  "Ty" ext  9 calc  8 gcp  8 dx  4  4
+  "Wa" ext  12 calc  12 gcp  12 dx  8  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  13 calc  12 gcp  12 dx  4  4  4
+  "LT" ext  10 calc  9 gcp  9 dx  4  5
+  "P." ext  7 calc  6 gcp  6 dx  4  2
+  "Yo" ext  10 calc  9 gcp  9 dx  5  4
+  "Today: 3/17/2021" ext  58 calc  57 gcp  57 dx  4  4  4  4  4  3  2  4  2  4  4  2  4  4  4  4
+  "AVAVAV" ext  36 calc  31 gcp  31 dx  5  5  5  5  5  6
+  "T.T," ext  14 calc  12 gcp  12 dx  4  2  4  2
+== Times New Roman  -11 bold
+   pairs  872  872
+  "To" ext  12 calc  11 gcp  11 dx  5  6
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  12 calc  11 gcp  11 dx  5  6
+  "Wa" ext  18 calc  17 gcp  17 dx  11  6
+  "11" ext  12 calc  11 gcp  11 dx  5  6
+  "Tue" ext  19 calc  18 gcp  18 dx  5  7  6
+  "LT" ext  13 calc  12 gcp  12 dx  6  6
+  "P." ext  10 calc  9 gcp  9 dx  6  3
+  "Yo" ext  14 calc  13 gcp  13 dx  7  6
+  "Today: 3/17/2021" ext  85 calc  84 gcp  84 dx  5  6  6  6  6  4  3  6  3  6  6  3  6  6  6  6
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  18 calc  16 gcp  16 dx  5  3  5  3
+== Times New Roman  -13 bold
+   pairs  872  872
+  "To" ext  14 calc  13 gcp  13 dx  7  6
+  "AV" ext  18 calc  16 gcp  16 dx  7  9
+  "Ty" ext  14 calc  13 gcp  13 dx  7  6
+  "Wa" ext  19 calc  18 gcp  18 dx  12  6
+  "11" ext  14 calc  13 gcp  13 dx  6  7
+  "Tue" ext  21 calc  20 gcp  20 dx  7  7  6
+  "LT" ext  16 calc  15 gcp  15 dx  7  8
+  "P." ext  11 calc  10 gcp  10 dx  7  3
+  "Yo" ext  14 calc  13 gcp  13 dx  7  6
+  "Today: 3/17/2021" ext  96 calc  95 gcp  95 dx  7  6  6  6  6  4  3  7  4  7  7  4  7  7  7  7
+  "AVAVAV" ext  54 calc  44 gcp  44 dx  7  7  7  7  7  9
+  "T.T," ext  22 calc  20 gcp  20 dx  7  3  7  3
+== Times New Roman  -14 bold
+   pairs  872  872
+    11 -1 AT -1 AV -2 AW -2 AY -1 Ay -1 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -1 P. -1 PA -1 T, -1 T. -1
+    T: -1 TA -1 Ta -1 Te -1 To -1 Tu -1 Ty -1 V, -2 V. -2 V: -1 VA -2 Va -1 Ve -1 Vo -1 Vu -1 Vy -1
+    W, -1 W. -1 W: -1 WA -2 Wa -1 We -1 Wo -1 Wu 0 Wy -1 Y, -1 Y. -1 Y: -1 YA -1 Ya -2 Ye -2 Yo -2
+    Yu -1 y, -1 y. -1
+  "To" ext  15 calc  14 gcp  14 dx  7  7
+  "AV" ext  20 calc  18 gcp  18 dx  8  10
+  "Ty" ext  15 calc  14 gcp  14 dx  7  7
+  "Wa" ext  21 calc  20 gcp  20 dx  13  7
+  "11" ext  14 calc  13 gcp  13 dx  6  7
+  "Tue" ext  23 calc  22 gcp  22 dx  7  8  7
+  "LT" ext  17 calc  16 gcp  16 dx  8  8
+  "P." ext  12 calc  11 gcp  11 dx  7  4
+  "Yo" ext  17 calc  15 gcp  15 dx  8  7
+  "Today: 3/17/2021" ext  102 calc  101 gcp  101 dx  7  7  7  7  7  5  4  7  4  7  7  4  7  7  7  7
+  "AVAVAV" ext  60 calc  50 gcp  50 dx  8  8  8  8  8  10
+  "T.T," ext  24 calc  22 gcp  22 dx  7  4  7  4
+  drawn  0x0
+   text  10  0 " " dx  14 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  10  0 "To" dx  8  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x1
+   text  101  0 " " dx  18 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  101  0 "AV" dx  10  10 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x2
+   text  188  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  188  0 "Tue" dx  8  8  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+== Times New Roman  -16 bold
+   pairs  872  872
+    11 -1 AT -1 AV -2 AW -2 AY -1 Ay -1 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -1 P. -1 PA -1 T, -1 T. -1
+    T: -1 TA -1 Ta -1 Te -1 To -1 Tu -1 Ty -1 V, -2 V. -2 V: -1 VA -2 Va -1 Ve -1 Vo -1 Vu -1 Vy -1
+    W, -1 W. -1 W: -1 WA -2 Wa -1 We -1 Wo -1 Wu 0 Wy -1 Y, -1 Y. -1 Y: -1 YA -1 Ya -2 Ye -2 Yo -2
+    Yu -1 y, -1 y. -1
+  "To" ext  18 calc  17 gcp  17 dx  9  8
+  "AV" ext  22 calc  20 gcp  20 dx  9  11
+  "Ty" ext  18 calc  17 gcp  17 dx  9  8
+  "Wa" ext  23 calc  22 gcp  22 dx  14  8
+  "11" ext  16 calc  15 gcp  15 dx  7  8
+  "Tue" ext  26 calc  25 gcp  25 dx  9  8  8
+  "LT" ext  20 calc  19 gcp  19 dx  9  10
+  "P." ext  13 calc  12 gcp  12 dx  8  4
+  "Yo" ext  18 calc  16 gcp  16 dx  8  8
+  "Today: 3/17/2021" ext  115 calc  114 gcp  114 dx  9  8  8  8  8  5  4  8  4  8  8  4  8  8  8  8
+  "AVAVAV" ext  66 calc  56 gcp  56 dx  9  9  9  9  9  11
+  "T.T," ext  28 calc  26 gcp  26 dx  9  4  9  4
+== Times New Roman  -21 bold
+   pairs  872  872
+  "To" ext  24 calc  22 gcp  22 dx  11  11
+  "AV" ext  30 calc  27 gcp  27 dx  12  15
+  "Ty" ext  23 calc  21 gcp  21 dx  11  10
+  "Wa" ext  31 calc  30 gcp  30 dx  19  11
+  "11" ext  22 calc  21 gcp  21 dx  10  11
+  "Tue" ext  34 calc  32 gcp  32 dx  11  11  10
+  "LT" ext  27 calc  25 gcp  25 dx  12  13
+  "P." ext  19 calc  17 gcp  17 dx  12  5
+  "Yo" ext  26 calc  24 gcp  24 dx  13  11
+  "Today: 3/17/2021" ext  157 calc  155 gcp  155 dx  11  11  11  11  10  7  5  11  6  11  11  6  11  11  11  11
+  "AVAVAV" ext  90 calc  75 gcp  75 dx  12  12  12  12  12  15
+  "T.T," ext  36 calc  32 gcp  32 dx  11  5  11  5
+  drawn  0x0
+   text  10  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  10  0 "To" dx  13  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x1
+   text  96  0 " " dx  27 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  96  0 "AV" dx  15  15 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x2
+   text  178  0 " " dx  32 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  178  0 "Tue" dx  13  11  10 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+== Times New Roman  -32 bold
+   pairs  872  872
+  "To" ext  37 calc  34 gcp  34 dx  18  16
+  "AV" ext  46 calc  42 gcp  42 dx  19  23
+  "Ty" ext  36 calc  34 gcp  34 dx  19  15
+  "Wa" ext  48 calc  46 gcp  46 dx  30  16
+  "11" ext  32 calc  30 gcp  30 dx  14  16
+  "Tue" ext  53 calc  50 gcp  50 dx  18  18  14
+  "LT" ext  42 calc  39 gcp  39 dx  18  21
+  "P." ext  28 calc  25 gcp  25 dx  17  8
+  "Yo" ext  39 calc  35 gcp  35 dx  19  16
+  "Today: 3/17/2021" ext  235 calc  232 gcp  232 dx  18  16  18  16  15  11  8  16  9  16  16  9  16  16  16  16
+  "AVAVAV" ext  138 calc  118 gcp  118 dx  19  19  19  19  19  23
+  "T.T," ext  58 calc  54 gcp  54 dx  19  8  19  8
+== Times New Roman  -48 bold
+   pairs  872  872
+  "To" ext  56 calc  52 gcp  52 dx  28  24
+  "AV" ext  70 calc  64 gcp  64 dx  29  35
+  "Ty" ext  56 calc  52 gcp  52 dx  28  24
+  "Wa" ext  72 calc  69 gcp  69 dx  45  24
+  "11" ext  48 calc  45 gcp  45 dx  21  24
+  "Tue" ext  79 calc  75 gcp  75 dx  28  26  21
+  "LT" ext  64 calc  60 gcp  60 dx  28  32
+  "P." ext  41 calc  37 gcp  37 dx  25  12
+  "Yo" ext  59 calc  54 gcp  54 dx  30  24
+  "Today: 3/17/2021" ext  353 calc  349 gcp  349 dx  28  24  27  24  24  16  12  24  13  24  24  13  24  24  24  24
+  "AVAVAV" ext  210 calc  180 gcp  180 dx  29  29  29  29  29  35
+  "T.T," ext  88 calc  80 gcp  80 dx  28  12  28  12
+== Times New Roman  -2048 bold
+   pairs  872  872
+    11 -113 AT -152 AV -264 AW -227 AY -188 Ay -152 LT -188 LV -188 LW -188 LY -188 Ly -113 P, -188 P. -188 PA -152 T, -152 T. -152
+    T: -152 TA -152 Ta -188 Te -188 To -188 Tu -188 Ty -152 V, -264 V. -264 V: -188 VA -264 Va -188 Ve -188 Vo -188 Vu -188 Vy -188
+    W, -188 W. -188 W: -113 WA -227 Wa -113 We -113 Wo -113 Wu -37 Wy -76 Y, -188 Y. -188 Y: -188 YA -188 Ya -227 Ye -227 Yo -227
+    Yu -188 y, -113 y. -113
+== Tahoma  -8
+   pairs  674  674
+  "To" ext  9 calc  9 gcp  9 dx  5  4
+  "AV" ext  10 calc  10 gcp  10 dx  5  5
+  "Ty" ext  9 calc  9 gcp  9 dx  5  4
+  "Wa" ext  11 calc  11 gcp  11 dx  7  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  13 calc  13 gcp  13 dx  5  4  4
+  "LT" ext  9 calc  9 gcp  9 dx  4  5
+  "P." ext  6 calc  6 gcp  6 dx  4  2
+  "Yo" ext  9 calc  9 gcp  9 dx  5  4
+  "Today: 3/17/2021" ext  61 calc  61 gcp  61 dx  5  4  4  4  4  3  3  4  3  4  4  3  4  4  4  4
+  "AVAVAV" ext  30 calc  30 gcp  30 dx  5  5  5  5  5  5
+  "T.T," ext  14 calc  14 gcp  14 dx  5  2  5  2
+== Tahoma  -11
+   pairs  674  674
+  "To" ext  12 calc  12 gcp  12 dx  6  6
+  "AV" ext  13 calc  13 gcp  13 dx  7  6
+  "Ty" ext  12 calc  12 gcp  12 dx  6  6
+  "Wa" ext  16 calc  16 gcp  16 dx  10  6
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  18 calc  18 gcp  18 dx  6  6  6
+  "LT" ext  11 calc  11 gcp  11 dx  5  6
+  "P." ext  10 calc  10 gcp  10 dx  6  4
+  "Yo" ext  12 calc  12 gcp  12 dx  6  6
+  "Today: 3/17/2021" ext  87 calc  87 gcp  87 dx  6  6  6  6  6  4  3  6  4  6  6  4  6  6  6  6
+  "AVAVAV" ext  39 calc  39 gcp  39 dx  7  6  7  6  7  6
+  "T.T," ext  20 calc  20 gcp  20 dx  6  4  6  4
+== Tahoma  -13
+   pairs  674  674
+  "To" ext  15 calc  15 gcp  15 dx  8  7
+  "AV" ext  16 calc  16 gcp  16 dx  8  8
+  "Ty" ext  14 calc  14 gcp  14 dx  8  6
+  "Wa" ext  19 calc  19 gcp  19 dx  12  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  22 calc  22 gcp  22 dx  8  7  7
+  "LT" ext  14 calc  14 gcp  14 dx  6  8
+  "P." ext  11 calc  11 gcp  11 dx  7  4
+  "Yo" ext  14 calc  14 gcp  14 dx  7  7
+  "Today: 3/17/2021" ext  103 calc  103 gcp  103 dx  8  7  7  7  6  5  4  7  5  7  7  5  7  7  7  7
+  "AVAVAV" ext  48 calc  48 gcp  48 dx  8  8  8  8  8  8
+  "T.T," ext  24 calc  24 gcp  24 dx  8  4  8  4
+== Tahoma  -14
+   pairs  674  674
+    ., -1 AT -1 AV 0 AW 0 AY -1 Au 0 Ay 0 LA 0 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA 0
+    PY 0 Pa 0 Pe 0 Po 0 T, -2 T. -2 T: -1 TA -1 TT -1 TY 0 Ta -2 Te -1 To -1 Tu -1 Ty -1 V, -2
+    V. -2 V: -1 VA 0 Va -1 Ve -1 Vo -1 Vu 0 Vy 0 W, -2 W. -1 W: -1 WA 0 Wa -1 We -1 Wo -1 Wu 0
+    Wy 0 Y, -2 Y. -2 Y: -1 YA -1 Ya -1 Yd -1 Ye -1 Yo -1 Yu -1 ay 0 eT -1 o, 0 o. 0 oy 0 y, -1
+    y. -1 ya 0 yd 0 ye 0 yo 0
+  "To" ext  16 calc  16 gcp  16 dx  8  8
+  "AV" ext  16 calc  16 gcp  16 dx  8  8
+  "Ty" ext  16 calc  16 gcp  16 dx  8  8
+  "Wa" ext  21 calc  21 gcp  21 dx  14  7
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  23 calc  23 gcp  23 dx  8  8  7
+  "LT" ext  15 calc  15 gcp  15 dx  7  8
+  "P." ext  12 calc  12 gcp  12 dx  8  4
+  "Yo" ext  16 calc  16 gcp  16 dx  8  8
+  "Today: 3/17/2021" ext  114 calc  114 gcp  114 dx  8  8  8  7  8  5  4  8  5  8  8  5  8  8  8  8
+  "AVAVAV" ext  48 calc  48 gcp  48 dx  8  8  8  8  8  8
+  "T.T," ext  24 calc  24 gcp  24 dx  8  4  8  4
+  drawn  0x0
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x1
+   text  102  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  102  0 "AV" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x2
+   text  187  0 " " dx  23 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  187  0 "Tue" dx  8  8  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== Tahoma  -16
+   pairs  674  674
+    ., -1 AT -1 AV 0 AW 0 AY -1 Au 0 Ay 0 LA 0 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA 0
+    PY 0 Pa 0 Pe 0 Po 0 T, -2 T. -2 T: -1 TA -1 TT -1 TY -1 Ta -2 Te -2 To -2 Tu -1 Ty -1 V, -2
+    V. -2 V: -1 VA 0 Va -1 Ve -1 Vo -1 Vu 0 Vy 0 W, -2 W. -2 W: -1 WA 0 Wa -1 We -1 Wo -1 Wu 0
+    Wy 0 Y, -2 Y. -2 Y: -1 YA -1 Ya -1 Yd -1 Ye -1 Yo -1 Yu -1 ay 0 eT -1 o, 0 o. 0 oy 0 y, -1
+    y. -1 ya 0 yd 0 ye 0 yo 0
+  "To" ext  19 calc  19 gcp  19 dx  10  9
+  "AV" ext  21 calc  21 gcp  21 dx  11  10
+  "Ty" ext  18 calc  18 gcp  18 dx  10  8
+  "Wa" ext  22 calc  22 gcp  22 dx  14  8
+  "11" ext  18 calc  18 gcp  18 dx  9  9
+  "Tue" ext  27 calc  27 gcp  27 dx  10  9  8
+  "LT" ext  18 calc  18 gcp  18 dx  8  10
+  "P." ext  14 calc  14 gcp  14 dx  9  5
+  "Yo" ext  19 calc  19 gcp  19 dx  10  9
+  "Today: 3/17/2021" ext  130 calc  130 gcp  130 dx  10  9  9  8  8  6  5  9  6  9  9  6  9  9  9  9
+  "AVAVAV" ext  63 calc  63 gcp  63 dx  11  10  11  10  11  10
+  "T.T," ext  30 calc  30 gcp  30 dx  10  5  10  5
+== Tahoma  -21
+   pairs  674  674
+  "To" ext  23 calc  23 gcp  23 dx  12  11
+  "AV" ext  26 calc  26 gcp  26 dx  13  13
+  "Ty" ext  22 calc  22 gcp  22 dx  12  10
+  "Wa" ext  30 calc  30 gcp  30 dx  19  11
+  "11" ext  22 calc  22 gcp  22 dx  11  11
+  "Tue" ext  35 calc  35 gcp  35 dx  12  12  11
+  "LT" ext  22 calc  22 gcp  22 dx  10  12
+  "P." ext  18 calc  18 gcp  18 dx  12  6
+  "Yo" ext  23 calc  23 gcp  23 dx  12  11
+  "Today: 3/17/2021" ext  163 calc  163 gcp  163 dx  12  11  12  11  10  7  7  11  8  11  11  8  11  11  11  11
+  "AVAVAV" ext  78 calc  78 gcp  78 dx  13  13  13  13  13  13
+  "T.T," ext  36 calc  36 gcp  36 dx  12  6  12  6
+  drawn  0x0
+   text  10  0 " " dx  23 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  10  0 "To" dx  12  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x1
+   text  97  0 " " dx  26 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  97  0 "AV" dx  13  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x2
+   text  175  0 " " dx  35 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  175  0 "Tue" dx  12  12  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+== Tahoma  -32
+   pairs  674  674
+  "To" ext  36 calc  36 gcp  36 dx  19  17
+  "AV" ext  38 calc  38 gcp  38 dx  19  19
+  "Ty" ext  35 calc  35 gcp  35 dx  19  16
+  "Wa" ext  46 calc  46 gcp  46 dx  29  17
+  "11" ext  34 calc  34 gcp  34 dx  17  17
+  "Tue" ext  54 calc  54 gcp  54 dx  19  18  17
+  "LT" ext  35 calc  35 gcp  35 dx  16  19
+  "P." ext  28 calc  28 gcp  28 dx  18  10
+  "Yo" ext  35 calc  35 gcp  35 dx  18  17
+  "Today: 3/17/2021" ext  251 calc  251 gcp  251 dx  19  17  18  17  16  11  10  17  12  17  17  12  17  17  17  17
+  "AVAVAV" ext  114 calc  114 gcp  114 dx  19  19  19  19  19  19
+  "T.T," ext  58 calc  58 gcp  58 dx  19  10  19  10
+== Tahoma  -48
+   pairs  674  674
+  "To" ext  54 calc  54 gcp  54 dx  28  26
+  "AV" ext  58 calc  58 gcp  58 dx  29  29
+  "Ty" ext  52 calc  52 gcp  52 dx  28  24
+  "Wa" ext  68 calc  68 gcp  68 dx  43  25
+  "11" ext  52 calc  52 gcp  52 dx  26  26
+  "Tue" ext  80 calc  80 gcp  80 dx  28  27  25
+  "LT" ext  52 calc  52 gcp  52 dx  24  28
+  "P." ext  41 calc  41 gcp  41 dx  26  15
+  "Yo" ext  54 calc  54 gcp  54 dx  28  26
+  "Today: 3/17/2021" ext  380 calc  380 gcp  380 dx  28  26  27  25  24  17  15  26  18  26  26  18  26  26  26  26
+  "AVAVAV" ext  174 calc  174 gcp  174 dx  29  29  29  29  29  29
+  "T.T," ext  86 calc  86 gcp  86 dx  28  15  28  15
+== Tahoma  -2048
+   pairs  674  674
+    ., -133 AT -115 AV -55 AW -47 AY -76 Au -10 Ay -27 LA -41 LT -162 LV -104 LW -94 LY -152 Ly -104 P, -285 P. -285 PA -47
+    PY 18 Pa -47 Pe -47 Po -47 T, -276 T. -276 T: -190 TA -115 TT -100 TY -70 Ta -227 Te -209 To -209 Tu -190 Ty -190 V, -276
+    V. -276 V: -76 VA -55 Va -94 Ve -94 Vo -94 Vu -55 Vy -63 W, -276 W. -209 W: -76 WA -47 Wa -76 We -76 Wo -76 Wu -37
+    Wy -53 Y, -276 Y. -276 Y: -190 YA -76 Ya -131 Yd -115 Ye -123 Yo -123 Yu -104 ay -14 eT -131 o, -29 o. -18 oy -12 y, -180
+    y. -180 ya -39 yd -10 ye -16 yo -16
+== Tahoma  -8 bold
+   pairs  0  0
+  "To" ext  10 calc  10 gcp  10 dx  5  5
+  "AV" ext  10 calc  10 gcp  10 dx  5  5
+  "Ty" ext  10 calc  10 gcp  10 dx  5  5
+  "Wa" ext  13 calc  13 gcp  13 dx  8  5
+  "11" ext  10 calc  10 gcp  10 dx  5  5
+  "Tue" ext  15 calc  15 gcp  15 dx  5  5  5
+  "LT" ext  10 calc  10 gcp  10 dx  5  5
+  "P." ext  8 calc  8 gcp  8 dx  5  3
+  "Yo" ext  10 calc  10 gcp  10 dx  5  5
+  "Today: 3/17/2021" ext  75 calc  75 gcp  75 dx  5  5  5  5  5  3  2  5  5  5  5  5  5  5  5  5
+  "AVAVAV" ext  30 calc  30 gcp  30 dx  5  5  5  5  5  5
+  "T.T," ext  16 calc  16 gcp  16 dx  5  3  5  3
+== Tahoma  -11 bold
+   pairs  0  0
+  "To" ext  14 calc  14 gcp  14 dx  7  7
+  "AV" ext  15 calc  15 gcp  15 dx  8  7
+  "Ty" ext  14 calc  14 gcp  14 dx  7  7
+  "Wa" ext  18 calc  18 gcp  18 dx  11  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  21 calc  21 gcp  21 dx  7  7  7
+  "LT" ext  13 calc  13 gcp  13 dx  6  7
+  "P." ext  10 calc  10 gcp  10 dx  7  3
+  "Yo" ext  14 calc  14 gcp  14 dx  7  7
+  "Today: 3/17/2021" ext  102 calc  102 gcp  102 dx  7  7  7  7  7  3  3  7  6  7  7  6  7  7  7  7
+  "AVAVAV" ext  45 calc  45 gcp  45 dx  8  7  8  7  8  7
+  "T.T," ext  20 calc  20 gcp  20 dx  7  3  7  3
+== Tahoma  -13 bold
+   pairs  0  0
+  "To" ext  15 calc  15 gcp  15 dx  7  8
+  "AV" ext  19 calc  19 gcp  19 dx  10  9
+  "Ty" ext  15 calc  15 gcp  15 dx  7  8
+  "Wa" ext  21 calc  21 gcp  21 dx  13  8
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  23 calc  23 gcp  23 dx  7  8  8
+  "LT" ext  14 calc  14 gcp  14 dx  7  7
+  "P." ext  12 calc  12 gcp  12 dx  8  4
+  "Yo" ext  17 calc  17 gcp  17 dx  9  8
+  "Today: 3/17/2021" ext  120 calc  120 gcp  120 dx  7  8  8  8  8  5  4  8  8  8  8  8  8  8  8  8
+  "AVAVAV" ext  57 calc  57 gcp  57 dx  10  9  10  9  10  9
+  "T.T," ext  22 calc  22 gcp  22 dx  7  4  7  4
+== Tahoma  -14 bold
+   pairs  0  0
+   
+  "To" ext  18 calc  18 gcp  18 dx  9  9
+  "AV" ext  20 calc  20 gcp  20 dx  10  10
+  "Ty" ext  17 calc  17 gcp  17 dx  9  8
+  "Wa" ext  22 calc  22 gcp  22 dx  14  8
+  "11" ext  18 calc  18 gcp  18 dx  9  9
+  "Tue" ext  26 calc  26 gcp  26 dx  9  9  8
+  "LT" ext  17 calc  17 gcp  17 dx  8  9
+  "P." ext  13 calc  13 gcp  13 dx  9  4
+  "Yo" ext  18 calc  18 gcp  18 dx  9  9
+  "Today: 3/17/2021" ext  131 calc  131 gcp  131 dx  9  9  9  8  8  5  4  9  8  9  9  8  9  9  9  9
+  "AVAVAV" ext  60 calc  60 gcp  60 dx  10  10  10  10  10  10
+  "T.T," ext  26 calc  26 gcp  26 dx  9  4  9  4
+  drawn  0x0
+   text  10  0 " " dx  18 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  10  0 "To" dx  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x1
+   text  100  0 " " dx  20 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  100  0 "AV" dx  10  10 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x2
+   text  184  0 " " dx  26 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  184  0 "Tue" dx  9  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+== Tahoma  -16 bold
+   pairs  0  0
+   
+  "To" ext  21 calc  21 gcp  21 dx  11  10
+  "AV" ext  23 calc  23 gcp  23 dx  12  11
+  "Ty" ext  20 calc  20 gcp  20 dx  11  9
+  "Wa" ext  26 calc  26 gcp  26 dx  16  10
+  "11" ext  20 calc  20 gcp  20 dx  10  10
+  "Tue" ext  31 calc  31 gcp  31 dx  11  10  10
+  "LT" ext  20 calc  20 gcp  20 dx  9  11
+  "P." ext  16 calc  16 gcp  16 dx  11  5
+  "Yo" ext  21 calc  21 gcp  21 dx  11  10
+  "Today: 3/17/2021" ext  149 calc  149 gcp  149 dx  11  10  10  10  9  6  5  10  9  10  10  9  10  10  10  10
+  "AVAVAV" ext  69 calc  69 gcp  69 dx  12  11  12  11  12  11
+  "T.T," ext  32 calc  32 gcp  32 dx  11  5  11  5
+== Tahoma  -21 bold
+   pairs  0  0
+  "To" ext  26 calc  26 gcp  26 dx  13  13
+  "AV" ext  28 calc  28 gcp  28 dx  14  14
+  "Ty" ext  25 calc  25 gcp  25 dx  13  12
+  "Wa" ext  35 calc  35 gcp  35 dx  22  13
+  "11" ext  26 calc  26 gcp  26 dx  13  13
+  "Tue" ext  38 calc  38 gcp  38 dx  13  13  12
+  "LT" ext  25 calc  25 gcp  25 dx  12  13
+  "P." ext  21 calc  21 gcp  21 dx  14  7
+  "Yo" ext  27 calc  27 gcp  27 dx  14  13
+  "Today: 3/17/2021" ext  193 calc  193 gcp  193 dx  13  13  13  13  12  8  6  13  12  13  13  12  13  13  13  13
+  "AVAVAV" ext  84 calc  84 gcp  84 dx  14  14  14  14  14  14
+  "T.T," ext  40 calc  40 gcp  40 dx  13  7  13  7
+  drawn  0x0
+   text  10  0 " " dx  26 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  10  0 "To" dx  13  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x1
+   text  96  0 " " dx  28 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  96  0 "AV" dx  14  14 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x2
+   text  172  0 " " dx  38 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  172  0 "Tue" dx  13  13  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+== Tahoma  -32 bold
+   pairs  0  0
+  "To" ext  40 calc  40 gcp  40 dx  20  20
+  "AV" ext  44 calc  44 gcp  44 dx  22  22
+  "Ty" ext  38 calc  38 gcp  38 dx  20  18
+  "Wa" ext  52 calc  52 gcp  52 dx  33  19
+  "11" ext  40 calc  40 gcp  40 dx  20  20
+  "Tue" ext  59 calc  59 gcp  59 dx  20  20  19
+  "LT" ext  38 calc  38 gcp  38 dx  18  20
+  "P." ext  31 calc  31 gcp  31 dx  21  10
+  "Yo" ext  41 calc  41 gcp  41 dx  21  20
+  "Today: 3/17/2021" ext  294 calc  294 gcp  294 dx  20  20  20  19  18  12  9  20  18  20  20  18  20  20  20  20
+  "AVAVAV" ext  132 calc  132 gcp  132 dx  22  22  22  22  22  22
+  "T.T," ext  60 calc  60 gcp  60 dx  20  10  20  10
+== Tahoma  -48 bold
+   pairs  0  0
+  "To" ext  59 calc  59 gcp  59 dx  29  30
+  "AV" ext  65 calc  65 gcp  65 dx  33  32
+  "Ty" ext  57 calc  57 gcp  57 dx  29  28
+  "Wa" ext  78 calc  78 gcp  78 dx  49  29
+  "11" ext  62 calc  62 gcp  62 dx  31  31
+  "Tue" ext  89 calc  89 gcp  89 dx  29  31  29
+  "LT" ext  56 calc  56 gcp  56 dx  27  29
+  "P." ext  47 calc  47 gcp  47 dx  32  15
+  "Yo" ext  62 calc  62 gcp  62 dx  32  30
+  "Today: 3/17/2021" ext  450 calc  450 gcp  450 dx  29  30  30  29  28  17  14  31  28  31  31  28  31  31  31  31
+  "AVAVAV" ext  195 calc  195 gcp  195 dx  33  32  33  32  33  32
+  "T.T," ext  88 calc  88 gcp  88 dx  29  15  29  15
+== Tahoma  -2048 bold
+   pairs  0  0
+   
+== Segoe UI  -8
+   pairs  8292  0
+  "To" ext  9 calc  8 gcp  8 dx  3  5
+  "AV" ext  10 calc  9 gcp  9 dx  4  5
+  "Ty" ext  8 calc  8 gcp  8 dx  4  4
+  "Wa" ext  11 calc  11 gcp  11 dx  7  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  13 calc  13 gcp  13 dx  4  5  4
+  "LT" ext  8 calc  7 gcp  7 dx  3  4
+  "P." ext  6 calc  6 gcp  6 dx  4  2
+  "Yo" ext  9 calc  8 gcp  8 dx  3  5
+  "Today: 3/17/2021" ext  60 calc  59 gcp  59 dx  3  5  5  4  4  2  2  4  3  4  4  3  4  4  4  4
+  "AVAVAV" ext  30 calc  27 gcp  27 dx  4  5  4  5  4  5
+  "T.T," ext  12 calc  12 gcp  12 dx  4  2  4  2
+== Segoe UI  -11
+   pairs  8292  0
+  "To" ext  12 calc  11 gcp  11 dx  4  7
+  "AV" ext  14 calc  13 gcp  13 dx  6  7
+  "Ty" ext  10 calc  9 gcp  9 dx  4  5
+  "Wa" ext  17 calc  17 gcp  17 dx  11  6
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  18 calc  18 gcp  18 dx  5  7  6
+  "LT" ext  10 calc  9 gcp  9 dx  4  5
+  "P." ext  9 calc  9 gcp  9 dx  6  3
+  "Yo" ext  12 calc  11 gcp  11 dx  4  7
+  "Today: 3/17/2021" ext  86 calc  85 gcp  85 dx  4  7  7  6  5  3  3  6  4  6  6  4  6  6  6  6
+  "AVAVAV" ext  42 calc  37 gcp  37 dx  6  6  6  6  6  7
+  "T.T," ext  16 calc  16 gcp  16 dx  5  3  5  3
+== Segoe UI  -13
+   pairs  8292  0
+  "To" ext  15 calc  14 gcp  14 dx  6  8
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  13 calc  12 gcp  12 dx  6  6
+  "Wa" ext  19 calc  18 gcp  18 dx  11  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  21 calc  21 gcp  21 dx  7  7  7
+  "LT" ext  13 calc  12 gcp  12 dx  5  7
+  "P." ext  10 calc  10 gcp  10 dx  7  3
+  "Yo" ext  15 calc  14 gcp  14 dx  6  8
+  "Today: 3/17/2021" ext  102 calc  101 gcp  101 dx  6  8  8  7  6  3  4  7  5  7  7  5  7  7  7  7
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  20 calc  20 gcp  20 dx  7  3  7  3
+== Segoe UI  -14
+   pairs  8292  0
+   
+  "To" ext  15 calc  14 gcp  14 dx  6  8
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  14 calc  13 gcp  13 dx  6  7
+  "Wa" ext  20 calc  19 gcp  19 dx  12  7
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  22 calc  22 gcp  22 dx  7  8  7
+  "LT" ext  14 calc  13 gcp  13 dx  6  7
+  "P." ext  11 calc  11 gcp  11 dx  8  3
+  "Yo" ext  16 calc  15 gcp  15 dx  7  8
+  "Today: 3/17/2021" ext  110 calc  109 gcp  109 dx  6  8  8  7  7  3  4  8  5  8  8  5  8  8  8  8
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  20 calc  20 gcp  20 dx  7  3  7  3
+  drawn  0x0
+   text  10  0 " " dx  14 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  7  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x1
+   text  101  0 " " dx  17 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  101  0 "AV" dx  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x2
+   text  188  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  188  0 "Tue" dx  7  8  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== Segoe UI  -16
+   pairs  8292  0
+   
+  "To" ext  17 calc  15 gcp  15 dx  6  9
+  "AV" ext  20 calc  19 gcp  19 dx  9  10
+  "Ty" ext  16 calc  15 gcp  15 dx  7  8
+  "Wa" ext  23 calc  22 gcp  22 dx  14  8
+  "11" ext  18 calc  18 gcp  18 dx  9  9
+  "Tue" ext  25 calc  25 gcp  25 dx  8  9  8
+  "LT" ext  16 calc  15 gcp  15 dx  7  8
+  "P." ext  12 calc  12 gcp  12 dx  9  3
+  "Yo" ext  18 calc  17 gcp  17 dx  8  9
+  "Today: 3/17/2021" ext  124 calc  122 gcp  122 dx  6  9  9  8  8  3  4  9  6  9  9  6  9  9  9  9
+  "AVAVAV" ext  60 calc  55 gcp  55 dx  9  9  9  9  9  10
+  "T.T," ext  22 calc  22 gcp  22 dx  8  3  8  3
+== Segoe UI  -21
+   pairs  8292  0
+  "To" ext  23 calc  21 gcp  21 dx  9  12
+  "AV" ext  27 calc  26 gcp  26 dx  13  13
+  "Ty" ext  21 calc  20 gcp  20 dx  10  10
+  "Wa" ext  31 calc  30 gcp  30 dx  19  11
+  "11" ext  22 calc  22 gcp  22 dx  11  11
+  "Tue" ext  34 calc  34 gcp  34 dx  11  12  11
+  "LT" ext  21 calc  20 gcp  20 dx  9  11
+  "P." ext  17 calc  17 gcp  17 dx  12  5
+  "Yo" ext  24 calc  22 gcp  22 dx  10  12
+  "Today: 3/17/2021" ext  160 calc  158 gcp  158 dx  9  12  12  11  10  5  6  11  8  11  11  8  11  11  11  11
+  "AVAVAV" ext  81 calc  76 gcp  76 dx  13  12  13  12  13  13
+  "T.T," ext  32 calc  32 gcp  32 dx  11  5  11  5
+  drawn  0x0
+   text  10  0 " " dx  21 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  10  0 "To" dx  11  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x1
+   text  97  0 " " dx  26 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  97  0 "AV" dx  14  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x2
+   text  176  0 " " dx  34 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  176  0 "Tue" dx  11  12  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+== Segoe UI  -32
+   pairs  8292  0
+  "To" ext  36 calc  33 gcp  33 dx  14  19
+  "AV" ext  41 calc  39 gcp  39 dx  19  20
+  "Ty" ext  32 calc  30 gcp  30 dx  15  15
+  "Wa" ext  46 calc  45 gcp  45 dx  29  16
+  "11" ext  34 calc  34 gcp  34 dx  17  17
+  "Tue" ext  52 calc  52 gcp  52 dx  17  18  17
+  "LT" ext  32 calc  30 gcp  30 dx  13  17
+  "P." ext  25 calc  25 gcp  25 dx  18  7
+  "Yo" ext  37 calc  34 gcp  34 dx  15  19
+  "Today: 3/17/2021" ext  245 calc  242 gcp  242 dx  14  19  19  16  15  7  9  17  12  17  17  12  17  17  17  17
+  "AVAVAV" ext  123 calc  113 gcp  113 dx  19  18  19  18  19  20
+  "T.T," ext  48 calc  48 gcp  48 dx  17  7  17  7
+== Segoe UI  -48
+   pairs  8292  0
+  "To" ext  53 calc  48 gcp  48 dx  20  28
+  "AV" ext  61 calc  58 gcp  58 dx  28  30
+  "Ty" ext  48 calc  45 gcp  45 dx  22  23
+  "Wa" ext  69 calc  67 gcp  67 dx  43  24
+  "11" ext  52 calc  52 gcp  52 dx  26  26
+  "Tue" ext  77 calc  77 gcp  77 dx  25  27  25
+  "LT" ext  48 calc  45 gcp  45 dx  20  25
+  "P." ext  37 calc  37 gcp  37 dx  27  10
+  "Yo" ext  55 calc  51 gcp  51 dx  23  28
+  "Today: 3/17/2021" ext  371 calc  366 gcp  366 dx  20  28  28  24  23  10  13  26  19  26  26  19  26  26  26  26
+  "AVAVAV" ext  183 calc  168 gcp  168 dx  28  27  28  27  28  30
+  "T.T," ext  70 calc  70 gcp  70 dx  25  10  25  10
+== Segoe UI  -2048
+   pairs  8292  0
+   
+== Segoe UI  -8 bold
+   pairs  8319  0
+  "To" ext  10 calc  9 gcp  9 dx  4  5
+  "AV" ext  11 calc  11 gcp  11 dx  6  5
+  "Ty" ext  9 calc  9 gcp  9 dx  5  4
+  "Wa" ext  12 calc  12 gcp  12 dx  8  4
+  "11" ext  10 calc  10 gcp  10 dx  5  5
+  "Tue" ext  14 calc  13 gcp  13 dx  4  5  4
+  "LT" ext  9 calc  8 gcp  8 dx  3  5
+  "P." ext  7 calc  6 gcp  6 dx  4  2
+  "Yo" ext  10 calc  9 gcp  9 dx  4  5
+  "Today: 3/17/2021" ext  70 calc  69 gcp  69 dx  4  5  5  4  4  2  2  5  4  5  5  4  5  5  5  5
+  "AVAVAV" ext  33 calc  33 gcp  33 dx  6  5  6  5  6  5
+  "T.T," ext  14 calc  12 gcp  12 dx  4  2  4  2
+== Segoe UI  -11 bold
+   pairs  8319  0
+  "To" ext  13 calc  12 gcp  12 dx  5  7
+  "AV" ext  15 calc  14 gcp  14 dx  7  7
+  "Ty" ext  12 calc  12 gcp  12 dx  6  6
+  "Wa" ext  17 calc  17 gcp  17 dx  11  6
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  19 calc  18 gcp  18 dx  5  7  6
+  "LT" ext  12 calc  11 gcp  11 dx  5  6
+  "P." ext  10 calc  8 gcp  8 dx  5  3
+  "Yo" ext  14 calc  13 gcp  13 dx  6  7
+  "Today: 3/17/2021" ext  90 calc  89 gcp  89 dx  5  7  7  6  6  3  3  6  5  6  6  5  6  6  6  6
+  "AVAVAV" ext  45 calc  40 gcp  40 dx  7  6  7  6  7  7
+  "T.T," ext  18 calc  16 gcp  16 dx  5  3  5  3
+== Segoe UI  -13 bold
+   pairs  8319  0
+  "To" ext  16 calc  15 gcp  15 dx  7  8
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  15 calc  14 gcp  14 dx  7  7
+  "Wa" ext  20 calc  19 gcp  19 dx  12  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  23 calc  22 gcp  22 dx  7  8  7
+  "LT" ext  15 calc  14 gcp  14 dx  6  8
+  "P." ext  12 calc  10 gcp  10 dx  6  4
+  "Yo" ext  16 calc  15 gcp  15 dx  7  8
+  "Today: 3/17/2021" ext  107 calc  106 gcp  106 dx  7  8  8  7  7  4  4  7  6  7  7  6  7  7  7  7
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  24 calc  22 gcp  22 dx  7  4  7  4
+== Segoe UI  -14 bold
+   pairs  8319  0
+   
+  "To" ext  17 calc  16 gcp  16 dx  7  9
+  "AV" ext  19 calc  18 gcp  18 dx  9  9
+  "Ty" ext  16 calc  15 gcp  15 dx  7  8
+  "Wa" ext  22 calc  21 gcp  21 dx  13  8
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  24 calc  23 gcp  23 dx  7  8  8
+  "LT" ext  15 calc  14 gcp  14 dx  6  8
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  18 calc  17 gcp  17 dx  8  9
+  "Today: 3/17/2021" ext  118 calc  117 gcp  117 dx  7  9  9  8  8  4  4  8  6  8  8  6  8  8  8  8
+  "AVAVAV" ext  57 calc  52 gcp  52 dx  9  8  9  8  9  9
+  "T.T," ext  24 calc  22 gcp  22 dx  7  4  7  4
+  drawn  0x0
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  10  0 "To" dx  8  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x1
+   text  101  0 " " dx  18 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  101  0 "AV" dx  10  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x2
+   text  187  0 " " dx  23 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  187  0 "Tue" dx  8  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+== Segoe UI  -16 bold
+   pairs  8319  0
+   
+  "To" ext  19 calc  18 gcp  18 dx  8  10
+  "AV" ext  22 calc  21 gcp  21 dx  10  11
+  "Ty" ext  18 calc  17 gcp  17 dx  8  9
+  "Wa" ext  25 calc  24 gcp  24 dx  15  9
+  "11" ext  18 calc  18 gcp  18 dx  9  9
+  "Tue" ext  28 calc  27 gcp  27 dx  8  10  9
+  "LT" ext  17 calc  16 gcp  16 dx  7  9
+  "P." ext  14 calc  12 gcp  12 dx  8  4
+  "Yo" ext  20 calc  19 gcp  19 dx  9  10
+  "Today: 3/17/2021" ext  132 calc  131 gcp  131 dx  8  10  10  9  9  4  4  9  7  9  9  7  9  9  9  9
+  "AVAVAV" ext  66 calc  61 gcp  61 dx  10  10  10  10  10  11
+  "T.T," ext  26 calc  24 gcp  24 dx  8  4  8  4
+== Segoe UI  -21 bold
+   pairs  8319  0
+  "To" ext  25 calc  23 gcp  23 dx  10  13
+  "AV" ext  29 calc  28 gcp  28 dx  14  14
+  "Ty" ext  23 calc  22 gcp  22 dx  11  11
+  "Wa" ext  32 calc  31 gcp  31 dx  20  11
+  "11" ext  24 calc  24 gcp  24 dx  12  12
+  "Tue" ext  36 calc  35 gcp  35 dx  11  13  11
+  "LT" ext  23 calc  22 gcp  22 dx  10  12
+  "P." ext  19 calc  16 gcp  16 dx  10  6
+  "Yo" ext  26 calc  24 gcp  24 dx  11  13
+  "Today: 3/17/2021" ext  174 calc  172 gcp  172 dx  10  13  13  11  11  6  6  12  9  12  12  9  12  12  12  12
+  "AVAVAV" ext  87 calc  82 gcp  82 dx  14  13  14  13  14  14
+  "T.T," ext  36 calc  33 gcp  33 dx  10  6  11  6
+  drawn  0x0
+   text  10  0 " " dx  23 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  10  0 "To" dx  12  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x1
+   text  96  0 " " dx  28 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  96  0 "AV" dx  15  14 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x2
+   text  175  0 " " dx  35 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  175  0 "Tue" dx  12  13  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+== Segoe UI  -32 bold
+   pairs  8319  0
+  "To" ext  39 calc  36 gcp  36 dx  16  20
+  "AV" ext  44 calc  42 gcp  42 dx  21  21
+  "Ty" ext  36 calc  35 gcp  35 dx  18  17
+  "Wa" ext  49 calc  48 gcp  48 dx  31  17
+  "11" ext  36 calc  36 gcp  36 dx  18  18
+  "Tue" ext  55 calc  53 gcp  53 dx  17  19  17
+  "LT" ext  35 calc  33 gcp  33 dx  14  19
+  "P." ext  29 calc  24 gcp  24 dx  15  9
+  "Yo" ext  39 calc  36 gcp  36 dx  16  20
+  "Today: 3/17/2021" ext  265 calc  262 gcp  262 dx  16  20  20  17  17  9  9  18  14  18  18  14  18  18  18  18
+  "AVAVAV" ext  132 calc  122 gcp  122 dx  21  19  21  19  21  21
+  "T.T," ext  56 calc  51 gcp  51 dx  16  9  17  9
+== Segoe UI  -48 bold
+   pairs  8319  0
+  "To" ext  57 calc  53 gcp  53 dx  24  29
+  "AV" ext  66 calc  63 gcp  63 dx  31  32
+  "Ty" ext  54 calc  52 gcp  52 dx  26  26
+  "Wa" ext  74 calc  72 gcp  72 dx  46  26
+  "11" ext  56 calc  56 gcp  56 dx  28  28
+  "Tue" ext  83 calc  80 gcp  80 dx  25  29  26
+  "LT" ext  53 calc  50 gcp  50 dx  22  28
+  "P." ext  42 calc  35 gcp  35 dx  22  13
+  "Yo" ext  58 calc  54 gcp  54 dx  25  29
+  "Today: 3/17/2021" ext  403 calc  399 gcp  399 dx  24  29  30  26  26  13  13  28  21  28  28  21  28  28  28  28
+  "AVAVAV" ext  198 calc  185 gcp  185 dx  31  30  31  30  31  32
+  "T.T," ext  82 calc  75 gcp  75 dx  24  13  25  13
+== Segoe UI  -2048 bold
+   pairs  8319  0
+   
+== Verdana  -8
+   pairs  574  574
+  "To" ext  10 calc  9 gcp  9 dx  4  5
+  "AV" ext  10 calc  10 gcp  10 dx  5  5
+  "Ty" ext  10 calc  9 gcp  9 dx  4  5
+  "Wa" ext  13 calc  13 gcp  13 dx  8  5
+  "11" ext  10 calc  10 gcp  10 dx  5  5
+  "Tue" ext  15 calc  14 gcp  14 dx  4  5  5
+  "LT" ext  9 calc  8 gcp  8 dx  3  5
+  "P." ext  8 calc  7 gcp  7 dx  4  3
+  "Yo" ext  10 calc  9 gcp  9 dx  4  5
+  "Today: 3/17/2021" ext  75 calc  74 gcp  74 dx  4  5  5  5  5  4  3  5  4  5  5  4  5  5  5  5
+  "AVAVAV" ext  30 calc  30 gcp  30 dx  5  5  5  5  5  5
+  "T.T," ext  16 calc  14 gcp  14 dx  4  3  4  3
+== Verdana  -11
+   pairs  574  574
+  "To" ext  14 calc  13 gcp  13 dx  6  7
+  "AV" ext  16 calc  16 gcp  16 dx  8  8
+  "Ty" ext  14 calc  13 gcp  13 dx  6  7
+  "Wa" ext  18 calc  17 gcp  17 dx  10  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  21 calc  20 gcp  20 dx  6  7  7
+  "LT" ext  13 calc  12 gcp  12 dx  5  7
+  "P." ext  11 calc  9 gcp  9 dx  5  4
+  "Yo" ext  14 calc  13 gcp  13 dx  6  7
+  "Today: 3/17/2021" ext  103 calc  102 gcp  102 dx  6  7  7  7  7  5  4  7  5  7  7  5  7  7  7  7
+  "AVAVAV" ext  48 calc  48 gcp  48 dx  8  8  8  8  8  8
+  "T.T," ext  22 calc  18 gcp  18 dx  5  4  5  4
+== Verdana  -13
+   pairs  574  574
+  "To" ext  17 calc  16 gcp  16 dx  8  8
+  "AV" ext  18 calc  18 gcp  18 dx  9  9
+  "Ty" ext  17 calc  16 gcp  16 dx  8  8
+  "Wa" ext  21 calc  20 gcp  20 dx  12  8
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  25 calc  24 gcp  24 dx  8  8  8
+  "LT" ext  16 calc  15 gcp  15 dx  6  9
+  "P." ext  13 calc  11 gcp  11 dx  6  5
+  "Yo" ext  17 calc  16 gcp  16 dx  8  8
+  "Today: 3/17/2021" ext  120 calc  119 gcp  119 dx  8  8  8  8  8  6  5  8  6  8  8  6  8  8  8  8
+  "AVAVAV" ext  54 calc  54 gcp  54 dx  9  9  9  9  9  9
+  "T.T," ext  28 calc  24 gcp  24 dx  7  5  7  5
+== Verdana  -14
+   pairs  574  574
+    ., -1 AT -1 AV 0 AW 0 AY -1 Au 0 Ay 0 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA 0 PY 0
+    Pa 0 Pe 0 Po 0 T, -2 T. -2 T: -1 TA -1 TT 0 Ta -2 Te -2 To -2 Tu -1 Ty -1 V, -2 V. -2 V: -1
+    VA 0 Va -1 Ve -1 Vo -1 Vu 0 Vy 0 W, -2 W. -2 W: -1 WA 0 Wa -1 We -1 Wo -1 Wu 0 Wy 0 Y, -2
+    Y. -2 Y: -1 YA -1 Ya -1 Yd -1 Ye -1 Yo -1 Yu -1 ay 0 eT -1 o, 0 o. 0 oy 0 y, -1 y. -1 ya 0
+    yd 0 ye 0 yo 0
+  "To" ext  18 calc  16 gcp  16 dx  7  9
+  "AV" ext  20 calc  20 gcp  20 dx  10  10
+  "Ty" ext  17 calc  16 gcp  16 dx  8  8
+  "Wa" ext  23 calc  22 gcp  22 dx  14  8
+  "11" ext  18 calc  18 gcp  18 dx  9  9
+  "Tue" ext  26 calc  25 gcp  25 dx  8  9  8
+  "LT" ext  17 calc  16 gcp  16 dx  7  9
+  "P." ext  13 calc  11 gcp  11 dx  6  5
+  "Yo" ext  18 calc  17 gcp  17 dx  8  9
+  "Today: 3/17/2021" ext  129 calc  127 gcp  127 dx  7  9  9  8  8  6  5  9  6  9  9  6  9  9  9  9
+  "AVAVAV" ext  60 calc  60 gcp  60 dx  10  10  10  10  10  10
+  "T.T," ext  28 calc  24 gcp  24 dx  7  5  7  5
+  drawn  0x0
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x1
+   text  100  0 " " dx  20 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  100  0 "AV" dx  10  10 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x2
+   text  185  0 " " dx  25 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  185  0 "Tue" dx  9  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== Verdana  -16
+   pairs  574  574
+    ., -1 AT -1 AV 0 AW 0 AY -1 Au 0 Ay 0 LT -1 LV -1 LW -1 LY -1 Ly -1 P, -2 P. -2 PA 0 PY 0
+    Pa 0 Pe 0 Po 0 T, -2 T. -2 T: -2 TA -1 TT -1 Ta -2 Te -2 To -2 Tu -2 Ty -2 V, -2 V. -2 V: -1
+    VA 0 Va -1 Ve -1 Vo -1 Vu 0 Vy -1 W, -2 W. -2 W: -1 WA 0 Wa -1 We -1 Wo -1 Wu 0 Wy -1 Y, -2
+    Y. -2 Y: -2 YA -1 Ya -1 Yd -1 Ye -1 Yo -1 Yu -1 ay 0 eT -1 o, 0 o. 0 oy 0 y, -1 y. -1 ya 0
+    yd 0 ye 0 yo 0
+  "To" ext  20 calc  18 gcp  18 dx  8  10
+  "AV" ext  22 calc  22 gcp  22 dx  11  11
+  "Ty" ext  19 calc  17 gcp  17 dx  8  9
+  "Wa" ext  27 calc  26 gcp  26 dx  16  10
+  "11" ext  20 calc  20 gcp  20 dx  10  10
+  "Tue" ext  30 calc  28 gcp  28 dx  8  10  10
+  "LT" ext  19 calc  18 gcp  18 dx  8  10
+  "P." ext  16 calc  14 gcp  14 dx  8  6
+  "Yo" ext  21 calc  20 gcp  20 dx  10  10
+  "Today: 3/17/2021" ext  146 calc  144 gcp  144 dx  8  10  10  10  9  7  6  10  7  10  10  7  10  10  10  10
+  "AVAVAV" ext  66 calc  66 gcp  66 dx  11  11  11  11  11  11
+  "T.T," ext  32 calc  28 gcp  28 dx  8  6  8  6
+== Verdana  -21
+   pairs  574  574
+  "To" ext  26 calc  24 gcp  24 dx  11  13
+  "AV" ext  28 calc  27 gcp  27 dx  13  14
+  "Ty" ext  25 calc  23 gcp  23 dx  11  12
+  "Wa" ext  34 calc  33 gcp  33 dx  20  13
+  "11" ext  26 calc  26 gcp  26 dx  13  13
+  "Tue" ext  39 calc  37 gcp  37 dx  11  13  13
+  "LT" ext  25 calc  23 gcp  23 dx  10  13
+  "P." ext  21 calc  18 gcp  18 dx  10  8
+  "Yo" ext  26 calc  25 gcp  25 dx  12  13
+  "Today: 3/17/2021" ext  192 calc  190 gcp  190 dx  11  13  13  13  12  10  7  13  10  13  13  10  13  13  13  13
+  "AVAVAV" ext  84 calc  79 gcp  79 dx  13  13  13  13  13  14
+  "T.T," ext  42 calc  36 gcp  36 dx  10  8  10  8
+  drawn  0x0
+   text  10  0 " " dx  24 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  10  0 "To" dx  13  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x1
+   text  96  0 " " dx  27 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  96  0 "AV" dx  14  14 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x2
+   text  173  0 " " dx  37 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  173  0 "Tue" dx  13  13  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+== Verdana  -32
+   pairs  574  574
+  "To" ext  39 calc  36 gcp  36 dx  17  19
+  "AV" ext  44 calc  43 gcp  43 dx  21  22
+  "Ty" ext  39 calc  36 gcp  36 dx  17  19
+  "Wa" ext  51 calc  49 gcp  49 dx  30  19
+  "11" ext  40 calc  40 gcp  40 dx  20  20
+  "Tue" ext  59 calc  56 gcp  56 dx  17  20  19
+  "LT" ext  38 calc  35 gcp  35 dx  15  20
+  "P." ext  31 calc  26 gcp  26 dx  14  12
+  "Yo" ext  39 calc  37 gcp  37 dx  18  19
+  "Today: 3/17/2021" ext  293 calc  290 gcp  290 dx  17  19  20  19  19  15  11  20  15  20  20  15  20  20  20  20
+  "AVAVAV" ext  132 calc  127 gcp  127 dx  21  21  21  21  21  22
+  "T.T," ext  64 calc  54 gcp  54 dx  15  12  15  12
+== Verdana  -48
+   pairs  574  574
+  "To" ext  59 calc  54 gcp  54 dx  25  29
+  "AV" ext  66 calc  65 gcp  65 dx  32  33
+  "Ty" ext  58 calc  53 gcp  53 dx  25  28
+  "Wa" ext  76 calc  74 gcp  74 dx  45  29
+  "11" ext  62 calc  62 gcp  62 dx  31  31
+  "Tue" ext  89 calc  84 gcp  84 dx  25  30  29
+  "LT" ext  57 calc  53 gcp  53 dx  23  30
+  "P." ext  46 calc  39 gcp  39 dx  22  17
+  "Yo" ext  59 calc  56 gcp  56 dx  27  29
+  "Today: 3/17/2021" ext  446 calc  441 gcp  441 dx  25  29  30  29  28  22  17  31  22  31  31  22  31  31  31  31
+  "AVAVAV" ext  198 calc  193 gcp  193 dx  32  32  32  32  32  33
+  "T.T," ext  94 calc  80 gcp  80 dx  23  17  23  17
+== Verdana  -2048
+   pairs  574  574
+    ., -130 AT -120 AV -60 AW -50 AY -80 Au -10 Ay -50 LT -170 LV -110 LW -100 LY -160 Ly -110 P, -300 P. -300 PA -50 PY 20
+    Pa -50 Pe -50 Po -50 T, -290 T. -290 T: -200 TA -120 TT -70 Ta -240 Te -220 To -220 Tu -200 Ty -200 V, -290 V. -290 V: -80
+    VA -60 Va -100 Ve -100 Vo -100 Vu -60 Vy -65 W, -290 W. -220 W: -80 WA -50 Wa -100 We -100 Wo -100 Wu -60 Wy -65 Y, -290
+    Y. -290 Y: -200 YA -80 Ya -140 Yd -120 Ye -130 Yo -130 Yu -110 ay -16 eT -140 o, -30 o. -20 oy -15 y, -190 y. -190 ya -40
+    yd -10 ye -18 yo -18
+== Verdana  -8 bold
+   pairs  42  42
+  "To" ext  11 calc  11 gcp  11 dx  5  6
+  "AV" ext  12 calc  12 gcp  12 dx  6  6
+  "Ty" ext  10 calc  10 gcp  10 dx  5  5
+  "Wa" ext  14 calc  14 gcp  14 dx  9  5
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  16 calc  16 gcp  16 dx  5  6  5
+  "LT" ext  10 calc  10 gcp  10 dx  5  5
+  "P." ext  9 calc  9 gcp  9 dx  6  3
+  "Yo" ext  12 calc  12 gcp  12 dx  6  6
+  "Today: 3/17/2021" ext  87 calc  87 gcp  87 dx  5  6  6  5  5  3  3  6  6  6  6  6  6  6  6  6
+  "AVAVAV" ext  36 calc  36 gcp  36 dx  6  6  6  6  6  6
+  "T.T," ext  16 calc  16 gcp  16 dx  5  3  5  3
+== Verdana  -11 bold
+   pairs  42  42
+  "To" ext  16 calc  16 gcp  16 dx  8  8
+  "AV" ext  17 calc  17 gcp  17 dx  9  8
+  "Ty" ext  16 calc  16 gcp  16 dx  8  8
+  "Wa" ext  20 calc  20 gcp  20 dx  12  8
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  24 calc  24 gcp  24 dx  8  8  8
+  "LT" ext  15 calc  15 gcp  15 dx  7  8
+  "P." ext  12 calc  12 gcp  12 dx  8  4
+  "Yo" ext  16 calc  16 gcp  16 dx  8  8
+  "Today: 3/17/2021" ext  120 calc  120 gcp  120 dx  8  8  8  8  8  4  4  8  8  8  8  8  8  8  8  8
+  "AVAVAV" ext  51 calc  51 gcp  51 dx  9  8  9  8  9  8
+  "T.T," ext  24 calc  24 gcp  24 dx  8  4  8  4
+== Verdana  -13 bold
+   pairs  42  42
+  "To" ext  17 calc  17 gcp  17 dx  8  9
+  "AV" ext  20 calc  20 gcp  20 dx  10  10
+  "Ty" ext  17 calc  17 gcp  17 dx  8  9
+  "Wa" ext  23 calc  23 gcp  23 dx  14  9
+  "11" ext  18 calc  18 gcp  18 dx  9  9
+  "Tue" ext  26 calc  26 gcp  26 dx  8  9  9
+  "LT" ext  16 calc  16 gcp  16 dx  8  8
+  "P." ext  14 calc  14 gcp  14 dx  9  5
+  "Yo" ext  19 calc  19 gcp  19 dx  10  9
+  "Today: 3/17/2021" ext  134 calc  134 gcp  134 dx  8  9  9  9  9  5  4  9  9  9  9  9  9  9  9  9
+  "AVAVAV" ext  60 calc  60 gcp  60 dx  10  10  10  10  10  10
+  "T.T," ext  26 calc  26 gcp  26 dx  8  5  8  5
+== Verdana  -14 bold
+   pairs  42  42
+   
+  "To" ext  20 calc  20 gcp  20 dx  10  10
+  "AV" ext  22 calc  22 gcp  22 dx  11  11
+  "Ty" ext  19 calc  19 gcp  19 dx  10  9
+  "Wa" ext  25 calc  25 gcp  25 dx  16  9
+  "11" ext  20 calc  20 gcp  20 dx  10  10
+  "Tue" ext  29 calc  29 gcp  29 dx  10  10  9
+  "LT" ext  19 calc  19 gcp  19 dx  9  10
+  "P." ext  15 calc  15 gcp  15 dx  10  5
+  "Yo" ext  20 calc  20 gcp  20 dx  10  10
+  "Today: 3/17/2021" ext  149 calc  149 gcp  149 dx  10  10  10  9  9  6  5  10  10  10  10  10  10  10  10  10
+  "AVAVAV" ext  66 calc  66 gcp  66 dx  11  11  11  11  11  11
+  "T.T," ext  30 calc  30 gcp  30 dx  10  5  10  5
+  drawn  0x0
+   text  10  0 " " dx  20 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  10  0 "To" dx  10  10 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x1
+   text  99  0 " " dx  22 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  99  0 "AV" dx  11  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x2
+   text  181  0 " " dx  29 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  181  0 "Tue" dx  10  10  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+== Verdana  -16 bold
+   pairs  42  42
+   
+  "To" ext  23 calc  23 gcp  23 dx  12  11
+  "AV" ext  24 calc  24 gcp  24 dx  12  12
+  "Ty" ext  22 calc  22 gcp  22 dx  12  10
+  "Wa" ext  29 calc  29 gcp  29 dx  18  11
+  "11" ext  22 calc  22 gcp  22 dx  11  11
+  "Tue" ext  34 calc  34 gcp  34 dx  12  11  11
+  "LT" ext  22 calc  22 gcp  22 dx  10  12
+  "P." ext  18 calc  18 gcp  18 dx  12  6
+  "Yo" ext  23 calc  23 gcp  23 dx  12  11
+  "Today: 3/17/2021" ext  165 calc  165 gcp  165 dx  12  11  11  11  10  6  5  11  11  11  11  11  11  11  11  11
+  "AVAVAV" ext  72 calc  72 gcp  72 dx  12  12  12  12  12  12
+  "T.T," ext  36 calc  36 gcp  36 dx  12  6  12  6
+== Verdana  -21 bold
+   pairs  42  42
+  "To" ext  28 calc  28 gcp  28 dx  14  14
+  "AV" ext  32 calc  32 gcp  32 dx  16  16
+  "Ty" ext  28 calc  28 gcp  28 dx  14  14
+  "Wa" ext  38 calc  38 gcp  38 dx  24  14
+  "11" ext  30 calc  30 gcp  30 dx  15  15
+  "Tue" ext  43 calc  43 gcp  43 dx  14  15  14
+  "LT" ext  27 calc  27 gcp  27 dx  13  14
+  "P." ext  23 calc  23 gcp  23 dx  15  8
+  "Yo" ext  29 calc  29 gcp  29 dx  15  14
+  "Today: 3/17/2021" ext  219 calc  219 gcp  219 dx  14  14  15  14  14  8  7  15  14  15  15  14  15  15  15  15
+  "AVAVAV" ext  96 calc  96 gcp  96 dx  16  16  16  16  16  16
+  "T.T," ext  44 calc  44 gcp  44 dx  14  8  14  8
+  drawn  0x0
+   text  10  0 " " dx  28 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  10  0 "To" dx  14  14 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x1
+   text  94  0 " " dx  32 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  94  0 "AV" dx  16  16 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x2
+   text  167  0 " " dx  43 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  167  0 "Tue" dx  14  15  14 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+== Verdana  -32 bold
+   pairs  42  42
+  "To" ext  44 calc  44 gcp  44 dx  22  22
+  "AV" ext  49 calc  49 gcp  49 dx  25  24
+  "Ty" ext  43 calc  43 gcp  43 dx  22  21
+  "Wa" ext  57 calc  57 gcp  57 dx  36  21
+  "11" ext  46 calc  46 gcp  46 dx  23  23
+  "Tue" ext  66 calc  66 gcp  66 dx  22  23  21
+  "LT" ext  42 calc  42 gcp  42 dx  20  22
+  "P." ext  35 calc  35 gcp  35 dx  23  12
+  "Yo" ext  46 calc  46 gcp  46 dx  24  22
+  "Today: 3/17/2021" ext  337 calc  337 gcp  337 dx  22  22  22  21  21  13  11  23  22  23  23  22  23  23  23  23
+  "AVAVAV" ext  147 calc  147 gcp  147 dx  25  24  25  24  25  24
+  "T.T," ext  68 calc  68 gcp  68 dx  22  12  22  12
+== Verdana  -48 bold
+   pairs  42  42
+  "To" ext  66 calc  66 gcp  66 dx  33  33
+  "AV" ext  74 calc  74 gcp  74 dx  37  37
+  "Ty" ext  64 calc  64 gcp  64 dx  33  31
+  "Wa" ext  86 calc  86 gcp  86 dx  54  32
+  "11" ext  68 calc  68 gcp  68 dx  34  34
+  "Tue" ext  99 calc  99 gcp  99 dx  33  34  32
+  "LT" ext  64 calc  64 gcp  64 dx  31  33
+  "P." ext  52 calc  52 gcp  52 dx  35  17
+  "Yo" ext  68 calc  68 gcp  68 dx  35  33
+  "Today: 3/17/2021" ext  502 calc  502 gcp  502 dx  33  33  34  32  31  19  16  34  33  34  34  33  34  34  34  34
+  "AVAVAV" ext  222 calc  222 gcp  222 dx  37  37  37  37  37  37
+  "T.T," ext  100 calc  100 gcp  100 dx  33  17  33  17
+== Verdana  -2048 bold
+   pairs  42  42
+   
+== Calibri  -8
+   pairs  26706  0
+  "To" ext  8 calc  7 gcp  7 dx  3  4
+  "AV" ext  10 calc  10 gcp  10 dx  5  5
+  "Ty" ext  8 calc  8 gcp  8 dx  4  4
+  "Wa" ext  11 calc  11 gcp  11 dx  7  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  12 calc  12 gcp  12 dx  4  4  4
+  "LT" ext  7 calc  6 gcp  6 dx  2  4
+  "P." ext  6 calc  5 gcp  5 dx  3  2
+  "Yo" ext  8 calc  7 gcp  7 dx  3  4
+  "Today: 3/17/2021" ext  58 calc  57 gcp  57 dx  3  4  4  4  4  2  2  4  3  4  4  3  4  4  4  4
+  "AVAVAV" ext  30 calc  30 gcp  30 dx  5  5  5  5  5  5
+  "T.T," ext  12 calc  9 gcp  9 dx  3  1  3  2
+== Calibri  -11
+   pairs  26706  0
+  "To" ext  11 calc  10 gcp  10 dx  4  6
+  "AV" ext  12 calc  12 gcp  12 dx  6  6
+  "Ty" ext  10 calc  10 gcp  10 dx  5  5
+  "Wa" ext  16 calc  16 gcp  16 dx  10  6
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  17 calc  16 gcp  16 dx  4  6  6
+  "LT" ext  10 calc  9 gcp  9 dx  4  5
+  "P." ext  9 calc  8 gcp  8 dx  5  3
+  "Yo" ext  11 calc  10 gcp  10 dx  4  6
+  "Today: 3/17/2021" ext  83 calc  82 gcp  82 dx  4  6  6  6  5  3  2  6  4  6  6  4  6  6  6  6
+  "AVAVAV" ext  36 calc  34 gcp  34 dx  6  5  6  5  6  6
+  "T.T," ext  16 calc  13 gcp  13 dx  4  2  4  3
+== Calibri  -13
+   pairs  26706  0
+  "To" ext  13 calc  12 gcp  12 dx  5  7
+  "AV" ext  14 calc  13 gcp  13 dx  6  7
+  "Ty" ext  12 calc  11 gcp  11 dx  5  6
+  "Wa" ext  19 calc  19 gcp  19 dx  12  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  19 calc  18 gcp  18 dx  5  7  6
+  "LT" ext  11 calc  10 gcp  10 dx  4  6
+  "P." ext  10 calc  8 gcp  8 dx  5  3
+  "Yo" ext  13 calc  12 gcp  12 dx  5  7
+  "Today: 3/17/2021" ext  98 calc  97 gcp  97 dx  5  7  7  7  6  3  3  7  5  7  7  5  7  7  7  7
+  "AVAVAV" ext  42 calc  37 gcp  37 dx  6  6  6  6  6  7
+  "T.T," ext  18 calc  15 gcp  15 dx  5  2  5  3
+== Calibri  -14
+   pairs  26706  0
+   
+  "To" ext  14 calc  13 gcp  13 dx  6  7
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  13 calc  12 gcp  12 dx  6  6
+  "Wa" ext  19 calc  19 gcp  19 dx  12  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  21 calc  20 gcp  20 dx  6  7  7
+  "LT" ext  13 calc  12 gcp  12 dx  5  7
+  "P." ext  11 calc  9 gcp  9 dx  5  4
+  "Yo" ext  14 calc  13 gcp  13 dx  6  7
+  "Today: 3/17/2021" ext  100 calc  99 gcp  99 dx  6  7  7  7  6  4  3  7  5  7  7  5  7  7  7  7
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  22 calc  19 gcp  19 dx  6  3  6  4
+  drawn  0x0
+   text  10  0 " " dx  13 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  7  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x1
+   text  102  0 " " dx  15 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  102  0 "AV" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+  drawn  0x2
+   text  190  0 " " dx  20 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  190  0 "Tue" dx  7  7  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== Calibri  -16
+   pairs  26706  0
+   
+  "To" ext  16 calc  15 gcp  15 dx  7  8
+  "AV" ext  18 calc  17 gcp  17 dx  8  9
+  "Ty" ext  15 calc  14 gcp  14 dx  7  7
+  "Wa" ext  22 calc  21 gcp  21 dx  13  8
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  24 calc  23 gcp  23 dx  7  8  8
+  "LT" ext  15 calc  14 gcp  14 dx  6  8
+  "P." ext  12 calc  10 gcp  10 dx  6  4
+  "Yo" ext  16 calc  15 gcp  15 dx  7  8
+  "Today: 3/17/2021" ext  115 calc  114 gcp  114 dx  7  8  8  8  7  4  4  8  6  8  8  6  8  8  8  8
+  "AVAVAV" ext  54 calc  49 gcp  49 dx  8  8  8  8  8  9
+  "T.T," ext  24 calc  19 gcp  19 dx  6  3  6  4
+== Calibri  -21
+   pairs  26706  0
+  "To" ext  21 calc  19 gcp  19 dx  8  11
+  "AV" ext  24 calc  23 gcp  23 dx  11  12
+  "Ty" ext  20 calc  19 gcp  19 dx  9  10
+  "Wa" ext  29 calc  28 gcp  28 dx  18  10
+  "11" ext  22 calc  22 gcp  22 dx  11  11
+  "Tue" ext  31 calc  30 gcp  30 dx  9  11  10
+  "LT" ext  19 calc  17 gcp  17 dx  7  10
+  "P." ext  16 calc  13 gcp  13 dx  8  5
+  "Yo" ext  21 calc  19 gcp  19 dx  8  11
+  "Today: 3/17/2021" ext  156 calc  154 gcp  154 dx  8  11  11  10  10  6  5  11  8  11  11  8  11  11  11  11
+  "AVAVAV" ext  72 calc  67 gcp  67 dx  11  11  11  11  11  12
+  "T.T," ext  30 calc  24 gcp  24 dx  8  3  8  5
+  drawn  0x0
+   text  10  0 " " dx  19 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  10  0 "To" dx  10  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x1
+   text  98  0 " " dx  23 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  98  0 "AV" dx  12  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+  drawn  0x2
+   text  180  0 " " dx  30 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  400
+   text  180  0 "Tue" dx  10  11  10 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  400
+== Calibri  -32
+   pairs  26706  0
+  "To" ext  33 calc  30 gcp  30 dx  13  17
+  "AV" ext  37 calc  36 gcp  36 dx  18  18
+  "Ty" ext  30 calc  29 gcp  29 dx  15  14
+  "Wa" ext  43 calc  42 gcp  42 dx  27  15
+  "11" ext  32 calc  32 gcp  32 dx  16  16
+  "Tue" ext  49 calc  47 gcp  47 dx  14  17  16
+  "LT" ext  29 calc  27 gcp  27 dx  11  16
+  "P." ext  25 calc  21 gcp  21 dx  13  8
+  "Yo" ext  33 calc  31 gcp  31 dx  14  17
+  "Today: 3/17/2021" ext  231 calc  227 gcp  227 dx  13  17  17  14  14  9  7  16  12  16  16  12  16  16  16  16
+  "AVAVAV" ext  111 calc  106 gcp  106 dx  18  17  18  17  18  18
+  "T.T," ext  48 calc  40 gcp  40 dx  13  6  13  8
+== Calibri  -48
+   pairs  26706  0
+  "To" ext  48 calc  44 gcp  44 dx  19  25
+  "AV" ext  55 calc  53 gcp  53 dx  26  27
+  "Ty" ext  45 calc  43 gcp  43 dx  21  22
+  "Wa" ext  66 calc  64 gcp  64 dx  41  23
+  "11" ext  48 calc  48 gcp  48 dx  24  24
+  "Tue" ext  72 calc  69 gcp  69 dx  20  25  24
+  "LT" ext  43 calc  39 gcp  39 dx  16  23
+  "P." ext  37 calc  31 gcp  31 dx  19  12
+  "Yo" ext  48 calc  44 gcp  44 dx  19  25
+  "Today: 3/17/2021" ext  348 calc  343 gcp  343 dx  19  25  25  22  22  13  11  24  19  24  24  19  24  24  24  24
+  "AVAVAV" ext  165 calc  155 gcp  155 dx  26  25  26  25  26  27
+  "T.T," ext  70 calc  56 gcp  56 dx  18  8  18  12
+== Calibri  -2048
+   pairs  26706  0
+   
+== Calibri  -8 bold
+   pairs  26691  0
+  "To" ext  8 calc  7 gcp  7 dx  3  4
+  "AV" ext  10 calc  10 gcp  10 dx  5  5
+  "Ty" ext  8 calc  8 gcp  8 dx  4  4
+  "Wa" ext  11 calc  11 gcp  11 dx  7  4
+  "11" ext  8 calc  8 gcp  8 dx  4  4
+  "Tue" ext  12 calc  12 gcp  12 dx  4  4  4
+  "LT" ext  7 calc  6 gcp  6 dx  2  4
+  "P." ext  6 calc  5 gcp  5 dx  3  2
+  "Yo" ext  8 calc  7 gcp  7 dx  3  4
+  "Today: 3/17/2021" ext  58 calc  57 gcp  57 dx  3  4  4  4  4  2  2  4  3  4  4  3  4  4  4  4
+  "AVAVAV" ext  30 calc  30 gcp  30 dx  5  5  5  5  5  5
+  "T.T," ext  12 calc  9 gcp  9 dx  3  1  3  2
+== Calibri  -11 bold
+   pairs  26691  0
+  "To" ext  11 calc  10 gcp  10 dx  4  6
+  "AV" ext  14 calc  13 gcp  13 dx  6  7
+  "Ty" ext  10 calc  10 gcp  10 dx  5  5
+  "Wa" ext  15 calc  15 gcp  15 dx  10  5
+  "11" ext  12 calc  12 gcp  12 dx  6  6
+  "Tue" ext  17 calc  16 gcp  16 dx  4  6  6
+  "LT" ext  10 calc  9 gcp  9 dx  4  5
+  "P." ext  9 calc  8 gcp  8 dx  5  3
+  "Yo" ext  12 calc  11 gcp  11 dx  5  6
+  "Today: 3/17/2021" ext  84 calc  83 gcp  83 dx  4  6  6  5  5  3  2  6  5  6  6  5  6  6  6  6
+  "AVAVAV" ext  42 calc  37 gcp  37 dx  6  6  6  6  6  7
+  "T.T," ext  16 calc  13 gcp  13 dx  4  2  4  3
+== Calibri  -13 bold
+   pairs  26691  0
+  "To" ext  13 calc  12 gcp  12 dx  5  7
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  12 calc  12 gcp  12 dx  6  6
+  "Wa" ext  18 calc  18 gcp  18 dx  12  6
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  20 calc  19 gcp  19 dx  5  7  7
+  "LT" ext  12 calc  11 gcp  11 dx  5  6
+  "P." ext  10 calc  9 gcp  9 dx  6  3
+  "Yo" ext  14 calc  13 gcp  13 dx  6  7
+  "Today: 3/17/2021" ext  100 calc  99 gcp  99 dx  5  7  7  6  6  4  3  7  6  7  7  6  7  7  7  7
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  18 calc  15 gcp  15 dx  5  2  5  3
+== Calibri  -14 bold
+   pairs  26691  0
+   
+  "To" ext  15 calc  14 gcp  14 dx  6  8
+  "AV" ext  16 calc  15 gcp  15 dx  7  8
+  "Ty" ext  14 calc  14 gcp  14 dx  7  7
+  "Wa" ext  20 calc  19 gcp  19 dx  12  7
+  "11" ext  14 calc  14 gcp  14 dx  7  7
+  "Tue" ext  22 calc  21 gcp  21 dx  6  8  7
+  "LT" ext  13 calc  12 gcp  12 dx  5  7
+  "P." ext  11 calc  9 gcp  9 dx  5  4
+  "Yo" ext  15 calc  14 gcp  14 dx  6  8
+  "Today: 3/17/2021" ext  105 calc  104 gcp  104 dx  6  8  8  7  7  4  3  7  6  7  7  6  7  7  7  7
+  "AVAVAV" ext  48 calc  43 gcp  43 dx  7  7  7  7  7  8
+  "T.T," ext  22 calc  19 gcp  19 dx  6  3  6  4
+  drawn  0x0
+   text  10  0 " " dx  14 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  10  0 "To" dx  7  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x1
+   text  102  0 " " dx  15 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  102  0 "AV" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+  drawn  0x2
+   text  189  0 " " dx  21 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  700
+   text  189  0 "Tue" dx  7  8  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  700
+== Calibri  -16 bold
+   pairs  26691  0
+   
+  "To" ext  17 calc  16 gcp  16 dx  7  9
+  "AV" ext  19 calc  18 gcp  18 dx  9  9
+  "Ty" ext  16 calc  16 gcp  16 dx  8  8
+  "Wa" ext  23 calc  22 gcp  22 dx  14  8
+  "11" ext  16 calc  16 gcp  16 dx  8  8
+  "Tue" ext  25 calc  24 gcp  24 dx  7  9  8
+  "LT" ext  15 calc  14 gcp  14 dx  6  8
+  "P." ext  13 calc  11 gcp  11 dx  7  4
+  "Yo" ext  17 calc  16 gcp  16 dx  7  9
+  "Today: 3/17/2021" ext  120 calc  119 gcp  119 dx  7  9  9  8  8  4  4  8  7  8  8  7  8  8  8  8
+  "AVAVAV" ext  57 calc  52 gcp  52 dx  9  8  9  8  9  9
+  "T.T," ext  24 calc  21 gcp  21 dx  7  3  7  4
+== Calibri  -21 bold
+   pairs  26691  0
+  "To" ext  21 calc  19 gcp  19 dx  8  11
+  "AV" ext  25 calc  24 gcp  24 dx  12  12
+  "Ty" ext  20 calc  19 gcp  19 dx  9  10
+  "Wa" ext  29 calc  28 gcp  28 dx  18  10
+  "11" ext  22 calc  22 gcp  22 dx  11  11
+  "Tue" ext  32 calc  31 gcp  31 dx  9  11  11
+  "LT" ext  19 calc  17 gcp  17 dx  7  10
+  "P." ext  17 calc  15 gcp  15 dx  9  6
+  "Yo" ext  22 calc  20 gcp  20 dx  9  11
+  "Today: 3/17/2021" ext  158 calc  156 gcp  156 dx  8  11  11  10  10  6  5  11  9  11  11  9  11  11  11  11
+  "AVAVAV" ext  75 calc  70 gcp  70 dx  12  11  12  11  12  12
+  "T.T," ext  31 calc  26 gcp  26 dx  8  5  8  5
+  drawn  0x0
+   text  10  0 " " dx  19 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  10  0 "To" dx  10  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x1
+   text  98  0 " " dx  24 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  98  0 "AV" dx  13  12 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+  drawn  0x2
+   text  179  0 " " dx  31 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -21  700
+   text  179  0 "Tue" dx  10  11  11 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -21  700
+== Calibri  -32 bold
+   pairs  26691  0
+  "To" ext  33 calc  30 gcp  30 dx  13  17
+  "AV" ext  38 calc  36 gcp  36 dx  17  19
+  "Ty" ext  31 calc  30 gcp  30 dx  15  15
+  "Wa" ext  45 calc  44 gcp  44 dx  28  16
+  "11" ext  32 calc  32 gcp  32 dx  16  16
+  "Tue" ext  49 calc  47 gcp  47 dx  14  17  16
+  "LT" ext  30 calc  28 gcp  28 dx  12  16
+  "P." ext  26 calc  22 gcp  22 dx  13  9
+  "Yo" ext  34 calc  31 gcp  31 dx  14  17
+  "Today: 3/17/2021" ext  237 calc  233 gcp  233 dx  13  17  17  15  15  9  7  16  14  16  16  14  16  16  16  16
+  "AVAVAV" ext  114 calc  104 gcp  104 dx  17  17  17  17  17  19
+  "T.T," ext  49 calc  41 gcp  41 dx  13  7  13  8
+== Calibri  -48 bold
+   pairs  26691  0
+  "To" ext  50 calc  46 gcp  46 dx  20  26
+  "AV" ext  57 calc  55 gcp  55 dx  27  28
+  "Ty" ext  47 calc  46 gcp  46 dx  23  23
+  "Wa" ext  68 calc  66 gcp  66 dx  42  24
+  "11" ext  48 calc  48 gcp  48 dx  24  24
+  "Tue" ext  74 calc  72 gcp  72 dx  22  26  24
+  "LT" ext  44 calc  40 gcp  40 dx  16  24
+  "P." ext  39 calc  34 gcp  34 dx  21  13
+  "Yo" ext  51 calc  47 gcp  47 dx  21  26
+  "Today: 3/17/2021" ext  357 calc  352 gcp  352 dx  20  26  26  23  23  13  11  24  21  24  24  21  24  24  24  24
+  "AVAVAV" ext  171 calc  159 gcp  159 dx  27  25  27  25  27  28
+  "T.T," ext  73 calc  62 gcp  62 dx  20  10  20  12
+== Calibri  -2048 bold
+   pairs  26691  0
+   
+== drawn opaque  0  0x120
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "ab" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== drawn opaque  1  0x20
+   text  10  0 " " dx  15 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== drawn opaque  2  0x22
+   text  86  0 " " dx  24 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  86  0 "Tue" dx  9  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== drawn opaque  3  0x120
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== drawn opaque  4  0x120
+   text  10  0 " " dx  16 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  16  400
+   text  10  0 "To" dx  8  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+== drawn opaque  5  0x125
+   text  52  12 " " dx  15 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  52  12 "To" dx  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== drawn opaque  6  0x1a0
+   text  10  0 " " dx  57 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "Today:" dx  9  8  8  8  7  4 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+   text  52  0 "To" dx  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== drawn opaque  7  0x110
+   text  10  0 " " dx  34 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "Ta To" dx  9  8  4  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+   text  10  16 " " dx  34 options  0x0 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  16 "To Ta" dx  9  8  4  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== tabbed extent  105  16
+== tabbed out
+   text  10  0 " " dx  15 options  0x2 rect  10  0  25  16 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  10  0 "To" dx  9  8 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+   text  74  0 " " dx  41 options  0x2 rect  25  0  115  16 fg  0x0 bg  0xffffff mode  2 align  0x0 font  -14  400
+   text  109  0 "" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  16  400
+   text  74  0 "To AV" dx  9  8  4  9  9 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -14  400
+== width  33 wrapped  32  19 ellipsis "To ..."
+== width  35 wrapped  16  34 ellipsis "To To"
+== width  37 wrapped  16  34 ellipsis "To To"
+== width  39 wrapped  16  34 ellipsis "To To"

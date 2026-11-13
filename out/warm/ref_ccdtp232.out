@@ -1,0 +1,150 @@
+short date:
+  made: get  0  2021- 1- 31/ 0  14: 5: 9. 0
+    notify  -7
+  focused
+   text  8  2 " " dx  6 options  0x0 fg  0xffffff bg  0xd77800 mode  2 align  0x0 stock  17
+   text  8  2 "1" dx  6 options  0x0 fg  0xffffff bg  0xd77800 mode  1 align  0x0 stock  17
+   text  14  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  19  2 "31" dx  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  31  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  36  2 "2021" dx  6  6  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   blit  175  0  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  159  19  16  1 rop  0xf00021 brush  0x0  0x696969
+   blit  159  0  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  160  0  15  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  174  1  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  18  14  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  1  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  1  13  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  2  13  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  161  3 "6" dx  13 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 font  13  400
+  key right
+  after: get  0  2021- 1- 31/ 0  14: 5: 9. 0
+   text  8  2 "1" dx  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  14  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  19  2 " " dx  12 options  0x0 fg  0xffffff bg  0xd77800 mode  2 align  0x0 stock  17
+   text  19  2 "31" dx  6  6 options  0x0 fg  0xffffff bg  0xd77800 mode  1 align  0x0 stock  17
+   text  31  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  36  2 "2021" dx  6  6  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   blit  175  0  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  159  19  16  1 rop  0xf00021 brush  0x0  0x696969
+   blit  159  0  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  160  0  15  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  174  1  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  18  14  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  1  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  1  13  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  2  13  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  161  3 "6" dx  13 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 font  13  400
+  key up
+    notify  -759  0  2021- 1- 1/ 5  14: 5: 9. 0
+  after: get  0  2021- 1- 1/ 5  14: 5: 9. 0
+  key up
+    notify  -759  0  2021- 1- 2/ 6  14: 5: 9. 0
+  after: get  0  2021- 1- 2/ 6  14: 5: 9. 0
+  key down
+    notify  -759  0  2021- 1- 1/ 5  14: 5: 9. 0
+  after: get  0  2021- 1- 1/ 5  14: 5: 9. 0
+  key left
+  after: get  0  2021- 1- 1/ 5  14: 5: 9. 0
+  key up
+    notify  -759  0  2021- 2- 1/ 1  14: 5: 9. 0
+  after: get  0  2021- 2- 1/ 1  14: 5: 9. 0
+  key up
+    notify  -759  0  2021- 3- 1/ 1  14: 5: 9. 0
+  after: get  0  2021- 3- 1/ 1  14: 5: 9. 0
+  key down
+    notify  -759  0  2021- 2- 1/ 1  14: 5: 9. 0
+  after: get  0  2021- 2- 1/ 1  14: 5: 9. 0
+  key right
+  after: get  0  2021- 2- 1/ 1  14: 5: 9. 0
+  key right
+  after: get  0  2021- 2- 1/ 1  14: 5: 9. 0
+  key right
+  after: get  0  2021- 2- 1/ 1  14: 5: 9. 0
+   text  8  2 " " dx  6 options  0x0 fg  0xffffff bg  0xd77800 mode  2 align  0x0 stock  17
+   text  8  2 "2" dx  6 options  0x0 fg  0xffffff bg  0xd77800 mode  1 align  0x0 stock  17
+   text  14  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  25  2 "1" dx  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  31  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  36  2 "2021" dx  6  6  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   blit  175  0  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  159  19  16  1 rop  0xf00021 brush  0x0  0x696969
+   blit  159  0  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  160  0  15  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  174  1  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  18  14  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  1  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  1  13  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  2  13  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  161  3 "6" dx  13 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 font  13  400
+  key home
+    notify  -759  0  2021- 1- 1/ 5  14: 5: 9. 0
+  after: get  0  2021- 1- 1/ 5  14: 5: 9. 0
+   text  8  2 " " dx  6 options  0x0 fg  0xffffff bg  0xd77800 mode  2 align  0x0 stock  17
+   text  8  2 "1" dx  6 options  0x0 fg  0xffffff bg  0xd77800 mode  1 align  0x0 stock  17
+   text  14  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  25  2 "1" dx  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  31  2 "/" dx  5 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   text  36  2 "2021" dx  6  6  6  6 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 stock  17
+   blit  175  0  1  20 rop  0xf00021 brush  0x0  0x696969
+   blit  159  19  16  1 rop  0xf00021 brush  0x0  0x696969
+   blit  159  0  1  19 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  160  0  15  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  174  1  1  18 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  18  14  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  160  1  1  17 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  1  13  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  161  2  13  16 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  161  3 "6" dx  13 options  0x0 fg  0x0 bg  0xd77800 mode  1 align  0x0 font  13  400
+  key end
+    notify  -759  0  2021- 12- 1/ 3  14: 5: 9. 0
+  after: get  0  2021- 12- 1/ 3  14: 5: 9. 0
+  key page up
+  after: get  0  2021- 12- 1/ 3  14: 5: 9. 0
+  key page down
+  after: get  0  2021- 12- 1/ 3  14: 5: 9. 0
+  key left
+  after: get  0  2021- 12- 1/ 3  14: 5: 9. 0
+  type "2025"
+    notify  -759  0  2025- 12- 1/ 1  14: 5: 9. 0
+  after: get  0  2025- 12- 1/ 1  14: 5: 9. 0
+  key left
+  after: get  0  2025- 12- 1/ 1  14: 5: 9. 0
+  key left
+  after: get  0  2025- 12- 1/ 1  14: 5: 9. 0
+  type "1"
+    notify  -759  0  2025- 1- 1/ 3  14: 5: 9. 0
+  after: get  0  2025- 1- 1/ 3  14: 5: 9. 0
+  type "2"
+    notify  -759  0  2025- 12- 1/ 1  14: 5: 9. 0
+  after: get  0  2025- 12- 1/ 1  14: 5: 9. 0
+  type "13"
+    notify  -759  0  2025- 3- 1/ 6  14: 5: 9. 0
+  after: get  0  2025- 3- 1/ 6  14: 5: 9. 0
+  type "x"
+  after: get  0  2025- 3- 1/ 6  14: 5: 9. 0
+  ranged: get  0  2021- 3- 20/ 6  14: 5: 9. 0
+  key home
+    notify  -759  0  2021- 1- 20/ 3  14: 5: 9. 0
+  after: get  0  2021- 1- 20/ 3  14: 5: 9. 0
+  key down
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+  after: get  0  2021- 3- 20/ 6  0: 0: 0. 0
+  key up
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+  after: get  0  2021- 3- 20/ 6  0: 0: 0. 0
+  key up
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+  after: get  0  2021- 3- 20/ 6  0: 0: 0. 0
+  key up
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+  after: get  0  2021- 3- 20/ 6  0: 0: 0. 0
+drop-down:
+  key f4
+    notify  -754
+  (timer: still dropped)
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0
+    notify  -759  0  2021- 3- 20/ 6  0: 0: 0. 0

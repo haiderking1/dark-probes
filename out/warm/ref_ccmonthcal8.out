@@ -1,0 +1,69 @@
+  made: sel  2021  3  10 first month  2021  3
+next at  151  8 prev at  7  8 day 10 at  77  62
+next held:
+    notify  -749  2021- 4- 10
+    notify  -749  2021- 4- 10
+  pressed: sel  2021  4  10 first month  2021  4
+  timer id  1
+    notify  -749  2021- 5- 10
+    notify  -749  2021- 5- 10
+  step ~80  360
+  after it: sel  2021  5  10 first month  2021  5
+  timer id  1
+    notify  -749  2021- 6- 10
+    notify  -749  2021- 6- 10
+  step ~80  750
+  after it: sel  2021  6  10 first month  2021  6
+  timer id  1
+    notify  -749  2021- 7- 10
+    notify  -749  2021- 7- 10
+  step ~80  1110
+  after it: sel  2021  7  10 first month  2021  7
+  timer id  1
+    notify  -749  2021- 8- 10
+    notify  -749  2021- 8- 10
+  step ~80  1485
+  after it: sel  2021  8  10 first month  2021  8
+  timer id  1
+    notify  -749  2021- 9- 10
+    notify  -749  2021- 9- 10
+  step ~80  1844
+  after it: sel  2021  9  10 first month  2021  9
+  steps  5 timer messages  5
+    notify  -16
+  released: sel  2021  9  10 first month  2021  9
+  steps  0 timer messages  0
+  700 ms later: sel  2021  9  10 first month  2021  9
+prev held, delta 3:
+    notify  -749  2021- 6- 10
+    notify  -749  2021- 6- 10
+  pressed: sel  2021  6  10 first month  2021  6
+  timer id  1
+    notify  -749  2021- 3- 10
+    notify  -749  2021- 3- 10
+  step ~80  375
+  after it: sel  2021  3  10 first month  2021  3
+  timer id  1
+    notify  -749  2020- 12- 10
+    notify  -749  2020- 12- 10
+  step ~80  766
+  after it: sel  2020  12  10 first month  2020  12
+  timer id  1
+    notify  -749  2020- 9- 10
+    notify  -749  2020- 9- 10
+  step ~80  1109
+  after it: sel  2020  9  10 first month  2020  9
+  steps  3 timer messages  3
+    notify  -16
+  released: sel  2020  9  10 first month  2020  9
+  steps  0 timer messages  0
+  700 ms later: sel  2020  9  10 first month  2020  9
+day held:
+  pressed: sel  2020  9  10 first month  2020  9
+  steps  0 timer messages  0
+    notify  -16
+    notify  -749  2020- 9- 9
+    notify  -746  2020- 9- 9
+  released: sel  2020  9  9 first month  2020  9
+  steps  0 timer messages  0
+  700 ms later: sel  2020  9  9 first month  2020  9

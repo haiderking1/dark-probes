@@ -1,0 +1,196 @@
+== clicks
+  made: sel  2021  3  10  3 months  1  2021  3  1
+    notify  -16
+    notify  -749  2021- 3- 20/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -746  2021- 3- 20/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  clicked the 20th: sel  2021  3  20  6 months  1  2021  3  1
+    notify  -16
+    notify  -749  2021- 4- 4/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -746  2021- 4- 4/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  clicked a day after (4th of april): sel  2021  4  4  0 months  1  2021  4  1
+    notify  -16
+    notify  -749  2021- 3- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -746  2021- 3- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  clicked a day before: sel  2021  3  28  0 months  1  2021  3  1
+    notify  -749  2021- 4- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -749  2021- 4- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -16
+  next button: sel  2021  4  28  3 months  1  2021  4  1
+    notify  -749  2021- 3- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -749  2021- 3- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -16
+  previous button: sel  2021  3  28  0 months  1  2021  3  1
+    notify  -749  2021- 6- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -749  2021- 6- 28/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -16
+  next button, delta 3: sel  2021  6  28  1 months  1  2021  6  1
+    notify  -16
+    notify  -749  2021- 3- 17/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -746  2021- 3- 17/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  today link: sel  2021  3  17  3 months  1  2021  3  1
+== keys
+    notify  -749  2021- 3- 11/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  right: sel  2021  3  11  4 months  1  2021  3  1
+    notify  -749  2021- 3- 10/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  left: sel  2021  3  10  3 months  1  2021  3  1
+    notify  -749  2021- 3- 17/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  down: sel  2021  3  17  3 months  1  2021  3  1
+    notify  -749  2021- 3- 10/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  up: sel  2021  3  10  3 months  1  2021  3  1
+    notify  -749  2021- 4- 10/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  page down: sel  2021  4  10  6 months  1  2021  4  1
+    notify  -749  2021- 3- 10/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  page up: sel  2021  3  10  3 months  1  2021  3  1
+    notify  -749  2021- 3- 31/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  end: sel  2021  3  31  3 months  1  2021  3  1
+    notify  -749  2021- 3- 1/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  home: sel  2021  3  1  1 months  1  2021  3  1
+    notify  -749  2021- 4- 1/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  ctrl page down: sel  2021  4  1  4 months  1  2021  4  1
+    notify  -749  2021- 3- 1/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  ctrl page up: sel  2021  3  1  1 months  1  2021  3  1
+    notify  -749  2021- 3- 2/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  ctrl right: sel  2021  3  2  2 months  1  2021  3  1
+    notify  -749  2021- 3- 31/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  ctrl end: sel  2021  3  31  3 months  1  2021  3  1
+    notify  -749  2021- 3- 1/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  ctrl home: sel  2021  3  1  1 months  1  2021  3  1
+    notify  -749  2021- 3- 2/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+  shift right: sel  2021  3  2  2 months  1  2021  3  1
+== day states
+  making
+    notify  -747  2026- 10- 1/ 0  0: 0: 0. 0  3  1
+  made, setting today and the selection
+    notify  -747  2021- 2- 1/ 0  0: 0: 0. 0  3  1
+  resizing
+  made with MCS_DAYSTATE: sel  2021  3  10  3 months  1  2021  3  1
+    notify  -747  2021- 3- 1/ 0  0: 0: 0. 0  3  1
+    notify  -749  2021- 4- 10/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -749  2021- 4- 10/ 0  0: 0: 0. 0  0- 0- 0/ 0  0: 0: 0. 0
+    notify  -16
+  next button: sel  2021  4  10  6 months  1  2021  4  1
+  setdaystate  1
+   fill  0  0  176  153  0xffffff
+   fill  0  0  176  153  0xffffff
+   fill  0  0  176  30  0xd1b499
+   fill  0  0  176  30  0xd1b499
+   text  59  8 "April 2021" dx  8  7  4  3  3  4  7  7  7  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -11  800
+   line  4  44  172  44 pen  0x0  0  0x0
+   text  3  31 "Sun" dx  7  6  6 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  27  31 "Mon" dx  9  6  6 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  53  31 "Tue" dx  7  6  6 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  76  31 "Wed" dx  11  6  6 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  103  31 "Thu" dx  7  6  6 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  132  31 "Fri" dx  6  3  2 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  154  31 "Sat" dx  7  6  3 options  0x0 fg  0xd1b499 bg  0xffffff mode  1 align  0x0 stock  17
+   text  6  46 "28" dx  6  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  31  46 "29" dx  6  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  56  46 "30" dx  6  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  81  46 "31" dx  6  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  109  46 "1" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  134  46 "2" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  159  46 "3" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  9  61 "4" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  34  61 "5" dx  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -11  800
+   text  59  61 "6" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  84  61 "7" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  109  61 "8" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  134  61 "9" dx  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   ellipse  152  62  173  73 stock  8 brush  0x0  0xd1b499
+   text  156  61 "10" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  6  76 "11" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  31  76 "12" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  56  76 "13" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  81  76 "14" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  106  76 "15" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  131  76 "16" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  156  76 "17" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  6  91 "18" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  31  91 "19" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  56  91 "20" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  81  91 "21" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  106  91 "22" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  131  91 "23" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  156  91 "24" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  6  106 "25" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  31  106 "26" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  56  106 "27" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  81  106 "28" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  106  106 "29" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  131  106 "30" dx  6  6 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 stock  17
+   text  159  106 "1" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  9  121 "2" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  34  121 "3" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  59  121 "4" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  84  121 "5" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  109  121 "6" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   text  134  121 "7" dx  7 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 font  -11  800
+   text  159  121 "8" dx  6 options  0x0 fg  0x6d6d6d bg  0xffffff mode  1 align  0x0 stock  17
+   arc  5  142  26  150 from  15  142 to  27  144 pen  0x0  2  0xff
+   arc  -6  139  26  150 from  27  144 to  7  142 pen  0x0  2  0xff
+   text  29  138 "Today: 3/17/2021" dx  8  7  7  7  6  4  4  7  6  7  7  6  7  7  7  7 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  -11  800
+   blit  26  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  5  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  5  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  6  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  25  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  6  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  7  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  9  8 "3" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+   blit  170  6  1  17 rop  0xf00021 brush  0x0  0x696969
+   blit  149  22  21  1 rop  0xf00021 brush  0x0  0x696969
+   blit  149  6  1  16 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  150  6  20  1 rop  0xf00021 brush  0x0  0xe3e3e3
+   blit  169  7  1  15 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  150  21  19  1 rop  0xf00021 brush  0x0  0xa0a0a0
+   blit  150  7  1  14 rop  0xf00021 brush  0x0  0xffffff
+   blit  151  7  18  1 rop  0xf00021 brush  0x0  0xffffff
+   blit  151  8  18  13 rop  0xf00021 brush  0x0  0xf0f0f0
+   text  153  8 "4" dx  13 options  0x0 fg  0x0 bg  0xffffff mode  1 align  0x0 font  13  400
+== multiselect: plain click the 12th
+    notify  -749  2021- 3- 12/ 0  0: 0: 0. 0  2021- 3- 12/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 12/ 0  0: 0: 0. 0  2021- 3- 12/ 0  0: 0: 0. 0
+  after: sel  2021  3  12  5  2021  3  12  5 months  1  2021  3  1
+== multiselect: drag 8th to 11th
+    notify  -749  2021- 3- 8/ 0  0: 0: 0. 0  2021- 3- 8/ 0  0: 0: 0. 0
+    notify  -749  2021- 3- 8/ 0  0: 0: 0. 0  2021- 3- 11/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 8/ 0  0: 0: 0. 0  2021- 3- 11/ 0  0: 0: 0. 0
+  after: sel  2021  3  8  1  2021  3  11  4 months  1  2021  3  1
+== multiselect: shift (keys) click the 16th
+    notify  -749  2021- 3- 10/ 0  0: 0: 0. 0  2021- 3- 16/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 10/ 0  0: 0: 0. 0  2021- 3- 16/ 0  0: 0: 0. 0
+  after: sel  2021  3  10  3  2021  3  16  2 months  1  2021  3  1
+== multiselect: shift (state) click the 16th
+    notify  -749  2021- 3- 16/ 0  0: 0: 0. 0  2021- 3- 16/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 16/ 0  0: 0: 0. 0  2021- 3- 16/ 0  0: 0: 0. 0
+  after: sel  2021  3  16  2  2021  3  16  2 months  1  2021  3  1
+== multiselect: shift (keys) click past the max (27th)
+    notify  -749  2021- 3- 10/ 0  0: 0: 0. 0  2021- 3- 16/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 10/ 0  0: 0: 0. 0  2021- 3- 16/ 0  0: 0: 0. 0
+  after: sel  2021  3  10  3  2021  3  16  2 months  1  2021  3  1
+== multiselect: max 3, plain click the 8th
+  max 3: sel  2021  3  10  3  2021  3  10  3 months  1  2021  3  1
+    notify  -749  2021- 3- 8/ 0  0: 0: 0. 0  2021- 3- 8/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 8/ 0  0: 0: 0. 0  2021- 3- 8/ 0  0: 0: 0. 0
+  after: sel  2021  3  8  1  2021  3  8  1 months  1  2021  3  1
+== multiselect: max 3, shift (keys) click the 12th
+  max 3: sel  2021  3  10  3  2021  3  10  3 months  1  2021  3  1
+    notify  -749  2021- 3- 10/ 0  0: 0: 0. 0  2021- 3- 12/ 0  0: 0: 0. 0
+    notify  -16
+    notify  -746  2021- 3- 10/ 0  0: 0: 0. 0  2021- 3- 12/ 0  0: 0: 0. 0
+  after: sel  2021  3  10  3  2021  3  12  5 months  1  2021  3  1
+== multiselect: keys right, down, shift right
+    notify  -749  2021- 3- 11/ 0  0: 0: 0. 0  2021- 3- 11/ 0  0: 0: 0. 0
+  right: sel  2021  3  11  4  2021  3  11  4 months  1  2021  3  1
+    notify  -749  2021- 3- 18/ 0  0: 0: 0. 0  2021- 3- 18/ 0  0: 0: 0. 0
+  down: sel  2021  3  18  4  2021  3  18  4 months  1  2021  3  1
+    notify  -749  2021- 3- 19/ 0  0: 0: 0. 0  2021- 3- 19/ 0  0: 0: 0. 0
+  after: sel  2021  3  19  5  2021  3  19  5 months  1  2021  3  1

@@ -1,0 +1,14 @@
+  made: sel  2021  3  10 first month  2021  3
+  month at  57 year at  96
+    notify  -16
+    notify  -749  2021- 2- 10
+    notify  -749  2021- 2- 10
+  month menu, down down enter: sel  2021  2  10 first month  2021  2
+    notify  -16
+  year clicked children:
+  year clicked: sel  2021  2  10 first month  2021  2
+    notify  -16
+    notify  -749  2021- 2- 8
+    notify  -746  2021- 2- 8
+  day clicked children:
+  day clicked: sel  2021  2  8 first month  2021  2
