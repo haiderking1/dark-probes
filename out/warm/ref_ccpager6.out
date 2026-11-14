@@ -1,0 +1,13 @@
+held
+  ticks enough  1
+  first after (10 ms)  0 then (10 ms)  250
+  between (mean, 5 ms)  70
+  scrolls  88  76  76  76  76  76  76  76 places  0  88  164  240  316  392  468  544
+autoscroll
+  ticks enough  1
+  between (mean, 5 ms)  125
+  scrolls  88  76  76  76  76  76  76  76 places  0  88  164  240  316  392  468  544
+dragged over
+  ticks enough  1
+  between (mean, 5 ms)  65
+  scrolls  88  76  76  76  76  76  76  76 places  0  88  164  240  316  392  468  544
