@@ -1,0 +1,14 @@
+psp null lpv 0 0x47e
+psp null fn 0 0x7e
+psp bad sz 0 0x12345678
+psp bad req 0 0x12345678
+psp no dev 1 0x12345678
+instcat null 0 0x12345678
+instcat missing 0 0x12345678
+pinstcat null 87 0x12345678
+pinstcat missing 87 0x12345678
+vercat null -536870353 0x3
+vercat missing -536870353 0x2
+pvercat null -536870353 0x3
+pvercat missing -536870353 0x2
+cleanup 1

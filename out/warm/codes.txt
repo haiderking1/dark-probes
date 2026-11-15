@@ -1,0 +1,4 @@
+ref_infglobalflags 42
+ref_infglobalflags32 42
+ref_infmisc 42
+ref_infmisc32 42

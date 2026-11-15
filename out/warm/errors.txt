@@ -1,0 +1,4 @@
+== ref_infglobalflags
+== ref_infglobalflags32
+== ref_infmisc
+== ref_infmisc32
