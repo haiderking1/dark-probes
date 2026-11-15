@@ -1,0 +1,4 @@
+== ref_d3dim_tex32
+== ref_d3dim_rs32
+== ref_d3dim_exec32
+== ref_d3dim_legacy32
