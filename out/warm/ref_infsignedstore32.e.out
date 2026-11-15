@@ -1,0 +1,27 @@
+powershell 1 42
+files cleanup 1 1
+powershell 1 42
+0
+legacy catalog 0x57 0x12345678 0 0xffffffff
+pinstall catalog 0x0 0x0 1 [C:\WINDOWS\system32\CatRoot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\darkprobe_catalog_9b542080_32.cat] 0x2004
+legacy catalog ansi 0x57 0x12345678 []
+verify catalog 0x800b0109 0x800b0109
+pverify catalog 0x800b0109 0x800b0109
+verify catalog ansi 0xe000022f 0x2
+catalog cleanup 1 0xffffffff
+copy 0x2 0 0x2 21845 -1 []
+copy 0x0 1 0x0 24 15 [C:\WINDOWS\INF\oem2.inf]
+copy 0x8 0 0x50 24 15 [C:\WINDOWS\INF\oem2.inf]
+copy 0x2 1 0x0 24 15 [C:\WINDOWS\INF\oem2.inf]
+copy 0x40000 1 0x0 24 15 [C:\WINDOWS\INF\oem2.inf]
+copy 0x1 1 0x0 24 15 [C:\WINDOWS\INF\oem2.inf]
+pnf 0xffffffff
+location 0 0 0x7a 90 []
+location 1 0 0x7a 90 []
+location 600 1 0x0 90 [C:\WINDOWS\System32\DriverStore\FileRepository\probe.inf_amd64_6e74827d2218b153\probe.inf]
+published 1 0x0 90 [oem2.inf]
+uninstall 0 1 0x0 0xffffffff
+uninstall 1 0 0x2 0xffffffff
+powershell 1 42
+0
+files cleanup 1 1

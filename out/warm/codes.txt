@@ -1,0 +1,2 @@
+ref_infsignedstore 42
+ref_infsignedstore32 42
