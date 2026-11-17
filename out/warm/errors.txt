@@ -1,0 +1,16 @@
+== ref_catadminenum.e
+== ref_catadminenum32.e
+== ref_catadminpaths.e
+== ref_catadminpaths32.e
+== ref_catadminprocess.e
+== ref_catadminprocess32.e
+== ref_catadminresolve.e
+== ref_catadminresolve32.e
+== ref_catadminresolvebounds.e
+== ref_catadminresolvebounds32.e
+== ref_catadminsequence.e
+== ref_catadminsequence32.e
+== ref_catadminstore.e
+== ref_catadminstore32.e
+== ref_catpersistvalidation.e
+== ref_catpersistvalidation32.e

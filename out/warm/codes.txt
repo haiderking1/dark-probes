@@ -1,0 +1,16 @@
+ref_catadminenum 42
+ref_catadminenum32 42
+ref_catadminpaths 42
+ref_catadminpaths32.e failed
+ref_catadminprocess timeout
+ref_catadminprocess32 timeout
+ref_catadminresolve 42
+ref_catadminresolve32 42
+ref_catadminresolvebounds 42
+ref_catadminresolvebounds32 42
+ref_catadminsequence timeout
+ref_catadminsequence32 3
+ref_catadminstore timeout
+ref_catadminstore32 4
+ref_catpersistvalidation 42
+ref_catpersistvalidation32 42

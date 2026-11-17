@@ -1,0 +1,19 @@
+enum 0 1 0x0 1 0
+info 1 0x12345678 dark-owned-enum-b.cat
+enum 1 1 0x0 0 1
+info 1 0x12345678 dark-owned-enum-a.cat
+enum 2 0 0x490 0 0
+empty-enum 0 1 0x0
+cached-file 1 0
+empty-enum 1 0 0x57
+empty-enum 2 0 0x57
+cold-after-remove 1 0x0
+fresh-after-remove 0 0 0x490
+fresh-after-remove 1 0 0x490
+hash-size 0 0 0x57
+hash-size 1 0 0x57
+hash-size 19 0 0x57
+hash-size 20 0 0x490
+hash-size 21 0 0x57
+hash-size 32 0 0x57
+hash-size 64 0 0x57
