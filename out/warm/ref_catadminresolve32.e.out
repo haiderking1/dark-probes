@@ -1,0 +1,17 @@
+name 0 1 0x12345678 524 <windows>\system32\CatRoot\{DAC01B05-9FA1-4E3A-B020-898377661104}\dark-owned-missing.cat
+name 1 1 0x12345678 524 <windows>\system32\CatRoot\{DAC01B05-9FA1-4E3A-B020-898377661104}\
+name 2 0 0x57 524 !
+name 3 1 0x12345678 524 <windows>\system32\CatRoot\{DAC01B05-9FA1-4E3A-B020-898377661104}\folder\dark-owned.cat
+name 4 1 0x12345678 524 <windows>\system32\CatRoot\{DAC01B05-9FA1-4E3A-B020-898377661104}\C:\dark-owned-none\other.cat
+name 5 1 0x12345678 524 <windows>\system32\CatRoot\{DAC01B05-9FA1-4E3A-B020-898377661104}\.\dark-owned.cat
+name 6 1 0x12345678 524 <windows>\system32\CatRoot\{DAC01B05-9FA1-4E3A-B020-898377661104}\..\dark-owned.cat
+size 0 0 0x57 1
+size 1 0 0x57 1
+size 520 0 0x57 1
+size 524 1 0x12345678 0
+size 528 0 0x57 1
+invalid 0 0 0x57 1
+invalid 1 0 0x57 1
+invalid 2 0 0x57 1
+invalid 3 0 0x57 1
+cleanup-catalog 1 1
