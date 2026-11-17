@@ -1,0 +1,5 @@
+provider-cat 0 1 0x0 1
+provider-live 0 1 0x12345678 24
+provider-cat 1 1 0x0 1
+provider-live 1 0 0x57 0
+sandbox-cleanup 1
