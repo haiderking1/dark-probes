@@ -1,0 +1,11 @@
+== enable-directplay.e
+== enable-directplay.e
+== ref_dpserver32
+== ref_dpserver
+== ref_dpplayversions32
+== ref_dpspendpoint32
+== ref_dplobbywait32
+== ref_dplobbyfaces32
+== ref_dplobbypack32
+== ref_dplobbyapps32
+== ref_dplobbylaunch32

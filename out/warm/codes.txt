@@ -1,0 +1,11 @@
+enable-directplay 0
+enable-directplay timeout
+ref_dpserver32 42
+ref_dpserver 42
+ref_dpplayversions32 timeout
+ref_dpspendpoint32 42
+ref_dplobbywait32 42
+ref_dplobbyfaces32 42
+ref_dplobbypack32 42
+ref_dplobbyapps32 42
+ref_dplobbylaunch32 42
