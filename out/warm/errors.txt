@@ -1,0 +1,17 @@
+== ref_dpplayversions32
+== ref_dpspsessions32
+== ref_dpspsnapshot32
+== ref_dpplaycrypto32
+== ref_regimpersonate32
+== ref_dpplay32
+== ref_dpspbindport32
+== ref_dpcryptoprim
+== ref_dpplaypreauth32
+== ref_dplobbypack32
+== ref_dpspgameports32
+== ref_dpplayretry
+== ref_dpcreateguid32
+== ref_dpplaysecure
+== ref_dpspenumtiming
+== ref_netlocalpassword
+== ref_dplobbyfaces32

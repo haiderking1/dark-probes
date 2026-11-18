@@ -1,0 +1,17 @@
+ref_dpplayversions32 timeout
+ref_dpspsessions32 timeout
+ref_dpspsnapshot32 timeout
+ref_dpplaycrypto32 timeout
+ref_regimpersonate32 42
+ref_dpplay32 timeout
+ref_dpspbindport32 timeout
+ref_dpcryptoprim 42
+ref_dpplaypreauth32 timeout
+ref_dplobbypack32 timeout
+ref_dpspgameports32 timeout
+ref_dpplayretry 42
+ref_dpcreateguid32 timeout
+ref_dpplaysecure 42
+ref_dpspenumtiming 42
+ref_netlocalpassword 42
+ref_dplobbyfaces32 timeout
