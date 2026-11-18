@@ -1,0 +1,5 @@
+enable-directplay 3010
+ref_dpcreateguid 42
+ref_dpcreateguid32 42
+ref_dpplayasync 42
+ref_dpplayasync32 42

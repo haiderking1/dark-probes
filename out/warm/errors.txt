@@ -1,0 +1,5 @@
+== enable-directplay.e
+== ref_dpcreateguid
+== ref_dpcreateguid32
+== ref_dpplayasync
+== ref_dpplayasync32
