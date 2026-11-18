@@ -1,0 +1,3 @@
+enable-directplay timeout
+ref_dpexports 42
+ref_dpexports32 42

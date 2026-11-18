@@ -1,0 +1,3 @@
+== enable-directplay.e
+== ref_dpexports
+== ref_dpexports32

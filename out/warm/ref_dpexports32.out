@@ -1,0 +1,12 @@
+directory 1 11 11
+ordinal 1 1 DirectPlayCreate 1
+ordinal 2 1 DirectPlayEnumerateA 1
+ordinal 3 1 DirectPlayEnumerateW 1
+ordinal 4 1 DirectPlayLobbyCreateA 1
+ordinal 5 1 DirectPlayLobbyCreateW 1
+ordinal 6 1 DllCanUnloadNow 1
+ordinal 7 1 DllGetClassObject 1
+ordinal 8 1 DllRegisterServer 1
+ordinal 9 1 DirectPlayEnumerate 1
+ordinal 10 1 DllUnregisterServer 1
+ordinal 11 1 gdwDPlaySPRefCount 1
