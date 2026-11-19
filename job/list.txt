@@ -1,0 +1,6 @@
+ref_msiact_std 7777 300000
+ref_msiact_std32 7777 300000
+ref_msiui 7777 300000
+ref_msiui32 7777 300000
+ref_msipatch 7777 300000
+ref_msipatch32 7777 300000
