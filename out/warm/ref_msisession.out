@@ -1,0 +1,66 @@
+ui 1 2
+open 0
+activedb 1 0
+lang 1033
+p_name ProductName 0 7 "SessApp"
+p_ver ProductVersion 0 5 "2.3.4"
+p_miss NoSuchProp 0 0 ""
+setp 0
+gp_0 234 5
+gp_5 234 5
+gp_6 0 5 "Hello"
+clrp 0
+p_cleared CUSTOM 0 0 ""
+mode 0 0
+mode 1 0
+mode 2 0
+mode 3 1
+mode 4 0
+mode 5 0
+mode 6 0
+mode 7 0
+mode 8 0
+mode 9 0
+mode 10 0
+mode 11 0
+mode 12 0
+mode 13 1
+mode 14 0
+mode 15 0
+mode 16 0
+setmode_rb 5 0
+seq 0
+p_after_seq MYPROP 0 9 "Val-2.3.4"
+cost_init 0
+file_cost 0
+cost_fin 0
+fs_core 0 2 3
+fs_opt 0 2 -1
+cs_core 0 2 3
+cs_opt 0 2 -1
+setlvl 0
+fs_opt2 0 2 3
+cs_opt2 0 2 3
+fvs 0 0xe
+fcost 0 -2147483648
+vdisk 0
+settp 0
+gettp_app 0 "C:\\DarkMsiTestApp\\"
+gettp_sub 0 "C:\\DarkMsiTestApp\\sub\\"
+fmt_sess 0 "P=SessApp F=C:\\DarkMsiTestApp\\myapp.exe S=C:\\DarkMsiTestApp\\myapp.exe C=C:\\DarkMsiTestApp\\ M="
+phase 0 0 0 0 -2147483648 1626 -19 -19
+phase 0 1 0 0 -2147483648 1626 -19 -19
+phase 0 2 0 0 -2147483648 1626 -19 -19
+phase 0 3 1626 0 -2147483648 1626 -19 -19
+phase 1 0 0 0 -2147483648 1626 -19 -19
+phase 1 1 0 0 -2147483648 1626 -19 -19
+phase 1 2 0 0 -2147483648 1626 -19 -19
+phase 1 3 1626 0 -2147483648 1626 -19 -19
+phase 2 0 0 0 -2147483648 1626 -19 -19
+phase 2 1 0 0 -2147483648 1626 -19 -19
+phase 2 2 0 0 -2147483648 1626 -19 -19
+phase 2 3 1626 0 -2147483648 1626 -19 -19
+phase 3 0 0 0 -2147483648 1626 -19 -19
+phase 3 1 0 0 -2147483648 1626 -19 -19
+phase 3 2 0 0 -2147483648 1626 -19 -19
+phase 3 3 1626 0 -2147483648 1626 -19 -19
