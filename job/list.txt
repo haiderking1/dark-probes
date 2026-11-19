@@ -1,0 +1,4 @@
+ref_msiuictrls 7777 300000
+ref_msiuictrls32 7777 300000
+ref_msiuievents 7777 300000
+ref_msiuievents32 7777 300000
