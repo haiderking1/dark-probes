@@ -1,0 +1,4 @@
+probe_wtpfnaudit.exe
+pfn-audit-fixture.ps1
+probe_wtpfnapi.exe
+probe_wtpfnapi32.exe
