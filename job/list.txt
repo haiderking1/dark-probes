@@ -1,0 +1,2 @@
+enable-directplay 7778 240000
+rollcage_capture 7778 145000
