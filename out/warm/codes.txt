@@ -1,0 +1,2 @@
+probe_winexports failed
+probe_winexports32 42
