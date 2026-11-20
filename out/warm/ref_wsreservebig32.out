@@ -1,0 +1,11 @@
+big 1000  12000  1000  0  0  1  -1  -1
+autobind  0  0
+release  -1  10022
+big 8000  20000  8000  0  0  1  -1  -1
+autobind  0  0
+release  -1  10022
+range past the top  5536  60000  -1  10022  1  -1  -1
+release on owner  30000  100  0  0  1  0  0
+exhaust none  50000  1000  0  -2  0  1000  1  1
+exhaust 1000  50000  1000  1  0  0  1000  1  1
+exhaust 5000  51000  5000  1  0  0  4993  1  1

@@ -1,0 +1,27 @@
+control  1  1
+icw before connect  0  0  0  0  0  1  1
+icw before connect  1  0  0  0  0  1  1
+icw before connect  2  -1  10022  0  0  1  1
+icw before connect  3  -1  10022  0  0  1  1
+icw before connect  4  -1  10022  0  0  1  1
+icw before connect  5  -1  10022  0  0  1  1
+icw before connect  6  -1  10022  0  0  1  1
+icw before connect  253  -1  10022  0  0  1  1
+icw before connect  254  0  0  0  0  1  0
+icw before connect  255  -1  10022  0  0  1  1
+icw before connect  256  -1  10022  0  0  1  1
+icw before connect  1000  -1  10022  0  0  1  1
+icw before connect  -1  -1  10022  0  0  1  1
+icw after connect  0  0  0  0  0  1  1
+icw after connect  1  0  0  0  0  1  1
+icw after connect  2  -1  10022  0  0  1  1
+icw after connect  3  -1  10022  0  0  1  1
+icw after connect  4  -1  10022  0  0  1  1
+icw after connect  5  -1  10022  0  0  1  1
+icw after connect  6  -1  10022  0  0  1  1
+icw after connect  253  -1  10022  0  0  1  1
+icw after connect  254  0  0  0  0  1  1
+icw after connect  255  -1  10022  0  0  1  1
+icw after connect  256  -1  10022  0  0  1  1
+icw after connect  1000  -1  10022  0  0  1  1
+icw after connect  -1  -1  10022  0  0  1  1

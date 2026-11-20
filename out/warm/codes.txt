@@ -1,0 +1,8 @@
+ref_wsfionread failed
+ref_wsringmix 42
+ref_wsicw 42
+ref_wsreservebig 42
+ref_wsfionread32 timeout
+ref_wsringmix32 42
+ref_wsicw32 42
+ref_wsreservebig32 42

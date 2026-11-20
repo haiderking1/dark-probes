@@ -1,0 +1,20 @@
+skip a big one  0  600  10600  10035
+skip a big one  1  10600  20100  30100  40300  10035
+exact fit then one byte  0  1024  10035
+exact fit then one byte  1  10001  10035
+one byte short then one byte  0  1023  10001  10035
+one byte short then one byte  1  10001  20001  10035
+bigger than the buffer  0  100  12000  10035
+bigger than the buffer  1  20050  10035
+only a big one  0  1500  10035
+only a big one  1  10010  10035
+big then small  0  500  10600  10035
+big then small  1  10600  20020  30030  10035
+growing  0  100  10200  20300  30400  40500  10035
+growing  1  30400  40500  50600  10035
+shrinking  0  600  10500  10035
+shrinking  1  20400  30300  40200  50100  10035
+empty datagrams  0  50000  50000  50000  50000  10035
+empty datagrams  1  50000  50000  50000  50000  10035
+one byte each  0  1  10001  20001  30001  40001  50001  10035
+one byte each  1  1  10001  20001  30001  40001  50001  10035
