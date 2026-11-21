@@ -1,0 +1,3 @@
+dump wide debug output 13 returned
+assert childassert wide debug output 54 raised 0x80000003
+ exit 0x80000003
