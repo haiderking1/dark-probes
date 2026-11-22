@@ -1,0 +1,9 @@
+zeroed | 0 0 0 0 0 0 0 0 ` ` ` ` ` ` ` `
+scheduled | 0 0 ctx 1 0 0 0 0 ` ` ` ` ` ` ` `
+wait 1 ran 1
+waited | 0 0 ctx 0 0 0 0 0 ` ` ` ` ` ` ` `
+again: wait 1 ran 1
+waited again | 0 0 ctx 0 0 0 0 0 ` ` ` ` ` ` ` `
+canceled | 0 0 ctx 0 3 0 0 0 ` ` ` ` ` ` ` `
+canceled: wait 2 ran 0
+canceled waited | 0 p ctx 0 15 0 0 0 ` ` ` ` ` ` ` `
