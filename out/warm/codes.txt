@@ -1,0 +1,2 @@
+ref_crtownstdio 42
+ref_crtownstdio32 42

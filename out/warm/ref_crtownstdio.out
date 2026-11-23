@@ -1,0 +1,6 @@
+arrays apart 1 1 1 1 1 1
+msvcrt.dll fopen slot 3
+msvcr100.dll fopen slot 3
+msvcr110.dll fopen slot 3
+msvcr120.dll fopen slot 3
+stdout order 21
