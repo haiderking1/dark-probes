@@ -1,0 +1,2 @@
+ref_vcminventory 42
+ref_vcminventory32 42
