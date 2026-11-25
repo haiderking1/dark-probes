@@ -1,0 +1,2 @@
+ref_mfcframe failed
+ref_mfcframe32 timeout
