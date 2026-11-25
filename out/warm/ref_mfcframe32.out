@@ -1,0 +1,90 @@
+frame-made  0 - 1 []
+create  1  1
+seen-create c1
+frame-title [DarkFrame]
+frame  1 [Afx] [DarkFrame]  0x4cfc000  0x100  0  0
+view  1 [Afx] []  0x50000000  0x200  59648  0
+view-parent  1  1
+layout-made  1  1
+active-made  0  0  1 - 1
+seen-made -
+frame-shown  1 [Afx] [Doc - DarkFrame]  0x14cfc000  0x100  0  1
+active-shown  1  1  1  0
+seen-shown i0u0f0a1f1a1
+layout-resized  1  1
+seen-update-all u7
+frame-retitled  1 [Afx] [Second - DarkFrame]  0x14cfc000  0x100  0  1
+view-calc  10  20  110  120
+view-calc-border  8  18  112  122
+tracking  0
+tracking-same  1
+tracking-diff  1
+cmd-all  1
+cmd-all-seen q0
+cmd-doc  1
+cmd-doc-seen s0
+cmd-frame  1
+cmd-frame-seen r0
+cmd-app  1
+cmd-app-seen t0
+cmd-none  0
+cmd-none-seen -
+cmd-view-doc  1
+cmd-view-doc-seen s0
+cmd-view-first  1
+cmd-view-first-seen q0
+modal-start  1  1  1
+modal-once  0  1  1  1
+modal-twice  0  1  1  2
+modal-one-end  0  1  1  1
+modal-off  1  1  1  0
+direct-accel  1
+pretrans-accel  1
+pretrans-key-miss  0
+pretrans-mouse  0
+oncommand  1  273
+oncommand-seen r0
+app-vtables  1  7
+app-vtables-seen m0e0
+query-main-yes  1
+query-main-yes-seen m0
+query-main-no  0
+query-main-no-seen m0
+query-not-main  1
+query-not-main-seen -
+end-not-ending  0
+end-not-ending-seen -
+end-not-main  0
+end-not-main-seen -
+userctrl-before  1
+end-main  0
+end-main-seen e0
+userctrl-after  1
+end-diff-frame
+end-diff-view
+end-diff-doc
+end-diff-app
+palette-calls  0
+palette-seen -
+cursor-client  0
+cursor-client-seen -
+cursor-caption  0
+cursor-caption-seen -
+sys-unknown  0
+sys-unknown-seen -
+sys-minimize  1
+sys-minimize-seen a0f0
+menu-start  0  0  0  1
+menu-set  1  1  0  1  1
+menu-null  1  0  0  1
+menu-replace-default  1  1  1  0
+update-doc-menu  1
+update-doc-menu-seen g0
+update-alt-menu  1
+update-alt-menu-seen -
+update-default-menu  1  1
+update-default-menu-seen g0
+delay-menu  0  1 0x1
+idle-after-delay  1  1 0x0
+cancelmodes-child  1
+cancelmodes-frame  1

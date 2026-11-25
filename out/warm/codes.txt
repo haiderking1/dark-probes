@@ -1,0 +1,2 @@
+ref_mfcframe 42
+ref_mfcframe32 timeout
