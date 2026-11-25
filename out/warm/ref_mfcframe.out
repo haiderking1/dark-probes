@@ -1,0 +1,243 @@
+frame-made  0 - 1 []
+create  1  1
+seen-create c1
+frame-title [DarkFrame]
+frame  1 [Afx] [DarkFrame]  0x4cfc000  0x100  0  0
+view  1 [Afx] []  0x50000000  0x200  59648  0
+view-parent  1  1
+layout-made  1  1
+active-made  0  0  1 - 1
+seen-made -
+frame-shown  1 [Afx] [Doc - DarkFrame]  0x14cfc000  0x100  0  1
+active-shown  1  1  1  0
+seen-shown i0u0f0a1f1a1
+layout-resized  1  1
+seen-update-all u7
+frame-retitled  1 [Afx] [Second - DarkFrame]  0x14cfc000  0x100  0  1
+view-calc  10  20  110  120
+view-calc-border  8  18  112  122
+tracking  0
+tracking-same  1
+tracking-diff  1
+cmd-all  1
+cmd-all-seen q0
+cmd-doc  1
+cmd-doc-seen s0
+cmd-frame  1
+cmd-frame-seen r0
+cmd-app  1
+cmd-app-seen t0
+cmd-none  0
+cmd-none-seen -
+cmd-view-doc  1
+cmd-view-doc-seen s0
+cmd-view-first  1
+cmd-view-first-seen q0
+modal-start  1  1  1
+modal-once  0  1  1  1
+modal-twice  0  1  1  2
+modal-one-end  0  1  1  1
+modal-off  1  1  1  0
+accel-start  0  0
+accel-load  1  1  1  1
+accel-load-missing  0  0
+accel-load-replace  1  1  1  1  1
+accel-old-table  1
+direct-accel  1
+pretrans-accel  1
+pretrans-key-miss  0
+pretrans-mouse  0
+oncommand  1  273
+oncommand-seen r0
+app-vtables  1  7
+app-vtables-seen m0e0
+query-main-yes  1
+query-main-yes-seen m0
+query-main-no  0
+query-main-no-seen m0
+query-not-main  1
+query-not-main-seen -
+end-not-ending  0
+end-not-ending-seen -
+end-not-main  0
+end-not-main-seen -
+userctrl-before  1
+end-main  0
+end-main-seen e0
+userctrl-after  1
+end-diff-frame
+end-diff-view
+end-diff-doc
+end-diff-app
+palette-calls  0
+palette-seen -
+cursor-client  0
+cursor-client-seen -
+cursor-caption  0
+cursor-caption-seen -
+sys-unknown  0
+sys-unknown-seen -
+sys-before  1  1  1  0
+sys-minimize  1  0  0  0  0
+sys-minimize-seen a0f0
+menu-start  0  0  0  1
+menu-set  1  1  0  1  1
+menu-null  1  0  0  1
+menu-replace-default  1  1  1  0
+update-doc-menu  1
+update-doc-menu-seen g0
+update-alt-menu  1
+update-alt-menu-seen -
+update-default-menu  1  1
+update-default-menu-seen g0
+delay-menu  0  1 0x1
+idle-after-delay  1  1 0x0
+cancelmodes-child  1
+cancelmodes-frame  1
+cancelmodes-ownerstate  1  1  0
+cancelmodes-activestate  1
+cancelmodes-popup  1
+cancelmodes-focusstate  1
+cancelmodes-focusedpopup  1
+cancelmodes-direct  0
+popup-update 0x0 0x3 0x110
+popup-system 0x0
+popup-noauto 0x0
+initmenu-state 0x0
+menuselect-item  1911
+menuselect-popup  0
+menuselect-system  1911
+menuselect-close  57345 0x60 0x20
+msgbar-none  0
+msgbar-raw-scan 0x0 0x0 0xf
+msgbar  1  1  1  1
+msgtext-direct [Direct Text]
+msgtext-id [Status Text]
+msgstring-900 [Status Text]  1
+msgstring-901 [Plain Status]  1
+msgstring-902 []  1
+msgstring-999 []  1
+onset-id  1234  900
+onset-id-text [Status Text]
+onset-text  1234  0
+onset-text-text [Private Text]
+onset-clear  1234  0
+onset-clear-text []
+onpop-id  1234  901
+onpop-id-text [Plain Status]
+onpop-blocked  0  1234
+onpop-blocked-text [Plain Status]
+enteridle-drained []
+enteridle-dialog []
+enteridle-menu []
+enteridle-posted  0  0
+enteridle-pumped []
+menuchar 0x0
+menubar-start  1  1  1  1  1
+menubar-vis-keep  1  1  1
+menubar-vis-focus  2  2  2  1  0
+menubar-vis-f10  6  6  2  1  0
+menubar-vis-restore  1  1  1  1
+menubar-hide  1  2  2  1  0
+menubar-hide-again  0  2  0
+menubar-show  1  1  1  1  1
+mbinfo-frame-menu  1  48  8  31  492  50  1  1  0  0
+mbinfo-frame-item  1  48  8  31  43  50  1  1  0  0
+mbinfo-frame-item2  1  48  43  31  61  50  1  1  0  0
+mbinfo-frame-item3  1  48  61  31  154  50  1  1  0  0
+mbinfo-window-rect  500  300
+mbinfo-frame-client  0  48  9  9  9  9  0  0  0  9
+mbinfo-raw-menu  1  48  8  31  492  50  1  1  0  0
+tooltip-child  1  900
+tooltip-900  1  0  0  0 [Menu Text]  0
+tooltip-901  1  0  0  0 []  0
+tooltip-999  0  777  0  0 []  0
+tooltip-wnd  1  0  0  0 [Menu Text]  0
+tooltip-ansi  1  0  0  0 [Menu Text]  0
+focus-before-destroy  1  1  1  0  1
+destroyed  0  0  0
+seen-destroyed a0a0x1c0X1
+two-1  1 [Afx] [Second:1 - DarkFrame]  0x14cfc000  0x100  0  1
+two-2  1 [Afx] [Second:2 - DarkFrame]  0x14cfc000  0x100  0  1
+two-windows  1  2
+top-before  0
+top-normal  1
+top-hide  0
+top-noactivate  0
+owned-start  1  1
+owned-hidden  1
+owned-shown  1
+popup-start  1  1
+popup-hidden  1
+popup-shown  1
+popup-owner-hidden  1
+popup-owner-still-hidden  1
+desc-start  1  1  1
+desc-hidden  1  1  1
+desc-shown  1  1  1
+desc-hidden-stays  0
+suffixed  1 [Afx] [DarkFrame - Second:1]  0x14cf8000  0x100  0  1
+no-document  1 [Afx] [DarkFrame]  0x14cf8000  0x100  0  1
+close-before  1
+close-after  0
+one-left  1 [Afx] [DarkFrame - Second]  0x14cf8000  0x100  0  1
+one-window  0
+seen-two c1c1i0u0f0a1f1a1i0u0f0f0a1f1a1f0a1f1f0a1f1f0a1f1a0x1c1X1a0x1c0X1
+iconclass-920  1  1 0xb  1 0x6  1
+iconclass-repeat  1
+iconclass-noicon  0  0 0x0  0 0x0  0
+iconclass-noicon-rel  0  0
+iconclass-missing  0  0 0x0  0 0x0  0
+iconclass-missing-rel  1  0
+iconclass-maximized  1  1 0xb  1 0x6  1
+iconclass-maximized-rel  1
+iconclass-hook-reject  1  1 0xb  1 0x6  1
+iconclass-hook-reject-rel  1  1
+iconclass-hook-nullclass  0  0 0x0  0 0x0  0
+iconclass-hook-nullclass-rel  0
+iconclass-hook-same  0  0 0x0  0 0x0  0
+iconclass-hook-same-rel  0  0
+iconclass-hook-missing  0  0 0x0  0 0x0  0
+iconclass-hook-missing-rel  0  0
+loadframe-complete  1  1  1  1  1  1
+loadframe-window  1 [Afx] [Loaded Frame]  0x4cfc000  0x300  1  0
+loadframe-class-live  1  1 0xb  1 0x6  1
+loadframe-class-same  1
+loadframe-noicon  1  1  1  1
+loadframe-noicon-window  1 [Afx] [No Icon Frame]  0x4cfc000  0x300  1  0
+loadframe-noicon-class-default  1
+loadframe-noaccel  1  1  1  0
+loadframe-nomenu  0  0  0  0
+loadframe-nostring  1  1  1  1
+loadframe-nostring-window  1 [Afx] []  0x4cfc000  0x300  1  0
+loadframe-missing  0  0  0  0
+helphit 0x204d2  1  0
+commandhelp-auto 0x1  1 0x204d2 0x1
+commandhelp-id 0x1  1 0x4d 0x1
+help-prompt  1 0x4d 0x1
+help-failedprompt  0
+help-zero  1 0x204d2 0x1
+canenter-hooked  1  1 0xe145 0x0  0  1
+updatecontext-notmain  1  0
+updatecontext-off  0  1  0
+updatecontext-on  8  1  0
+helpcapture-active  1  1
+helpcapture-off  1  77  0
+helpcapture-client  1  1  1  1
+helpcapture-caption  1  1  1  1
+processhelp-move  1 0x37  1  1
+processhelp-down  0 0x204d2  1  1
+processhelp-escape  0  55  1  1
+contexthelp-active  1  1
+contexthelp-drain  0  0  1 0x367  1
+contexthelp-post  2  1  1
+contexthelp-cycle  1  2  0  0
+main-shown  1 - 1
+main  1 [Afx] [Second - MainFrame]  0x15cfc000  0x100  0  1
+quit-before  0
+closemain-before  1
+closemain-after  0
+closemain-seen a0a0x1c0X1
+quit-after  0
+seen-main -
+gone
