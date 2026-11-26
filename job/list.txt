@@ -1,0 +1,2 @@
+ref_d3d11warp_multidraw 7777 30000
+ref_d3d11warp_multidraw32 7777 30000
