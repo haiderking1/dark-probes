@@ -1,0 +1,2 @@
+ref_mfcframe 7777 300000
+ref_mfcframe32 7777 300000
