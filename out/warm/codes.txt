@@ -1,0 +1,2 @@
+ref_d3d11warp_minloddraw 42
+ref_d3d11warp_minloddraw32 42
