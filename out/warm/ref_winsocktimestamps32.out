@@ -1,0 +1,7 @@
+udp-timestamp-config 0 0 2 0x0
+udp-timestamp-config 0 0 1 0x0
+udp-timestamp-send 0 0 4
+udp-timestamp-recv 0 0 4 20 0x0 0x74 0x69 0x63 0x6b 0xcc 0xcc 0xcc 0xcc
+udp-timestamp-rx-value 20 0 0
+udp-timestamp-tx-value 0 0 8 0 0
+udp-timestamp-tx-consumed -1 10035 0
