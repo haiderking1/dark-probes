@@ -1,0 +1,2 @@
+ref_winsockwahclose 3221225477
+ref_winsockwahclose32 3221225477

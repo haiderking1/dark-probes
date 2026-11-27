@@ -1,0 +1,2 @@
+== ref_winsockwahclose
+== ref_winsockwahclose32
