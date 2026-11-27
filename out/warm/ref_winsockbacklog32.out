@@ -1,0 +1,15 @@
+backlog-unconnected -1 10057 4 0x0 0xcccccccc
+backlog-udp -1 10045 4 0x0 0xcccccccc
+backlog-watch-unconnected -1 10057 0xdddddddd 0x103 0xdddddddd
+backlog-watch-udp -1 10045 0xdddddddd 0x103 0xdddddddd
+backlog-test-query 0 0 4 0x4 0x10000
+backlog-test-short -1 10022 3 0x0 0xcccccccc
+backlog-watch -1 997 0xcccccccc 0x103 0xdddddddd
+backlog-watch-second -1 10004 0xdddddddd 0x103 0xdddddddd
+backlog-second-result 258 4660 0x103 0xdddddddd
+backlog-first-result 258 4660 0x103 0xdddddddd
+backlog-read 4 0x61 0x62 0x63 0x64
+backlog-after-options 0 0 4 0x4 0x10000
+backlog-after-options-result 258 4660 0x103 0xdddddddd
+backlog-after-shutdown 0 4660 0xc0000120 0x0 0 995 0x0 0xcccccccc
+backlog-second-shutdown 258 4660 0x103 0xdddddddd
