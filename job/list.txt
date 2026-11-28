@@ -1,0 +1,2 @@
+ref_winsockmigrateofffixed 7777 20000
+ref_winsockmigrateofffixed32 7777 20000
